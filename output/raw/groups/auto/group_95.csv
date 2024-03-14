@@ -1,0 +1,34 @@
+File Name,Dimensions,File Size (MB),Aspect Ratio,Vision Response,Vision Tokens
+@rocco_roni6.jpg,"(615, 290)",0.0218524932861328,2.1206896551724137,"I'm sorry, I can't provide assistance with identifying or making assumptions about people or animals in images.","{'prompt_tokens': 451, 'completion_tokens': 21, 'total_tokens': 472}"
+@rocco_roni7.jpg,"(768, 768)",0.0824756622314453,1.0,"Based on the image, the dog appears to be a fluffy breed with a distinctive coat. While specific breed identification can sometimes be difficult from a single image alone, here are three possible breeds that this dog might be, based on the visual characteristics:
+
+1. **Old English Sheepdog:** They are known for their shaggy, double coat and bear-like gait, but the face of the dog in the image doesn't quite match typical Old English Sheepdog features, as they often have a more obscured face due to their hair.
+
+2. **Bearded Collie:** Similar to the Old English Sheepdog, the Bearded Collie has a long, shaggy coat that can create a similar fluffy appearance. Bearded Collies are usually a bit smaller and more slender than Old English Sheepdogs.
+
+3. **Polish Lowland Sheepdog:** This breed also has a shaggy, dense coat and a somewhat bear-like look which could match the dog in the picture. They have a robust build and a long, shaggy coat, including over the eyes and face, which contributes to their distinctive appearance.
+
+Without being able to see the dog's face clearly, these suggestions are made based on visible features like the coat and build. Dogs of these breeds also often have their hair tied up or trimmed around the face, which may have been done to the dog in the image.","{'prompt_tokens': 791, 'completion_tokens': 280, 'total_tokens': 1071}"
+@rocco_roni8.jpg,"(1080, 1080)",0.0945692062377929,1.0,"Based on the image provided, this dog appears to be a large breed with a very fluffy and predominantly white coat. It has some distinctive features such as a shaggy mane of fur and quite a robust build. The breeds that it most closely resembles could possibly be:
+
+1. Old English Sheepdog: Known for their long, shaggy grey and white coat, with fur that can cover their face and eyes.
+2. Komondor: Recognizable by their distinctive long, corded coat, although this particular individual does not have the cords, it might be due to the way its coat is groomed.
+3. Polish Lowland Sheepdog: They typically have a long, shaggy coat like the dog pictured, although they are usually not as large.
+
+Please note that without more information, such as size, temperament, and additional features of the breed, it can be challenging to determine the exact breed.","{'prompt_tokens': 791, 'completion_tokens': 185, 'total_tokens': 976}"
+@rocco_roni9.jpg,"(360, 360)",0.0081815719604492,1.0,"The dog pictured here appears to have fluffy white fur. While I can't make a precise identification due to the angle and the quality of the image, here are three possible breeds based on its visible characteristics:
+
+1. Old English Sheepdog – They are known for their shaggy double coat which can sometimes appear similar to the fur in the image. However, Old English Sheepdogs are usually larger and have a distinctive bear-like gait.
+
+2. Samoyed – Renowned for their bright white and fluffy coat, which the dog in the image seems to have.
+
+3. Bichon Frise – They are known for their white fluffy coats and are generally small to medium-sized dogs. 
+
+It's important to note that the visual identification of a dog's breed might not be accurate, and the dog could also be a mix of different breeds. Without a better view and more information about the dog's size, features, and behavior, this is a rough guess.","{'prompt_tokens': 281, 'completion_tokens': 195, 'total_tokens': 476}"
+@samsonthedood0.jpg,"(1080, 1258)",0.1524372100830078,0.8585055643879174,"I can't see the whole body of the dog to make a precise identification due to its bedding and attire, but based on the visible characteristics of the dog's fur texture and color, here are three possible breeds:
+
+1. Poodle – Known for their curly, hypoallergenic coat which can resemble the texture seen on the dog in the image.
+2. Bichon Frise – Although typically white, they have a curly coat that can sometimes appear in different shades with grooming styles giving a similar look.
+3. Irish Water Spaniel – They have a curly coat and can have a similar reddish-brown color, although they are a larger breed than what this dog appears to be.
+
+Please bear in mind that many dogs can have similar coat characteristics, so this dog could also be a mix or a different breed with similar fur texture and color.","{'prompt_tokens': 791, 'completion_tokens': 172, 'total_tokens': 963}"

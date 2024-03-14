@@ -1,0 +1,40 @@
+File Name,Dimensions,File Size (MB),Aspect Ratio,Vision Response,Vision Tokens
+@tinkerbellethedog10.jpg,"(2367, 3550)",0.3516016006469726,0.6667605633802817,"This cute dog appears to be a small, fluffy breed. Based on its specific features such as the fluffy white coat with some grey markings, large expressive eyes, and the overall facial structure, here are three breeds that might resemble this dog:
+
+1. Shih Tzu – Known for their adorable face and long, luxurious coat, which can come in various colors.
+2. Maltese – Typically have a pure white coat, but when mixed with other breeds they could have markings similar to this dog.
+3. Havanese – They have a long, silky coat and can also be found in a variety of colors, including patterns like the one seen on this dog.
+
+Please note that without a definitive pedigree, it's impossible to determine the exact breed, and this dog could be a mix of multiple breeds.","{'prompt_tokens': 1131, 'completion_tokens': 163, 'total_tokens': 1294}"
+@tinkerbellethedog11.jpg,"(2367, 3550)",0.3405189514160156,0.6667605633802817,"Based on the appearance of the dog in the image, here are three possible breeds it could potentially be:
+
+1. Shih Tzu: This dog has the distinctive long, silky coat and short snout that are characteristic of the Shih Tzu breed.
+2. Lhasa Apso: Similar to the Shih Tzu in many ways, the Lhasa Apso also has a long, dense coat, although their personality can differ.
+3. Maltese: While this dog has a longer snout than is typical for a Maltese, it shares the white, silky coat that is common for the breed.
+
+Please note that accurate breed identification can be challenging based upon appearance alone, and mixed breed dogs may exhibit characteristics of multiple breeds.","{'prompt_tokens': 1131, 'completion_tokens': 153, 'total_tokens': 1284}"
+@tinkerbellethedog4.jpg,"(1200, 720)",0.100651741027832,1.6666666666666667,"Based on the features of the dog in the image, such as the size, hair texture, and facial structure, here are three possible breeds that the dog could be:
+
+1. Yorkshire Terrier - Known for its fine, silky hair and small size, the Yorkshire Terrier often has a similar facial structure and tan-and-gray coloration as seen on the dog in the photo.
+
+2. Shih Tzu - Although the hair on the shown dog is not as long as typically seen in Shih Tzus, they can have a similar facial expression and when groomed, can resemble the dog pictured.
+
+3. Maltese - The Maltese breed often has a pure white coat, but can appear similar to the dog in the photo when groomed in a certain fashion and also has comparable size and facial features.
+
+Please note that the exact breed cannot be determined without more information, and many dogs may be mixed breeds that combine features of several breeds.","{'prompt_tokens': 1131, 'completion_tokens': 193, 'total_tokens': 1324}"
+@tinkerbellethedog5.jpg,"(4096, 2731)",0.5574064254760742,1.4998169168802635,"The dog in the image appears to be a small breed with distinct long fur on the ears and a black and white coat. Based on these characteristics, here are three possible breeds the dog could be:
+
+1. Shih Tzu: This breed often has a similar facial structure and long, flowing coat.
+2. Maltese: They are known for their white coat, but they can also have spots of other colors.
+3. Havanese: This breed also has a silky, long coat that can appear in various colors, including black and white.
+
+Please note that without a clearer view of the dog's body shape and other distinguishing features, the breed identification is speculative.","{'prompt_tokens': 1131, 'completion_tokens': 136, 'total_tokens': 1267}"
+@tinkerbellethedog6.jpg,"(225, 225)",0.0114555358886718,1.0,"The dog in the image appears to be a small breed with distinct facial features and fur pattern. Here are three possible breeds the dog could be or have in its lineage:
+
+1. Shih Tzu: This breed often has a distinct face with long, flowing fur and a somewhat similar expression.
+
+2. Maltese: While the fur isn't typically in the same pattern, Malteses are small, often have a similar size and sometimes have facial features that could resemble this dog when groomed a certain way.
+
+3. Yorkshire Terrier: Known for their gray and tan fur and small stature, a Yorkie could share some of the characteristics seen in the dog in the image, particularly the coloring and size.
+
+Without a definitive answer, it's also possible that the dog is a mix of multiple breeds that exhibit similar characteristics.","{'prompt_tokens': 281, 'completion_tokens': 167, 'total_tokens': 448}"

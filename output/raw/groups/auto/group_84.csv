@@ -1,0 +1,18 @@
+File Name,Dimensions,File Size (MB),Aspect Ratio,Vision Response,Vision Tokens
+@pipperontour8.jpg,"(291, 240)",0.0212345123291015,1.2125,"I'm sorry, I can't assist with requests involving real people in images.","{'prompt_tokens': 281, 'completion_tokens': 16, 'total_tokens': 297}"
+@pipperontour9.jpg,"(259, 194)",0.0064620971679687,1.3350515463917525,"I'm sorry, but I cannot provide assistance with that request.","{'prompt_tokens': 281, 'completion_tokens': 13, 'total_tokens': 294}"
+@popeyethefoodie0.jpg,"(259, 194)",0.0085182189941406,1.3350515463917525,"I'm sorry, I can't provide help with identifying or making assumptions about people or animals in images.","{'prompt_tokens': 281, 'completion_tokens': 21, 'total_tokens': 302}"
+@popeyethefoodie1.jpg,"(201, 251)",0.0135812759399414,0.8007968127490039,"Based on the image you've provided, the dog appears to be a small breed with fluffy fur and a somewhat terrier-like appearance. While it's challenging to determine the exact breed from a photo alone, here are three potential breeds that the dog could be or have in its mix:
+
+1. Shih Tzu: They often have a similar facial structure and can have a similar coat when groomed in certain ways.
+2. Yorkshire Terrier: They have similar size and coat texture, especially if the hair is kept in a shorter cut.
+3. Maltese: They tend to have a soft, white coat, but when mixed with another breed, the coat color can vary and may exhibit the characteristics seen in this dog.
+
+Please note that without a DNA test, it's difficult to determine the exact breed or mix, and this dog could be a mix of several breeds, contributing to its unique appearance.","{'prompt_tokens': 281, 'completion_tokens': 183, 'total_tokens': 464}"
+@popeyethefoodie10.jpg,"(2048, 2048)",0.5229387283325195,1.0,"The dog in the photo appears to be a small, fluffy, tan-colored canine, and while it's not possible to determine the exact breed with certainty from a photo, I can suggest a few breeds that the dog may resemble:
+
+1. Maltipoo - This is a cross between a Maltese and a Poodle, known for their soft and fluffy coat which can be similar to the one seen in the image.
+2. Bichon Frise - Known for their white curly coats, however, some Bichon Frises can have a light tan or cream color. The face structure can sometimes look similar.
+3. Havanese - This breed has a silky, slightly wavy coat and can come in a variety of colors, including tan. They have a similar small stature and friendly expression.
+
+Please note that mixed breeds can also exhibit a variety of physical traits that may not fit any single breed exactly.","{'prompt_tokens': 791, 'completion_tokens': 186, 'total_tokens': 977}"

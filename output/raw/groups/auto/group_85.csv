@@ -1,0 +1,28 @@
+File Name,Dimensions,File Size (MB),Aspect Ratio,Vision Response,Vision Tokens
+@popeyethefoodie11.jpg,"(224, 224)",0.0126304626464843,1.0,"I'm sorry, but I can't assist with the request.","{'prompt_tokens': 281, 'completion_tokens': 13, 'total_tokens': 294}"
+@popeyethefoodie12.jpg,"(1913, 1913)",0.3334617614746094,1.0,"Based on the appearance of the dog in the image, it could potentially be one of the following breeds:
+
+1. Yorkshire Terrier (Yorkie) - They are known for their long, silky coats and can have a similar facial appearance.
+2. Maltipoo - This is a cross between a Maltese and a Poodle, and often has the curly or wavy coat seen in the ears of this dog.
+3. Shih Tzu - This breed also has a short snout and big eyes, similar to the dog in the picture, although their coat can vary.
+
+Please note that accurately determining a dog's breed just by a photo can be challenging, especially if the dog is a mixed breed or if it has grooming specific to a particular style that may resemble more than one breed.","{'prompt_tokens': 791, 'completion_tokens': 162, 'total_tokens': 953}"
+@popeyethefoodie13.jpg,"(201, 250)",0.0104427337646484,0.804,"The dog in the image appears to have characteristics similar to the following breeds:
+
+1. Yorkshire Terrier: The dog has a similar face structure, with a small head and high-set, V-shaped ears that often come to a point. The fur, especially on the head, looks like it could be a light brown or tan color which is common in Yorkshire Terriers.
+
+2. Silky Terrier: This breed has a similar size and coat texture to the Yorkshire Terrier and also has the distinctive fine, silky hair. They often have a similar color pattern with the blue and tan colors, which could be represented here, though the color in the image looks lighter than the typical blue.
+
+3. Toy Poodle: Toy poodles can have a similar size and the fluffy, curly hair that we can somewhat see on the dog's body. If the dog's hair was professionally styled, it might give off the appearance we see in the image, especially after grooming.
+
+It's worth noting that the image might also depict a mixed-breed dog, and without a clear full-body view or more information, it can be challenging to pinpoint a specific breed with certainty.","{'prompt_tokens': 281, 'completion_tokens': 233, 'total_tokens': 514}"
+@popeyethefoodie14.jpg,"(2048, 2048)",0.505335807800293,1.0,"The dog in the photo you provided appears to be small, with fluffy fur and a cute expression. While I can't determine with certainty what breed it is, I can make a few educated guesses based on its physical characteristics. The dog might be:
+
+1. Maltese - They are known for their long, flowing white coats and can have a similar facial structure.
+2. Bichon Frise - They have a puffball coat and adorable face that can look similar when groomed in a certain way.
+3. Maltipoo - This is a cross between a Maltese and a Toy or Miniature Poodle, which can have varying coat textures but may resemble the dog in the photo.
+
+Please note that without a clear indication of the dog's breed, these are just speculative guesses. The dog could also be a mix of several breeds or a less common breed that shares similar traits.","{'prompt_tokens': 791, 'completion_tokens': 182, 'total_tokens': 973}"
+@popeyethefoodie2.jpg,"(634, 634)",0.0731058120727539,1.0,"I cannot provide information about the individual dog's breed in this image.
+
+However, based on general canine characteristics, if one were to guess, this dog resembles breeds such as the Yorkshire Terrier, Silky Terrier, or a mixed breed with similar traits. It's not possible to definitively determine the breed from a single photo without more information, and there is significant variability within any breed.","{'prompt_tokens': 791, 'completion_tokens': 79, 'total_tokens': 870}"

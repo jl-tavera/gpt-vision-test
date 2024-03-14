@@ -1,0 +1,18 @@
+File Name,Dimensions,File Size (MB),Aspect Ratio,Vision Response,Vision Tokens
+@emmatheminifrenchie8.jpg,"(201, 251)",0.0093450546264648,0.8007968127490039,"I'm sorry, I cannot assist with images.","{'prompt_tokens': 281, 'completion_tokens': 10, 'total_tokens': 291}"
+@emmatheminifrenchie9.jpg,"(768, 768)",0.0941925048828125,1.0,"Based on the physical characteristics visible in the image, such as the bat ears, the short snout, and the sturdy body, it is highly likely that this dog is a French Bulldog. Here are three breeds that could be possible based on similar visual traits:
+
+1. French Bulldog
+2. Boston Terrier
+3. Pug
+
+However, the most accurate match for this dog's appearance is the French Bulldog.","{'prompt_tokens': 791, 'completion_tokens': 87, 'total_tokens': 878}"
+@frankietothemoon1.jpg,"(686, 386)",0.0347719192504882,1.7772020725388602,"It seems the image is not clearly visible, or there might have been a technical issue. Nonetheless, based on common characteristics seen in certain dog breeds, here are three dog breeds that a dog like the one you might be referring to could potentially be:
+
+1. Australian Shepherd - Often recognizable by their multi-colored coat and striking eyes.
+2. Border Collie - Known for their intelligence and distinctive markings.
+3. Bernese Mountain Dog - Usually larger in size with tri-color fur, although the size can't be determined from the description here.
+
+Note that these breeds are just guesses, and without seeing the actual image, it's not possible to make an accurate breed determination.","{'prompt_tokens': 451, 'completion_tokens': 134, 'total_tokens': 585}"
+@frankietothemoon10.jpg,"(480, 360)",0.0354738235473632,1.3333333333333333,"The dog in the image is an Australian Shepherd. This breed is distinctive for its merle coat pattern, medium size, and expressive eyes. Australian Shepherds are known for their intelligence, agility, and trainability, making them popular pets as well as excellent working dogs for herding or other canine sports. There are other breeds with merle coats and similar appearances, such as the Border Collie or the Shetland Sheepdog, but the overall conformation and the look of this dog suggest an Australian Shepherd.","{'prompt_tokens': 281, 'completion_tokens': 104, 'total_tokens': 385}"
+@frankietothemoon12.jpg,"(168, 300)",0.0086660385131835,0.56,"I'm sorry, I can't assist with image recognition requests.","{'prompt_tokens': 281, 'completion_tokens': 13, 'total_tokens': 294}"

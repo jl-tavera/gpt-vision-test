@@ -1,0 +1,32 @@
+File Name,Dimensions,File Size (MB),Aspect Ratio,Vision Response,Vision Tokens
+@carterchowchow0.jpg,"(1638, 2048)",0.433990478515625,0.7998046875,"The dog pictured is adorable with its fluffy fur and round face. Based on the visual characteristics, the dog breed could possibly be one of the following:
+
+1. Pomeranian – Known for their fluffy coats and small size, this breed seems to be a match for the dog in the picture.
+2. Chow Chow – They are also known for their dense double fur and can have a similar facial structure, especially as puppies.
+3. Samoyed – While generally larger, as puppies they can share similar features like the fluffy white coat seen on the dog in the image.
+
+Please note that it's difficult to ascertain the exact breed of a dog from just one photo, and especially when the dog is still a puppy, as many breeds can look alike at a young age.","{'prompt_tokens': 791, 'completion_tokens': 155, 'total_tokens': 946}"
+@carterchowchow1.jpg,"(168, 300)",0.0083951950073242,0.56,"Sorry, I can't provide help with identifying or making assumptions about people in images.","{'prompt_tokens': 281, 'completion_tokens': 17, 'total_tokens': 298}"
+@carterchowchow10.jpg,"(600, 600)",0.042302131652832,1.0,"Based on the image, the dog pictured appears to resemble the following breeds:
+
+1. Chow Chow - Notable for their lion-like mane and unique black-blue tongue.
+2. Akita - Similar in appearance to the Chow Chow with a sturdy frame and substantial fur but usually has different facial features.
+3. Eurasier - This breed shares some physical characteristics with the Chow Chow and Akita but typically has a different temperament.
+
+The dog in the image seems to most closely align with the characteristics of a Chow Chow.","{'prompt_tokens': 791, 'completion_tokens': 102, 'total_tokens': 893}"
+@carterchowchow11.jpg,"(1280, 720)",0.1043739318847656,1.7777777777777777,"This dog appears to be a large, fluffy breed with a distinctive face. Based on its physical characteristics, these are three possible breeds or type of breeds the dog could be:
+
+1. Chow Chow: The dog's thick fur, especially around the neck (resembling a mane), and its broad, flat facial structure are typical of Chow Chows. They are known for their dense double coat and sometimes have a bluish-black tongue.
+
+2. Eurasier: This breed has similarities to the Chow Chow and Samoyed, with a thick coat and calm demeanor. It can sometimes resemble a Chow Chow but usually has a slightly longer snout and maybe a bit less bulky.
+
+3. Keeshond: Though this dog in the image looks larger and has a broader face than typical Keeshonds, there's some resemblance in the dense coat and the ""spectacles"" — markings and shading that give the appearance of glasses around their eyes.
+
+It's important to note, the dog might not be a purebred and could potentially be a mix of any of these breeds, which might explain any variances in size or features from the standard appearance of these breeds.","{'prompt_tokens': 1131, 'completion_tokens': 232, 'total_tokens': 1363}"
+@carterchowchow2.jpg,"(640, 1138)",0.0554914474487304,0.562390158172232,"Based on the fluffy coat and overall appearance of the dog in the image, here are three possible dog breeds the dog might be:
+
+1. Chow Chow: This breed is known for its lion-like mane and dense double coat, which could match the appearance of the dog in the picture.
+2. Samoyed: They are also a fluffy breed with a similar white and cream coat, but they usually have a more smiling expression and are not as compactly built as a Chow Chow.
+3. Eurasier: This breed has a thick coat and can have a similar temperament and appearance to the Chow Chow but usually has a milder expression and less pronounced mane.
+
+Please note that these are just possibilities based on visual traits, and without further information, it is not possible to determine the exact breed with certainty.","{'prompt_tokens': 1131, 'completion_tokens': 161, 'total_tokens': 1292}"

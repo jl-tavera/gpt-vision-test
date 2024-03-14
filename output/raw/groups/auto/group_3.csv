@@ -1,0 +1,38 @@
+File Name,Dimensions,File Size (MB),Aspect Ratio,Vision Response,Vision Tokens
+@KeyushTheStuntDog2.jpg,"(300, 168)",0.0073747634887695,1.7857142857142858,"The dog in the image appears to be a Siberian Husky, evidenced by its distinctive facial mask, erect triangular ears, and thick double coat. However, based on facial features and general appearance alone, here are three possible breeds or types the dog could be:
+
+1. Siberian Husky - Recognizable through its thick fur, wolf-like appearance, and typically having blue or multi-colored eyes.
+2. Alaskan Malamute - Similar to the Husky but usually larger in size with a more robust build, and typically having brown eyes.
+3. Malamute-Husky Mix - Sometimes, mixes between the two can share characteristics, such as a thick coat and similar facial markings.
+
+Please note without a clear full body image or additional information about size, coat texture, and other identifying breed characteristics, it's not possible to be certain of the breed.","{'prompt_tokens': 281, 'completion_tokens': 174, 'total_tokens': 455}"
+@KeyushTheStuntDog3.jpg,"(900, 900)",0.0767059326171875,1.0,"The dog in the image looks like it could belong to one of the following breeds due to its physical characteristics:
+
+1. Alaskan Malamute: This breed is known for its strength, endurance, and its wolf-like appearance, which includes a thick double coat, erect ears, and a bushy tail that waves over its back.
+
+2. Siberian Husky: They are similar in appearance to the Alaskan Malamute but are usually smaller in size and have a more streamlined build, which is evident in their face and body structure.
+
+3. Malamute-Husky mix: This dog could also be a mix of the Alaskan Malamute and Siberian Husky, which may result in a variation of the features typical of each breed.
+
+Please note that without definitive information on the dog's lineage, specific breed identification based on appearance alone can be challenging and potentially inaccurate.","{'prompt_tokens': 791, 'completion_tokens': 179, 'total_tokens': 970}"
+@KeyushTheStuntDog4.jpg,"(736, 735)",0.0782337188720703,1.0013605442176872,"The dog in the image appears to be a large breed with a thick coat, pronounced markings, and distinctive facial features. Based on its appearance, here are three possible breeds:
+
+1. Alaskan Malamute: They are known for their strength, endurance, independence, and heavy coat, similar to the dog in the photo.
+2. Siberian Husky: This breed is smaller than the Alaskan Malamute but also has thick fur, erect ears, and markings that could match the dog shown.
+3. A mix of the two: The dog could be a mix that shows characteristics of both breeds, given the variations that exist within mixed-breed dogs.
+
+Keep in mind that without genetic testing or confirmation from the owner, it is impossible to determine the exact breed with certainty.","{'prompt_tokens': 791, 'completion_tokens': 158, 'total_tokens': 949}"
+@KeyushTheStuntDog6.jpg,"(1280, 720)",0.1194944381713867,1.7777777777777777,"The dog in the image appears to be a Siberian Husky. This is indicated by its thick double coat, erect triangular ears, and distinctive facial markings, which are typical characteristics of the breed. However, if you're looking for three possible breeds based on a visual estimation, here are three:
+
+1. Siberian Husky: As mentioned above, this breed is known for its thick coat, wolf-like features, and often has blue or multi-colored eyes.
+2. Alaskan Malamute: Another breed that resembles the Siberian Husky, though they are usually larger and have a more robust build.
+3. Samoyed: This is a less likely option due to the color and markings, but Samoyeds also have a thick, fluffy coat and can sometimes have similar facial structures to Huskies.
+
+Of the three, the Siberian Husky appears to be the closest match to the dog in the image.","{'prompt_tokens': 1131, 'completion_tokens': 187, 'total_tokens': 1318}"
+@KeyushTheStuntDog7.jpg,"(400, 174)",0.013427734375,2.2988505747126435,"Based on the visible features in the image, here are three possible dog breeds the dog might be:
+
+1. Siberian Husky: Notable for their thick fur, distinctive markings, and striking eyes, which can be blue, brown, or a combination of both.
+2. Alaskan Malamute: Similar to Huskies, they are large, powerfully built dogs with a thick coat, often used for their strength and endurance.
+3. Mixed Breed: The dog could be a mix of breeds that share physical traits with the Siberian Husky, Alaskan Malamute, or other similar northern breeds known for their dense fur and distinct facial markings.
+
+Keep in mind that without seeing the whole dog and other characteristic traits, it's difficult to determine the exact breed with certainty.","{'prompt_tokens': 281, 'completion_tokens': 159, 'total_tokens': 440}"

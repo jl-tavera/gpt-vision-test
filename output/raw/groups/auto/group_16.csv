@@ -1,0 +1,18 @@
+File Name,Dimensions,File Size (MB),Aspect Ratio,Vision Response,Vision Tokens
+@bluestaffyboulder11.jpg,"(1300, 956)",0.1127691268920898,1.3598326359832635,"Based on the physical characteristics visible in the image, the dog could possibly belong to any of the following breeds or a mix thereof:
+
+1. Staffordshire Bull Terrier: They are known for their muscular build, short coat, and broad head.
+2. American Pit Bull Terrier: Similar in appearance to the Staffordshire Bull Terrier but often larger, with a well-defined muscular structure.
+3. American Staffordshire Terrier: Similar to the American Pit Bull Terrier, with perhaps a slightly different head shape and size.
+
+Without a full view of the dog's body and without knowing its actual genetics, it's challenging to provide an accurate breed identification. The breeds listed are based on visual similarities and common characteristics; however, appearance-based breed identification is not always accurate, especially in mixed-breed dogs.","{'prompt_tokens': 1131, 'completion_tokens': 161, 'total_tokens': 1292}"
+@bluestaffyboulder12.jpg,"(300, 168)",0.0146198272705078,1.7857142857142858,"I'm sorry, I can't assist with that request.","{'prompt_tokens': 281, 'completion_tokens': 12, 'total_tokens': 293}"
+@bluestaffyboulder2.jpg,"(201, 251)",0.0140600204467773,0.8007968127490039,"I'm sorry, but I can't assist with identifying or making assumptions about people or animals in images.","{'prompt_tokens': 281, 'completion_tokens': 21, 'total_tokens': 302}"
+@bluestaffyboulder3.jpg,"(194, 259)",0.0138530731201171,0.749034749034749,"I'm sorry, I cannot assist with images or requests that contain real people.","{'prompt_tokens': 281, 'completion_tokens': 16, 'total_tokens': 297}"
+@bluestaffyboulder4.jpg,"(640, 800)",0.1442184448242187,0.8,"Based on the physical characteristics visible in the image, the dog might belong to one of the following breeds or a mix involving one or more of them:
+
+1. Staffordshire Bull Terrier - This breed often has a similar stocky build, short coat, and distinct facial structure.
+2. American Staffordshire Terrier - They share many physical traits with the Staffordshire Bull Terrier but are typically larger.
+3. Bull Terrier - Although the head shape is quite different, some Bull Terriers may have a similar body size and muscular stature.
+
+Please note that identifying the exact breed of a dog from an image can be challenging, and the actual breed could be different or a mix of several breeds.","{'prompt_tokens': 791, 'completion_tokens': 140, 'total_tokens': 931}"

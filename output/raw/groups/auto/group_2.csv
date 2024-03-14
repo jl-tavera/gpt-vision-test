@@ -1,0 +1,29 @@
+File Name,Dimensions,File Size (MB),Aspect Ratio,Vision Response,Vision Tokens
+@Chompersthecorgi7.jpg,"(1280, 1280)",0.1028804779052734,1.0,"The dog in the image appears to be a Pembroke Welsh Corgi, characterized by its short stature, distinctive ears, and foxy face. It's dressed in a sports jersey and wearing sunglasses for what looks like a humorous or themed photo. While the dog seems to be a Pembroke Welsh Corgi, just for the exercise, here are three possible dog breeds one might consider when only having a quick look at various dogs:
+
+1. Pembroke Welsh Corgi – They typically have short legs, a long body, and upright ears, much like the dog in the picture.
+2. Cardigan Welsh Corgi – Similar in appearance to the Pembroke Welsh Corgi, but with slightly different physical characteristics such as a longer tail.
+3. Shetland Sheepdog – They sometimes resemble a small Collie and could be confused with a Corgi due to similar markings, but Shelties have different body proportions and a different type of coat.
+
+However, given the clear visual characteristics presented in the image, it's most accurate to say the dog is a Pembroke Welsh Corgi.","{'prompt_tokens': 791, 'completion_tokens': 225, 'total_tokens': 1016}"
+@Chompersthecorgi9.jpg,"(500, 679)",0.0333452224731445,0.7363770250368189,"The dog in the image is a Pembroke Welsh Corgi. Due to the clear depiction of the dog's physical features such as its distinctive short legs, erect ears, and foxy face, it's unmistakable as the Pembroke Welsh Corgi breed. As a result, suggesting alternative breeds isn't applicable because the identification of this dog breed is quite distinct. However, if you are looking for breeds with some visual similarities, you might consider:
+
+1. Cardigan Welsh Corgi – They are similar to the Pembroke Welsh Corgi but usually have a longer tail and can come in different color patterns.
+2. Swedish Vallhund – Sometimes likened to the Corgi breeds, they also have a sturdy body and short legs.
+
+Keep in mind that the Pembroke Welsh Corgi and Cardigan Welsh Corgi are distinct breeds, while the Swedish Vallhund is a different breed with a similar appearance. The dog in the photo is a Pembroke Welsh Corgi, and this identification is made with high confidence.","{'prompt_tokens': 451, 'completion_tokens': 213, 'total_tokens': 664}"
+@KeyushTheStuntDog0.jpg,"(300, 300)",0.0152959823608398,1.0,"The dog in the photo appears to possess traits that are characteristic of the following breeds:
+
+1. Siberian Husky
+2. Alaskan Malamute
+3. Canadian Eskimo Dog
+
+However, based on the facial markings and the overall look, it most closely resembles a Siberian Husky.","{'prompt_tokens': 281, 'completion_tokens': 61, 'total_tokens': 342}"
+@KeyushTheStuntDog1.jpg,"(1280, 720)",0.0760078430175781,1.7777777777777777,"The dog in the image appears to be an Alaskan Malamute. This breed is known for its strength, heavy fur, and resemblance to wolves. Based on the characteristics visible in the photo, the Alaskan Malamute seems to be the most likely breed. However, without further details, it's not possible to definitively identify the breed. If the dog is not an Alaskan Malamute, other breeds with similar physical characteristics include:
+
+1. Siberian Husky: Known for their thick fur, erect ears, and distinctive markings, but usually smaller and more agile than the Alaskan Malamute.
+2. Tamaskan Dog: A breed designed to look like a wolf, with a similar coat and coloring, but it is rarer than Huskies and Malamutes.
+3. Utonagan: Another breed meant to resemble a wolf with similar physical traits but is not as common as the previous breeds mentioned.
+
+Without genetic testing or breed papers, it's difficult to be certain about the dog's breed.","{'prompt_tokens': 1131, 'completion_tokens': 208, 'total_tokens': 1339}"
+@KeyushTheStuntDog10.jpg,"(640, 480)",0.0277767181396484,1.3333333333333333,"The dog in the image appears to be a Siberian Husky, which is characterized by its thick double coat, erect triangular ears, and distinctive markings. Two other breeds that sometimes have a similar look could be the Alaskan Malamute, which tends to be larger and more robust than the Husky, and the Alaskan Klee Kai, which is a smaller breed resembling a miniature Husky. Remember, without knowing the specific dog and its background, these breed suggestions are just educated guesses based on the visual characteristics shown in the image.","{'prompt_tokens': 451, 'completion_tokens': 109, 'total_tokens': 560}"

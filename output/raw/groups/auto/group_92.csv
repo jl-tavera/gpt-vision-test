@@ -1,0 +1,36 @@
+File Name,Dimensions,File Size (MB),Aspect Ratio,Vision Response,Vision Tokens
+@reagandoodle3.jpg,"(600, 600)",0.0509090423583984,1.0,"Based on the image provided, here are three dog breeds that share a similar appearance to the dog pictured:
+
+1. Australian Labradoodle: This breed is known for its curly and soft coat, which can be seen in various colors, including the caramel or golden hue that resembles the one in the photo.
+2. Goldendoodle: This is a crossbreed between a Golden Retriever and a Poodle and can have a shaggy coat similar to the one observed in the picture.
+3. Irish Setter: While this breed typically has a more silky and flat coat, some individuals might have a slightly wavier appearance that could look similar under certain conditions.
+
+These are merely guesses based on the dog's physical appearance; without a definitive breed confirmation, these suggestions are speculative.","{'prompt_tokens': 791, 'completion_tokens': 157, 'total_tokens': 948}"
+@reagandoodle4.jpg,"(740, 740)",0.0963201522827148,1.0,"This dog appears to be a Labradoodle, which is a cross between a Labrador Retriever and a Poodle. They often have a curly or wavy coat, which is evident in this image.
+
+Another possible breed could be a Goldendoodle, which is a mix between a Golden Retriever and a Poodle. These also have similar curly or wavy coats and friendly expressions.
+
+A third possibility, although less likely based on the curly coat, could be an Irish Setter, particularly because of the reddish color of the coat. However, the curl of the coat suggests it's more likely a poodle mix, as Irish Setters have straighter coats.
+
+Given the prevalence of designer mixed breeds involving Poodles, the dog in the image is very likely to be some sort of Poodle mix due to its coat texture and body structure.","{'prompt_tokens': 791, 'completion_tokens': 172, 'total_tokens': 963}"
+@reagandoodle5.jpg,"(750, 750)",0.0871210098266601,1.0,"The dog in the image appears to be a medium-sized, fluffy, and teddy-bear-like breed. Based on these visual characteristics, three possible breeds for the dog could be:
+
+1. Labradoodle - a cross between a Labrador Retriever and a Poodle, known for its friendly nature and curly or wavy coat.
+2. Goldendoodle - a mix between a Golden Retriever and a Poodle, which typically has a friendly demeanour and a shaggy coat.
+3. Cockapoo - a mix between a Cocker Spaniel and a Poodle, which can have a similar appearance with a soft, wavy coat.
+
+These breeds often have similar physical traits, including the fluffy coat and friendly expression seen in the dog in the image.","{'prompt_tokens': 791, 'completion_tokens': 157, 'total_tokens': 948}"
+@reagandoodle6.jpg,"(600, 600)",0.0823917388916015,1.0,"In the image, the dog looks like it could possibly be one of the following breeds or a mix involving them:
+
+1. Labradoodle (a cross between a Labrador Retriever and a Poodle)
+2. Goldendoodle (a cross between a Golden Retriever and a Poodle)
+3. Cockapoo (a cross between a Cocker Spaniel and a Poodle)
+
+These breeds are known for their curly or wavy coats and friendly disposition, which seem to be characteristics of the dog in the picture. However, without more information, it's difficult to determine the exact breed with certainty.","{'prompt_tokens': 791, 'completion_tokens': 124, 'total_tokens': 915}"
+@reagandoodle7.jpg,"(600, 600)",0.0547008514404296,1.0,"Based on the dog's appearance in the image, I can suggest three possible breeds:
+
+1. Cavalier King Charles Spaniel – The dog has a similar head structure, floppy ears, and a silky coat akin to a Cavalier King Charles Spaniel.
+2. Cocker Spaniel – This breed also has long ears and a wavy coat that could match the dog's looks.
+3. A Cocker Spaniel/Cavalier King Charles Spaniel mix – Given the dog's facial features and fur texture, it could be a mix of these two popular spaniel breeds.
+
+Please note that without a definitive view of the dog's overall body shape, size, and other breed-specific traits, it is challenging to precisely identify the breed from an image.","{'prompt_tokens': 791, 'completion_tokens': 151, 'total_tokens': 942}"

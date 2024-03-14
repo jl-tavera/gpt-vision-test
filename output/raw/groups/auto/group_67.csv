@@ -1,0 +1,40 @@
+File Name,Dimensions,File Size (MB),Aspect Ratio,Vision Response,Vision Tokens
+@marniethedog4.jpg,"(3000, 1943)",0.3887338638305664,1.5440041173443129,"Based on the image provided, the dog appears to have some distinctive features such as a small size, a short snout, and long, shaggy fur. Given those characteristics, the dog could potentially be one of the following breeds or a mix that includes traits from these breeds:
+
+1. Shih Tzu - known for their short snout, abundant coat, and small size.
+2. Lhasa Apso - characterized by their long, dense coat and similar facial structure to the Shih Tzu.
+3. Pekingese - another small breed with a long coat and short snout, similar to the two breeds mentioned above.
+
+It's important to note that without a definitive pedigree, determining the exact breed can be difficult, especially if the dog is a mixed breed.","{'prompt_tokens': 1131, 'completion_tokens': 158, 'total_tokens': 1289}"
+@marniethedog5.jpg,"(1200, 800)",0.0883169174194336,1.5,"Based on the photo provided, the dog appears to be a small breed with a relatively flat face, prominent eyes, and a long coat. It can be challenging to determine the exact breed as many dogs may have similar features or could be a mix of breeds. However, here are three possible breeds that the dog might be, based on visual characteristics:
+
+1. Shih Tzu: Known for their long, flowing coats and distinctive faces with short muzzles, Shih Tzus are a popular small breed that could match the dog's appearance in the photo.
+
+2. Brussels Griffon: Although their coats are usually a bit rougher, Brussels Griffons have a similar face shape with a short nose and prominent eyes.
+
+3. Pekingese: These small dogs have a lion-like mane and flat faces. Their coat can also be long and would require regular grooming to maintain the appearance similar to the dog in the photo.
+
+Keep in mind that a dog can also be a mix of multiple breeds, which can make it difficult to identify specific breeds based on appearances alone.","{'prompt_tokens': 1131, 'completion_tokens': 216, 'total_tokens': 1347}"
+@marniethedog6.jpg,"(2048, 1692)",0.4282484054565429,1.210401891252955,"The dog in the image appears to be a small-sized breed with a distinctive pushed-in face and a long tongue. Here are three possible breeds this dog could be:
+
+1. Shih Tzu: This dog breed is known for its distinctive face, long fur, and friendly character, all of which seem to be present in this dog.
+
+2. Lhasa Apso: Similar to Shih Tzus in many ways, Lhasa Apsos have a comparable facial structure and coat texture.
+
+3. Pekingese: This breed also features a ""squashed"" face and can have a similar appearance to the dog in the photo, but they typically have a more abundant, longer coat.
+
+Please note that the dog could also be a mix of any of these breeds or others with similar traits.","{'prompt_tokens': 791, 'completion_tokens': 163, 'total_tokens': 954}"
+@marniethedog7.jpg,"(1000, 1000)",0.077244758605957,1.0,"I'm sorry, but I can't provide the exact breed of the dog in the image. However, based on the dog's appearance, if I were to speculate, I could suggest it might be one of these three breeds or similar to them:
+
+1. Shih Tzu
+2. Pekingese
+3. Lhasa Apso
+
+These breeds commonly have similar facial features and fur texture to the dog pictured. Please note that without further information, this identification is a broad guess and the dog in the photo could be a different breed or a mix.","{'prompt_tokens': 791, 'completion_tokens': 114, 'total_tokens': 905}"
+@marniethedog8.jpg,"(1200, 630)",0.1400165557861328,1.9047619047619049,"I'm sorry, but I can't provide specific information on the breed of the dog in the image. However, based on its appearance, with a small size, fluffy coat, and facial structure, it could potentially be similar to the following breeds:
+
+1. Shih Tzu
+2. Lhasa Apso
+3. Maltese
+
+Keep in mind, there are many breeds and mixed breeds that may share similar physical characteristics, and without genetic testing or additional information from an expert, it's impossible to determine the exact breed of a dog from an image alone.","{'prompt_tokens': 1131, 'completion_tokens': 116, 'total_tokens': 1247}"

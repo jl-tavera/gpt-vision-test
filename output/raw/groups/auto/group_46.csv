@@ -1,0 +1,34 @@
+File Name,Dimensions,File Size (MB),Aspect Ratio,Vision Response,Vision Tokens
+@hi_im_chewie3.jpg,"(225, 225)",0.0105524063110351,1.0,"The dog in the image appears to be a Pomeranian. This breed is easily recognized by its fluffy double coat, small size, and distinctive face. Other breeds that have some similar characteristics, although less likely based on the image provided, could include:
+
+1. American Eskimo Dog (Miniature) – They also have a fluffy white coat but are generally larger than the Pomeranian.
+2. Japanese Spitz – This breed has a similar appearance to the Pomeranian but is also typically larger and has a more pointed muzzle.
+3. German Spitz – This breed can look quite similar to the Pomeranian, but it comes in a variety of sizes and might have a different coat texture.
+
+The most accurate breed identification based on the image is a Pomeranian.","{'prompt_tokens': 281, 'completion_tokens': 157, 'total_tokens': 438}"
+@hi_im_chewie4.jpg,"(225, 225)",0.0144987106323242,1.0,"Based on the image provided, the dog appears to be a Pomeranian, which is characterized by its small size, fluffy double coat, and fox-like face. Pomeranians are quite distinctive, but if we were to suggest two other breeds that could potentially have some similar physical traits, they could be:
+
+1. Keeshond - Which has a similar plush coat and is also part of the Spitz family, like the Pomeranian.
+2. American Eskimo Dog - Which also has a dense, fluffy coat and can have a similar appearance, especially in the smaller ""Toy"" variety.
+
+However, it's important to note that the dog in the image is most consistent with the characteristics of a Pomeranian.","{'prompt_tokens': 281, 'completion_tokens': 147, 'total_tokens': 428}"
+@hi_im_chewie5.jpg,"(201, 251)",0.010838508605957,0.8007968127490039,"The dog in the picture appears to be a Pomeranian, which is a breed known for its small size, fluffy coat, and energetic personality. While it seems to be a Pomeranian, if we were exploring other possibilities, dogs with similar physical traits might include:
+
+1. Pomeranian (most likely based on the photo)
+2. German Spitz (similar in appearance to Pomeranians but slightly larger)
+3. American Eskimo Dog (also similar in appearance but typically larger than Pomeranians)
+
+Please note that, without a pedigree or DNA test, determining the exact breed of a dog from a photo can be challenging. However, based on this particular dog's physical characteristics, it strongly resembles a Pomeranian.","{'prompt_tokens': 281, 'completion_tokens': 150, 'total_tokens': 431}"
+@hi_im_chewie6.jpg,"(399, 501)",0.0309362411499023,0.7964071856287425,"The dog in the image appears to be a Pomeranian, which is a breed recognized by its fluffy double coat, fox-like face, and lively personality. It is difficult to suggest other breeds because the distinctive characteristics are quite typical of a Pomeranian, but here are two other small fluffy breeds for the sake of options:
+
+1. Pomeranian (most likely)
+2. German Spitz – Similar in appearance to the Pomeranian but typically larger.
+3. American Eskimo Dog – Also similar in terms of its fluffy coat, but usually whiter and larger than a Pomeranian.
+
+The dog in the photo, however, most closely resembles a Pomeranian.","{'prompt_tokens': 281, 'completion_tokens': 137, 'total_tokens': 418}"
+@hi_im_chewie7.jpg,"(225, 225)",0.0080432891845703,1.0,"This dog appears to be a Pomeranian. Pomeranians are known for their small size, fluffy coat, and fox-like face. It's difficult to provide three possible breeds since the dog in the image has distinct characteristics unique to Pomeranians. However, for the sake of variety, two other small breeds that might sometimes be confused with Pomeranians due to their size and sometimes fluffy coats are:
+
+1. American Eskimo Dog (Miniature) - While they usually have a white coat, they share a spitz-like appearance with Pomeranians.
+2. Keeshond - They have a similar body and coat type but are typically larger and have different coloring.
+
+Do note that based solely on this image, the dog is most likely a Pomeranian.","{'prompt_tokens': 281, 'completion_tokens': 159, 'total_tokens': 440}"

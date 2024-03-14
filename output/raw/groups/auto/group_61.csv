@@ -1,0 +1,30 @@
+File Name,Dimensions,File Size (MB),Aspect Ratio,Vision Response,Vision Tokens
+@loki_the_wolfdog9.jpg,"(225, 225)",0.0143013000488281,1.0,"Sorry, I can't assist with that request.","{'prompt_tokens': 281, 'completion_tokens': 10, 'total_tokens': 291}"
+@madmax_fluffyroad0.jpg,"(225, 225)",0.0079107284545898,1.0,"The dog in the image appears to be a Pembroke Welsh Corgi. It has the characteristic large ears, short legs, and a long body associated with this breed. Here are three possible breeds that could look similar in certain features:
+
+1. Pembroke Welsh Corgi - This breed is likely the primary breed of the dog in the photo.
+2. Cardigan Welsh Corgi - Although slightly different, they share many physical characteristics with the Pembroke Welsh Corgi and could be mistaken by those unfamiliar with the subtle differences between the two breeds.
+3. Shetland Sheepdog - While not as close in appearance as the Welsh Corgi, Shetland Sheepdogs share the pointed ears and similar facial expressions. However, they generally have a longer coat and are not as low to the ground. 
+
+Without additional context or specific breed information, it's safest to say the dog most closely resembles a Pembroke Welsh Corgi.","{'prompt_tokens': 281, 'completion_tokens': 192, 'total_tokens': 473}"
+@madmax_fluffyroad1.jpg,"(201, 251)",0.0107831954956054,0.8007968127490039,"The image you've provided features a small dog with distinct markings and ear shape. Based on the appearance, here are three possible breeds it might be:
+
+1. Pembroke Welsh Corgi - Known for their short stature, large ears, and fox-like face.
+2. Shetland Sheepdog - Although they typically have a longer coat, puppies can have a fluffier appearance similar to what's seen in the image.
+3. Pomeranian - They are a toy breed with a fluffy double coat and are also known for their pointy ears, but they tend to have a more rounded face. 
+
+It's important to note that without a complete view or more information, determining the exact breed can be challenging, and the dog could be a mix of several breeds.","{'prompt_tokens': 281, 'completion_tokens': 156, 'total_tokens': 437}"
+@madmax_fluffyroad11.jpg,"(201, 251)",0.0076541900634765,0.8007968127490039,"The dog in the image appears to be a Pembroke Welsh Corgi, which is characterized by its short stature, erect ears, and long body. While I'm provided with only one dog to assess, here are three possible breeds that share some traits with the dog in the image:
+
+1. Pembroke Welsh Corgi (as it closely resembles the one in the image)
+2. Cardigan Welsh Corgi (they are similar to the Pembroke Welsh Corgi but with some differences in physical traits)
+3. Shetland Sheepdog (a small to medium herding dog that sometimes resembles a miniature Collie and may share some features with the Corgi)
+
+Please note that dog breed identification based on images is not always accurate and can be influenced by the angle, lighting, and individual characteristics of the dog.","{'prompt_tokens': 281, 'completion_tokens': 168, 'total_tokens': 449}"
+@madmax_fluffyroad12.jpg,"(201, 251)",0.0088472366333007,0.8007968127490039,"The dog in the image appears to be a Pembroke Welsh Corgi. This breed is characterized by its short stature, thick double coat, erect ears, and a fox-like appearance. Since you've asked for three possible breeds, despite the dog looking like a typical Pembroke Welsh Corgi, I will list two other breeds that might be considered similar in some aspects, although they do not match as closely:
+
+1. Pembroke Welsh Corgi
+2. Cardigan Welsh Corgi (similar to the Pembroke but with a tail and slightly different body structure)
+3. Shetland Sheepdog (often larger and with a different head shape but sometimes likened to corgis due to their herding background and fluffy coat)
+
+However, based on the visible characteristics, a Pembroke Welsh Corgi is the most likely breed of the dog in the photograph.","{'prompt_tokens': 281, 'completion_tokens': 178, 'total_tokens': 459}"

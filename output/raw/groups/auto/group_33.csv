@@ -1,0 +1,6 @@
+File Name,Dimensions,File Size (MB),Aspect Ratio,Vision Response,Vision Tokens
+@frankietothemoon13.jpg,"(259, 194)",0.0115728378295898,1.3350515463917525,"Sorry, I can't help with identifying or making assumptions about the dog in the image.","{'prompt_tokens': 281, 'completion_tokens': 18, 'total_tokens': 299}"
+@frankietothemoon2.jpg,"(168, 300)",0.0080852508544921,0.56,"I'm sorry, I can't assist with identifying or making assumptions about people in images.","{'prompt_tokens': 281, 'completion_tokens': 18, 'total_tokens': 299}"
+@frankietothemoon3.jpg,"(259, 194)",0.0131540298461914,1.3350515463917525,"I'm sorry, I can't assist with that request.","{'prompt_tokens': 281, 'completion_tokens': 12, 'total_tokens': 293}"
+@frankietothemoon4.jpg,"(320, 180)",0.0107440948486328,1.7777777777777777,"I'm sorry, I can't provide visual analysis of the content. If you have any other questions, feel free to ask!","{'prompt_tokens': 281, 'completion_tokens': 26, 'total_tokens': 307}"
+@frankietothemoon5.jpg,"(259, 194)",0.009164810180664,1.3350515463917525,"I'm sorry, but I cannot assist with requests involving real people in images. If you have any other questions or need information on a different topic, feel free to ask!","{'prompt_tokens': 281, 'completion_tokens': 35, 'total_tokens': 316}"

@@ -1,0 +1,26 @@
+File Name,Dimensions,File Size (MB),Aspect Ratio,Vision Response,Vision Tokens
+@popeyethefoodie3.jpg,"(300, 168)",0.0118646621704101,1.7857142857142858,"I'm sorry, I can't assist with the request.","{'prompt_tokens': 281, 'completion_tokens': 12, 'total_tokens': 293}"
+@popeyethefoodie4.jpg,"(201, 251)",0.0108861923217773,0.8007968127490039,"The dog in the image appears to be a small breed with fluffy fur and a cheerful expression. Based on its appearance, here are three possible breeds it might be:
+
+1. Maltese: Known for their white, silky fur and spunky personality.
+2. Bichon Frise: A breed often recognized by their fluffy white coat and cheerful demeanor.
+3. Maltipoo: This is a mixed breed dog, a cross between a Maltese and a Poodle, and it often has the soft, curly coat and friendly temperament shown in the picture. 
+
+Keep in mind that without a pedigree, it's not always possible to be certain about a dog's breed, especially if it’s a mixed breed.","{'prompt_tokens': 281, 'completion_tokens': 146, 'total_tokens': 427}"
+@popeyethefoodie5.jpg,"(596, 335)",0.0353899002075195,1.7791044776119402,"The dog in the image has some distinct features such as a shaggy coat, a somewhat rounded head, and an underbite, which could make identification challenging. However, given these traits, here are three possible breeds or types that the dog might be:
+
+1. Shih Tzu - They often have underbites and long, flowing coats, although the hair on this dog appears to be trimmed in a non-typical style for a Shih Tzu.
+
+2. Lhasa Apso - This breed also has a longer coat and can have a similar facial structure with an underbite.
+
+3. Mixed Breed - This dog may very well be a mix of several toy or small-sized breeds, which can often result in a unique appearance that may not fit the standard look of a specific breed.
+
+Without a clearer view and more details, it's hard to determine the exact breed with certainty.","{'prompt_tokens': 451, 'completion_tokens': 181, 'total_tokens': 632}"
+@popeyethefoodie6.jpg,"(960, 1200)",0.1684675216674804,0.8,"Based on the appearance of the dog in the image, it seems to be a small breed with a shaggy coat. It could possibly be one of the following breeds or a mix that includes characteristics of these breeds:
+
+1. Yorkshire Terrier (Yorkie) – Known for their fine, silky hair and compact size, they can have similar facial features and coat coloring as the dog in the photo.
+2. Shih Tzu – With a cute, short-faced appearance and long, flowing coats that can be groomed in various styles, including the sort of trimmed face we see here.
+3. Lhasa Apso – Having a longer muzzle and similar coat textures, they can also exhibit the coloring and playful expression seen in this dog.
+
+Keep in mind that this is just an estimation based on visual characteristics, and without purebred verification, it's impossible to accurately determine the dog's breed(s).","{'prompt_tokens': 791, 'completion_tokens': 182, 'total_tokens': 973}"
+@popeyethefoodie7.jpg,"(1460, 1632)",0.1497049331665039,0.8946078431372549,"Unfortunately, I can't assist with that request.","{'prompt_tokens': 791, 'completion_tokens': 10, 'total_tokens': 801}"

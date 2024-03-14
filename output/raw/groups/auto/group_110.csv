@@ -1,0 +1,36 @@
+File Name,Dimensions,File Size (MB),Aspect Ratio,Vision Response,Vision Tokens
+@tuckerbudzyn4.jpg,"(1596, 900)",0.0540189743041992,1.7733333333333334,"The dog in the image appears to be a Golden Retriever. It's characterized by its golden coat, gentle eyes, and friendly demeanor. Here are three possible breeds based on the image:
+
+1. Golden Retriever: As previously mentioned, the dog's physical characteristics are strongly indicative of this breed.
+2. Labrador Retriever: They can sometimes have a similar appearance, especially when they have a thicker coat, but the facial structure is usually a bit different.
+3. Nova Scotia Duck Tolling Retriever: While smaller and with some distinct features, they have a similar coat color and can be mistaken for Golden Retrievers at times.
+
+However, based on the image provided, the dog strongly resembles the Golden Retriever breed.","{'prompt_tokens': 1131, 'completion_tokens': 150, 'total_tokens': 1281}"
+@tuckerbudzyn5.jpg,"(900, 900)",0.0659313201904296,1.0,"Based on the image you've provided, the dog appears to be a puppy with a golden fur color and a recognizable fluffy coat, which are traits commonly associated with the Golden Retriever breed. While I cannot be certain of the specific breed without more information, here are three breeds that the puppy might be, considering its visible characteristics:
+
+1. Golden Retriever: A popular breed known for its friendly temperament and dense, water-repellent golden coat.
+2. Labrador Retriever: Another friendly and popular breed with a slightly shorter coat than the Golden Retriever, but they can also come in a similar yellow or golden color.
+3. Goldendoodle: A crossbreed between a Golden Retriever and a Poodle, characterized by a curly or wavy coat that may come in a variety of colors, including golden.
+
+Remember, appearances can be deceptive, especially in puppies, and without genetic testing or pedigree information, it's difficult to be certain of a dog's breed.","{'prompt_tokens': 791, 'completion_tokens': 201, 'total_tokens': 992}"
+@tuckerbudzyn6.jpg,"(1440, 1800)",0.3178119659423828,0.8,"The dogs in the image appear to be Golden Retrievers, which is a breed known for their dense, water-repellent golden coats and friendly, intelligent demeanor. Given that you've asked for three possible breeds, although these dogs look like typical Golden Retrievers, other breeds with somewhat similar physical characteristics could include:
+
+1. Labrador Retriever: While they typically have a shorter coat, some yellow Labs may resemble a Golden Retriever, especially in build and facial features.
+2. Nova Scotia Duck Tolling Retriever: They are smaller and have a more red/orange coat but share some of the physical characteristics of the Golden Retriever.
+3. Flat-Coated Retriever: These dogs have a similar body shape and also have long coats, though their fur is typically black or liver-colored.
+
+Please note that breed identification by appearance alone can be challenging and is not always accurate. For these dogs, a DNA test would provide a definitive breed identification.","{'prompt_tokens': 791, 'completion_tokens': 195, 'total_tokens': 986}"
+@tuckerbudzyn7.jpg,"(640, 800)",0.0594339370727539,0.8,"Based on the close-up image of the dog's face, it appears to have a golden coat and a broad snout. While I can't make a definitive breed identification without further information, here are three possible breeds based on these features:
+
+1. Golden Retriever - Known for their friendly and tolerant attitude, Golden Retrievers have a dense, water-repellant outer coat that is usually golden in color.
+2. Labrador Retriever - Labs are highly friendly and sociable dogs with a short, dense coat that comes in yellow (which can sometimes appear golden), chocolate, and black.
+3. Nova Scotia Duck Tolling Retriever - While smaller than Golden Retrievers, they have a similar fur color and are known for their high energy and intelligence.
+
+Keep in mind that these are just guesses, and without further information, it's difficult to determine the exact breed of this dog.","{'prompt_tokens': 791, 'completion_tokens': 180, 'total_tokens': 971}"
+@tuckerbudzyn8.jpg,"(360, 451)",0.0340156555175781,0.7982261640798226,"The dog in the image appears to be a young puppy with characteristics such as a golden coat and a friendly, gentle expression. Based on these traits, here are three possible breeds:
+
+1. Golden Retriever: Known for their golden coats, friendly nature, and patience, this dog resembles a typical Golden Retriever puppy.
+2. Labrador Retriever: While they are more commonly seen in solid black, chocolate, or yellow, some Labs can have a lighter, almost golden color as well.
+3. English Cream Golden Retriever: This is a variation of the Golden Retriever with a lighter, cream-colored coat, which might account for the paler shade seen in this puppy.
+
+Without clearer breed-specific traits, it's a challenge to determine the exact breed from an image, but the puppy's overall appearance suggests it is likely a Golden Retriever or a close relative within the retriever family.","{'prompt_tokens': 281, 'completion_tokens': 185, 'total_tokens': 466}"

@@ -1,0 +1,40 @@
+File Name,Dimensions,File Size (MB),Aspect Ratio,Vision Response,Vision Tokens
+@samsonthedood8.jpg,"(225, 225)",0.0113935470581054,1.0,"Based on the image, the dog seems to have a curly, fluffy coat and a friendly face. Here are three possible breeds that this dog might be:
+
+1. Poodle: Known for their hypoallergenic coats, intelligence, and variety of sizes (toy, miniature, and standard).
+
+2. Labradoodle: This is a popular crossbreed between a Labrador Retriever and a Poodle, known for its friendly demeanor and low-shedding coat.
+
+3. Goldendoodle: A cross between a Golden Retriever and a Poodle, these dogs are often praised for their affectionate nature and curly coat, which is visible in the image.
+
+Without more information or a clearer picture, it's challenging to determine the exact breed with certainty. The dog could also be another curly-coated breed or a mix of multiple breeds.","{'prompt_tokens': 281, 'completion_tokens': 171, 'total_tokens': 452}"
+@siberianhusky_jax0.jpg,"(640, 800)",0.0382003784179687,0.8,"The dog in the image appears to be a Siberian Husky. Characteristics such as the thick double coat, erect triangular ears, distinctive markings, and the overall stature of the dog are typical of this breed. While I can provide an educated guess based on the image, here are three possible breeds that the dog might resemble:
+
+1. Siberian Husky
+2. Alaskan Malamute
+3. Samoyed
+
+These breeds share some physical characteristics, such as a thick fur coat and a strong build, which can sometimes cause confusion in identifying them solely based on an image. However, the markings and the facial features in this particular image strongly suggest that the dog is a Siberian Husky.","{'prompt_tokens': 791, 'completion_tokens': 142, 'total_tokens': 933}"
+@siberianhusky_jax1.jpg,"(736, 736)",0.089604377746582,1.0,"Based on the appearance of the dog in the image, here are three possible breeds:
+
+1. Siberian Husky: The dog has distinct markings and a thick double coat that is very characteristic of Siberian Huskies. Their erect triangular ears and distinctive facial masks are also telltale signs of the husky breed.
+
+2. Alaskan Malamute: Although the dog in the image more closely resembles a Siberian Husky, Alaskan Malamutes share some physical characteristics, like a thick double coat and a strong build. However, Malamutes are typically larger and have a more solid build than the Husky.
+
+3. Alaskan Klee Kai: This is a smaller breed that looks like a miniature Siberian Husky. Depending on the age and size of the dog in the first photo, an Alaskan Klee Kai could potentially have a similar appearance.
+
+The dog in the image, particularly the one in the second photo, most closely resembles a Siberian Husky.","{'prompt_tokens': 791, 'completion_tokens': 200, 'total_tokens': 991}"
+@siberianhusky_jax10.jpg,"(461, 570)",0.0212440490722656,0.8087719298245614,"The dog in the image appears to be a Siberian Husky, which is characterized by its thick fur, erect triangular ears, and distinctive markings. However, if we're considering three possible breeds based on general appearance without certainty, here they are:
+
+1. Siberian Husky – This is the most likely breed given its distinctive look and coloration.
+2. Alaskan Malamute – Another northern breed that can have a somewhat similar appearance, though they are generally larger and heavier-boned than Huskies.
+3. Samoyed – Less likely given the coloration and markings, but Samoyeds also have thick fur and can have a somewhat similar body structure. However, they usually have an all-white, cream, or biscuit color.","{'prompt_tokens': 451, 'completion_tokens': 152, 'total_tokens': 603}"
+@siberianhusky_jax11.jpg,"(1241, 992)",0.1364107131958007,1.251008064516129,"The dog in the picture most closely resembles a Siberian Husky. This breed is known for its thick fur, erect triangular ears, and distinctive markings, including the mask-like coloration on the face, which are all present in this dog.
+
+However, if you're looking for three possible breeds, based on appearance alone, here are three breeds this dog might be mistaken for or have similarities with:
+
+1. Siberian Husky
+2. Alaskan Malamute
+3. Samoyed
+
+It's important to note that identifying a dog's breed by appearance alone can be inaccurate without knowledge of the dog's history or without a DNA test.","{'prompt_tokens': 791, 'completion_tokens': 131, 'total_tokens': 922}"

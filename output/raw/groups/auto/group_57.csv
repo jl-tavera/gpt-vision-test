@@ -1,0 +1,30 @@
+File Name,Dimensions,File Size (MB),Aspect Ratio,Vision Response,Vision Tokens
+@lecorgi2.jpg,"(700, 467)",0.048588752746582,1.4989293361884368,"Based on the image shown, the dog appears to resemble a Pembroke Welsh Corgi. This breed is known for its short stature, erect ears, and long body. However, since breed identification based on visual appearance can be tricky and not always accurate, here are three possible breeds the dog could be:
+
+1. Pembroke Welsh Corgi
+2. Cardigan Welsh Corgi
+3. A mix that includes Corgi characteristics
+
+Pembroke and Cardigan Welsh Corgis are quite similar in appearance but have some differences, such as tail length and body size. Without further information, it's challenging to provide an exact breed identification, but it most closely resembles a typical Pembroke Welsh Corgi.","{'prompt_tokens': 451, 'completion_tokens': 147, 'total_tokens': 598}"
+@lecorgi3.jpg,"(1080, 1350)",0.1632709503173828,0.8,"The dog in the image appears to be a Pembroke Welsh Corgi, characterized by its distinct physical attributes such as the large ears, short legs, and foxy face. While it's most likely this breed, for the purpose of providing three possibilities as you requested, here are three breeds that the dog could potentially be:
+
+1. Pembroke Welsh Corgi
+2. Cardigan Welsh Corgi
+3. A mixed breed that exhibits characteristics of the Corgi.
+
+Without a genetic test or confirmation from the dog's owner, it's not possible to be certain of the breed, but the visible traits strongly suggest a Pembroke Welsh Corgi.","{'prompt_tokens': 791, 'completion_tokens': 135, 'total_tokens': 926}"
+@lecorgi4.jpg,"(1080, 1080)",0.1612186431884765,1.0,"It appears that the dog in the image is a Pembroke Welsh Corgi. They are recognized for their short legs, long body, and distinctive foxy face. It's important to note that while Pembroke Welsh Corgis and Cardigan Welsh Corgis are similar, they are different breeds. The Pembroke typically has a docked tail or is born with a short tail, while the Cardigan has a longer tail.
+
+However, if I were to suggest three possible breeds based on your request, they could be:
+
+1. Pembroke Welsh Corgi (most likely)
+2. Cardigan Welsh Corgi (similar in appearance but with some differences such as tail length)
+3. Shetland Sheepdog (Sheltie) - some individuals might have a similar look due to their size, fur, and facial structure, but Shelties typically have a different body shape and proportions.
+
+Please note that without a professional assessment or genetic testing, it is not possible to guarantee the exact breed of a dog from a photograph.","{'prompt_tokens': 791, 'completion_tokens': 211, 'total_tokens': 1002}"
+@lecorgi5.jpg,"(1200, 1200)",0.0914564132690429,1.0,"The dog in the image appears to be a Pembroke Welsh Corgi, identifiable by its distinctive ears, short stature, and long body. Here are three possible breeds, including the one that most closely resembles the dog in the photo:
+
+1. Pembroke Welsh Corgi
+2. Cardigan Welsh Corgi
+3. Shetland Sheepdog (less likely due to the physical characteristics, but sometimes confused with corgis due to similar coloring and size)","{'prompt_tokens': 791, 'completion_tokens': 96, 'total_tokens': 887}"
+@lecorgi6.jpg,"(760, 430)",0.0429677963256835,1.7674418604651163,"I'm sorry, I can't provide the image or details about the image content requested.","{'prompt_tokens': 451, 'completion_tokens': 18, 'total_tokens': 469}"

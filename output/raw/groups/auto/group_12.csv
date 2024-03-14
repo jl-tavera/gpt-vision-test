@@ -1,0 +1,40 @@
+File Name,Dimensions,File Size (MB),Aspect Ratio,Vision Response,Vision Tokens
+@balooitsme2.jpg,"(1200, 740)",0.0773887634277343,1.6216216216216215,"The dog in the image appears to be a small, fluffy, and curly-coated puppy. Based on its physical characteristics, here are three possible breeds that the puppy could be:
+
+1. Toy Poodle: Known for their curly fur and small size, Toy Poodles are a common breed that matches this description.
+
+2. Miniature Goldendoodle: This is a designer crossbreed between a Golden Retriever and a Miniature or Toy Poodle, often resulting in a small dog with soft curly hair like the one shown.
+
+3. Bichon Frise: They have a soft, curly coat that is similar to the puppy's fur in the image.
+
+Remember, without a direct confirmation of the breed, these are just educated guesses based on the visible characteristics in the photo.","{'prompt_tokens': 1131, 'completion_tokens': 159, 'total_tokens': 1290}"
+@balooitsme3.jpg,"(1200, 675)",0.1136054992675781,1.7777777777777777,"I'm sorry, I can't provide assistance with identifying or making assumptions about people in images. However, I can comment on the dog shown in the photos. Based on the appearance of the dog, with its curly fur and size, three possible breeds or breed mixes the dog could potentially be are:
+
+1. Toy Poodle – known for their curly, hypoallergenic fur and small stature.
+2. Miniature Poodle – also known for similar features but slightly larger than the toy variety.
+3. Poodle Mix (often referred to as ""Doodle"" breeds) – a mix between a poodle and another breed which can result in a variety of sizes and fur types, like a Labradoodle (Labrador Retriever and Poodle mix) or Goldendoodle (Golden Retriever and Poodle mix), but on the smaller side, it could be a mix with another small breed.
+
+Keep in mind that without a professional assessment, it's not possible to determine the dog's exact breed mix from a photo alone.","{'prompt_tokens': 1131, 'completion_tokens': 210, 'total_tokens': 1341}"
+@balooitsme6.jpg,"(990, 1251)",0.2102460861206054,0.7913669064748201,"Based on the image provided, the dog appears to be a small, fluffy breed with a teddy bear-like appearance. Here are three possible breeds:
+
+1. Toy Poodle – Known for their curly, hypoallergenic coats, and often found in various colors, including the reddish hue shown in the image. Poodles also come in three sizes: standard, miniature, and toy. This looks like it could be a toy or a miniature poodle.
+
+2. Miniature Goldendoodle - A crossbreed between a Golden Retriever and a Miniature or Toy Poodle, characterized by a friendly disposition and a wavy to curly coat that can come in a similar color to the one pictured.
+
+3. Labradoodle – Another designer crossbreed between a Labrador Retriever and a Poodle, Labradoodles can have varying coat textures from wavy to curly and exhibit a range of colors including the type seen here.
+
+Without a pedigree or genetic testing, identifying the exact breed can be challenging, especially with mixed breeds that might share similar physical characteristics. The dog's size, coat texture, and overall appearance can lend clues, but these suggestions are just based on visible traits in the image.","{'prompt_tokens': 791, 'completion_tokens': 245, 'total_tokens': 1036}"
+@balooitsme7.jpg,"(990, 996)",0.1204137802124023,0.993975903614458,"Based on the image you provided, the dog appears to be a small breed with a curly coat. Three possible breeds that the dog could be include:
+
+1. Toy Poodle – The dog has the characteristic curly hair, size, and shape of a Toy Poodle.
+2. Bichon Frise – While the dog in the image seems to have a bit tighter curls and is a bit smaller, some Bichon Frises can have a similar look, especially after a grooming session.
+3. Miniature Goldendoodle – It's less likely since they can vary a lot in appearance, but if this dog is a mix that includes a Golden Retriever and a Poodle, it might have these kinds of features.
+
+Without more information, it is difficult to determine the exact breed with certainty. The dog might also be a mix of breeds that results in its particular appearance.","{'prompt_tokens': 791, 'completion_tokens': 178, 'total_tokens': 969}"
+@balooitsme9.jpg,"(990, 1219)",0.0938301086425781,0.8121410992616899,"Based on the image you've provided, the dog appears to be a small breed with a fluffy, curly coat of reddish-brown fur. Here are three possible breeds that the dog could be:
+
+1. Toy Poodle - Known for their curly, dense coats and often come in a variety of colors including shades similar to the dog's fur in the picture.
+2. Miniature Poodle - Slightly larger than a Toy Poodle but still small in size, with the same type of hypoallergenic curly coat.
+3. Cavalier King Charles Spaniel (if the coat appears wavier and less curly) - They can have a reddish color known as ""Blenheim,"" although their fur is typically not as curly, they can appear similar when groomed in a certain way.
+
+Keep in mind that this dog could also be a mix of different breeds that share these coat characteristics.","{'prompt_tokens': 791, 'completion_tokens': 181, 'total_tokens': 972}"

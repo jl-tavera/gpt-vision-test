@@ -1,0 +1,30 @@
+File Name,Dimensions,File Size (MB),Aspect Ratio,Vision Response,Vision Tokens
+@hi_im_chewie1.jpg,"(201, 251)",0.0083799362182617,0.8007968127490039,"The dog in the image appears to be a Pomeranian. This small breed is known for its fluffy coat and fox-like face. It can sometimes be confused with other fluffy toy breeds, especially if not groomed in the typical Pomeranian style. Two other breeds that are sometimes similar in appearance are the American Eskimo Dog and the German Spitz, although they both generally grow larger than the typical Pomeranian.","{'prompt_tokens': 281, 'completion_tokens': 85, 'total_tokens': 366}"
+@hi_im_chewie10.jpg,"(640, 640)",0.0634078979492187,1.0,"Based on the image, the dog appears to be a Pomeranian. The Pomeranian is a breed of toy dog known for its fluffy coat and lively personality. While this specific dog seems to be a Pomeranian, there are other breeds with some similar physical characteristics, such as:
+
+1. Pomeranian - Characterized by their luxurious fluffy double coat, small ears, and fox-like features.
+2. German Spitz - Similar in appearance but can come in larger sizes and various colors. They also have a dense coat and a tail that curls over the back.
+3. American Eskimo Dog - Similar thick, fluffy coat and curled tail, but usually larger than a Pomeranian.
+
+This particular dog's coat color, facial structure, and size are closely aligned with that of a typical Pomeranian.","{'prompt_tokens': 791, 'completion_tokens': 165, 'total_tokens': 956}"
+@hi_im_chewie11.jpg,"(203, 248)",0.0119533538818359,0.8185483870967742,"The dog in the image appears to be a Pomeranian. Pomeranians are known for their fluffy coats, small size, and fox-like faces, which are characteristics that the dog in the image exhibits. While it's generally not accurate to assign multiple breeds to a single individual dog without more information, I can give you a few breeds that are sometimes similar in appearance to Pomeranians:
+
+1. Pomeranian - As already mentioned, this is the most likely breed for the dog in the image.
+2. German Spitz - This is another breed that has a similar fluffy coat and can resemble a Pomeranian in size and face shape.
+3. American Eskimo Dog - They can also have a similar appearance, especially the toy or miniature varieties, but they are generally larger than Pomeranians.
+
+However, based on the image, the most accurate designation would be a Pomeranian.","{'prompt_tokens': 281, 'completion_tokens': 184, 'total_tokens': 465}"
+@hi_im_chewie12.jpg,"(225, 225)",0.0165567398071289,1.0,"The dog in the image appears to be a Pomeranian, which is characterized by its small size, thick double coat, and foxy face with alert, prick ears. However, if we are considering three possible breeds based on visual traits, I would say:
+
+1. Pomeranian - Due to the fluffy coat and small size which are characteristic of the breed.
+2. German Spitz - Similar in appearance to the Pomeranian, they have a plush coat and can have a similar facial structure.
+3. American Eskimo Dog (Miniature) - Another breed with a similar fluffy coat and compact size, though they are typically white rather than the golden color seen in this image.
+
+Please keep in mind that without a professional assessment, it is not possible to be certain of a dog's breed just through a visual image. These suggestions are based on the visible physical traits in the photo provided.","{'prompt_tokens': 281, 'completion_tokens': 181, 'total_tokens': 462}"
+@hi_im_chewie2.jpg,"(640, 800)",0.0657405853271484,0.8,"Based on the image, the dog appears to be a Pomeranian. Pomeranians are known for their fluffy double coats, small size, and fox-like faces. It's difficult to suggest two other breeds that this dog might be, as the characteristics shown are strongly indicative of a Pomeranian. However, for the sake of possibilities:
+
+1. Pomeranian – The dog has the distinctive thick fur, small ears, and compact size typical of the breed.
+2. German Spitz – Similar to Pomeranians, they are part of the Spitz family and have thick fur and a fox-like appearance.
+3. American Eskimo Dog (Miniature or Toy) – They are also part of the Spitz family, with white or light-colored thick coats, but it's less common to see them in this color.
+
+The provided image strongly suggests this dog is a Pomeranian.","{'prompt_tokens': 791, 'completion_tokens': 182, 'total_tokens': 973}"
