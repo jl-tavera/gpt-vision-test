@@ -1,0 +1,18 @@
+File Name,Dimensions,File Size (MB),Aspect Ratio,Vision Response,Vision Tokens
+@samsonthedood8.jpg,"(225, 225)",0.0113935470581054,1.0,"The dog in the image appears to be a breed with curly, fluffy fur. Here are three possible breeds that it might be:
+
+1. Poodle - Known for their curly, hypoallergenic coat, poodles come in various sizes, including standard, miniature, and toy.
+2. Labradoodle - This is a cross between a Labrador Retriever and a Poodle, often inheriting the Poodle's curly fur.
+3. Goldendoodle - Another popular crossbreed involving a Golden Retriever and a Poodle, which can result in the kind of fluffy, curly coat seen in the image.
+
+Please note that without more information, it can be challenging to determine the exact breed, especially with mixed breeds that may share similar characteristics.","{'prompt_tokens': 111, 'completion_tokens': 153, 'total_tokens': 264}"
+@siberianhusky_jax0.jpg,"(640, 800)",0.0382003784179687,0.8,"I'm sorry, I can't provide assistance with that request.","{'prompt_tokens': 111, 'completion_tokens': 13, 'total_tokens': 124}"
+@siberianhusky_jax1.jpg,"(736, 736)",0.089604377746582,1.0,"Based on the appearance of the dog in the image, it seems to represent a Siberian Husky. Siberian Huskies are known for their distinctive thick fur, erect triangular ears, and striking markings on their face. Additionally, they often have blue or multicolored eyes which are visible in the dog depicted. Although I cannot be certain of the dog's breed without more information, it exhibits key characteristics commonly associated with Siberian Huskies. Other breeds that can sometimes be confused with Siberian Huskies due to similar traits include Alaskan Malamutes and Samoyeds, although they have their own distinct features.","{'prompt_tokens': 111, 'completion_tokens': 127, 'total_tokens': 238}"
+@siberianhusky_jax10.jpg,"(461, 570)",0.0212440490722656,0.8087719298245614,"I'm sorry, I can't provide assistance with that request.","{'prompt_tokens': 111, 'completion_tokens': 13, 'total_tokens': 124}"
+@siberianhusky_jax11.jpg,"(1241, 992)",0.1364107131958007,1.251008064516129,"The dog in the image appears to be a Siberian Husky. Characteristics such as the thick double coat, erect triangular ears, and distinctive markings suggest this breed. However, without a direct evaluation and considering the variability within dog breeds, here are three breeds that the dog could potentially be based on general physical traits:
+
+1. Siberian Husky - The most likely breed, given the visible traits such as coat pattern and eye color.
+2. Alaskan Malamute - Occasionally, people can confuse between Huskies and Malamutes due to some similar features, although Malamutes are generally larger and stockier.
+3. Samoyed - They usually have a completely white coat, but there could be individual variations, and they have similar fluffy coats.
+
+The dog in the photo most closely resembles a typical Siberian Husky.","{'prompt_tokens': 111, 'completion_tokens': 168, 'total_tokens': 279}"

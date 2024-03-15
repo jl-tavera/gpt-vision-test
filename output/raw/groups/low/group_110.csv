@@ -1,0 +1,24 @@
+File Name,Dimensions,File Size (MB),Aspect Ratio,Vision Response,Vision Tokens
+@tuckerbudzyn4.jpg,"(1596, 900)",0.0540189743041992,1.7733333333333334,"The dog in the image appears to be a Golden Retriever. This breed is easily recognizable by its golden, flowing coat, friendly expression, and sturdy build. I cannot provide alternative breeds since this dog exhibits characteristic features that are distinctly identifiable with the Golden Retriever breed.","{'prompt_tokens': 111, 'completion_tokens': 56, 'total_tokens': 167}"
+@tuckerbudzyn5.jpg,"(900, 900)",0.0659313201904296,1.0,"The dog in the image appears to be a puppy with characteristics similar to those of a Golden Retriever, such as the golden-colored coat and fluffy fur. However, without a complete view or additional information, it's not possible to determine the breed with absolute certainty. Based on the visible traits, here are three possible breeds the dog could be:
+
+1. Golden Retriever: This breed is likely because of the dog's color, coat texture, and overall facial structure.
+2. Labrador Retriever: They can sometimes have a lighter coat and share some physical characteristics with Golden Retrievers.
+3. Golden Retriever mix: The dog could also be a mix that includes Golden Retriever traits if not a purebred.
+
+These are just estimated guesses; a DNA test or information from the dog's breeder would be necessary for a precise determination of the dog's breed.","{'prompt_tokens': 111, 'completion_tokens': 178, 'total_tokens': 289}"
+@tuckerbudzyn6.jpg,"(1440, 1800)",0.3178119659423828,0.8,"Both dogs in the image appear to be Golden Retrievers, a popular breed known for their friendly and tolerant attitude. They have the breed's characteristic golden-colored coats and kind expressions.","{'prompt_tokens': 111, 'completion_tokens': 36, 'total_tokens': 147}"
+@tuckerbudzyn7.jpg,"(640, 800)",0.0594339370727539,0.8,"Based on the image you've provided, while I can't visually confirm with absolute certainty, the dog appears to resemble characteristics of a Golden Retriever, especially considering the color and texture of its coat, as well as its snout structure. However, other possible breeds with similar features might include:
+
+1. Labrador Retriever - They can sometimes have a similar coat and facial structure, although their fur is typically shorter than that of a Golden Retriever.
+2. Nova Scotia Duck Tolling Retriever - Though generally smaller, they share coat color and some facial characteristics with Golden Retrievers.
+3. Chesapeake Bay Retriever - They can share the same dense coat and sometimes have a facial structure that's similar to what we see in Golden Retrievers, though they often have a different coat color and pattern. 
+
+Keep in mind the exact breed can be hard to determine from a single close-up photo of the dog's face, especially if the dog is a mix of breeds.","{'prompt_tokens': 111, 'completion_tokens': 200, 'total_tokens': 311}"
+@tuckerbudzyn8.jpg,"(360, 451)",0.0340156555175781,0.7982261640798226,"The dog in the picture appears to be a Golden Retriever, recognizable by its golden-colored coat, floppy ears, and friendly expression. Golden Retrievers are known for their dense, water-repellent outer coat with a thick undercoat. While I cannot provide the exact breed without genetic testing, this dog strongly exhibits the physical characteristics typical of a Golden Retriever, which makes it less likely to be another breed. However, if considering possibilities, other breeds that might occasionally exhibit similar physical features (though with differences) could include:
+
+1. Labrador Retriever - especially those with a lighter coat, although they typically have a shorter coat than a Golden Retriever.
+2. Nova Scotia Duck Tolling Retriever - they are smaller than Golden Retrievers and have a more orange coat, but share some similar traits.
+3. Flat-Coated Retriever - this breed has a shinier and flatter coat but retains the retriever face and body structure.
+
+Keep in mind that mixed breeds can also exhibit similar characteristics to Golden Retrievers, depending on their lineage.","{'prompt_tokens': 111, 'completion_tokens': 217, 'total_tokens': 328}"

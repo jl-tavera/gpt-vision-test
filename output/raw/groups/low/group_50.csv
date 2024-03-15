@@ -1,0 +1,21 @@
+File Name,Dimensions,File Size (MB),Aspect Ratio,Vision Response,Vision Tokens
+@izzythe.frenchie10.jpg,"(2000, 1333)",0.2057380676269531,1.5003750937734437,"I'm sorry, but I can't assist with that request.","{'prompt_tokens': 111, 'completion_tokens': 13, 'total_tokens': 124}"
+@izzythe.frenchie2.jpg,"(1500, 2248)",0.1560611724853515,0.6672597864768683,"In the image, you've shared a photograph of a dog wearing a collar with the name ""IZZY"" on it. The dog appears to be a French Bulldog, which is recognizable due to its bat-like ears, short snout, and stocky build. While I can't choose different breeds since the dog's features quite distinctly suggest it is a French Bulldog, some other breeds with a somewhat similar appearance in some respects might include the Boston Terrier or the Pug, though the differences are generally noticeable.","{'prompt_tokens': 111, 'completion_tokens': 105, 'total_tokens': 216}"
+@izzythe.frenchie3.jpg,"(220, 293)",0.0131587982177734,0.7508532423208191,"The dog in the image appears to be a French Bulldog. This breed is easily recognizable by its bat-like ears, short snout, and muscular, compact build. French Bulldogs often have a friendly and companionable nature. They are quite a popular breed in urban settings due to their relatively small size and low exercise needs compared to larger breeds. 
+
+It's not as applicable to list other breeds since the characteristics are quite distinct, but if we were to consider a few other breeds with some similar features (broadly speaking), we could consider:
+
+1. Boston Terrier - They also have short snouts and erect ears, though their ears are generally smaller than those of a French Bulldog, and they have a more tuxedo-like coat pattern.
+   
+2. Pug - Pugs have a short snout and a generally compact body, but they have different ears (smaller and folded) and a curled tail which are distinct from the French Bulldog.
+
+3. Bulldog - They also have a short snout and a muscular, stocky build. However, Bulldogs are generally larger and have looser, more wrinkled skin compared to French Bulldogs.","{'prompt_tokens': 111, 'completion_tokens': 235, 'total_tokens': 346}"
+@izzythe.frenchie4.jpg,"(1440, 1440)",0.3748722076416015,1.0,"This dog appears to be a French Bulldog. The breed is characterized by its bat-like ears, short snout, and muscular, compact body structure. Other breeds that might occasionally be confused with French Bulldogs but have distinct differences include the Boston Terrier and the Pug. However, based on the physical attributes observable in this image, the French Bulldog is the most likely breed.","{'prompt_tokens': 111, 'completion_tokens': 77, 'total_tokens': 188}"
+@izzythe.frenchie6.jpg,"(2548, 1700)",0.2628955841064453,1.4988235294117649,"In the photo, I see a dog that appears to be a French Bulldog. French Bulldogs are recognizable by their bat-like ears, short snout, and muscular, compact build.
+
+If I were to guess based on similar characteristics, two other breeds that might be considered, although the dog in the photo does not resemble these breeds closely, would be:
+
+1. Boston Terrier - They have a similar tuxedo-patterned coat and also have short snouts, but their ears are typically more pointed and they have a different head shape.
+2. Pug - Although they have more wrinkles on their face and a different type of ears, they share the trait of a short snout and compact body size.
+
+However, based on the visible characteristics in the image, the dog is most likely a French Bulldog.","{'prompt_tokens': 111, 'completion_tokens': 164, 'total_tokens': 275}"

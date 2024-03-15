@@ -1,0 +1,29 @@
+File Name,Dimensions,File Size (MB),Aspect Ratio,Vision Response,Vision Tokens
+@reagandoodle8.jpg,"(1080, 1080)",0.1854228973388672,1.0,"The dogs in the image appear to be Labradoodles, which are a cross between a Labrador Retriever and a Poodle. Other breeds that may sometimes resemble this appearance due to their curly or wavy coats and similar size could potentially include:
+
+1. Goldendoodles (a cross between a Golden Retriever and a Poodle).
+2. Cockapoos (a cross between a Cocker Spaniel and a Poodle).
+3. Australian Labradoodles (a breed that includes a mix of Labrador Retriever, Poodle, and various Spaniel breeds in its creation).
+
+However, based on the appearance of the dogs in the image, the Labradoodle seems to be the most likely breed.","{'prompt_tokens': 111, 'completion_tokens': 144, 'total_tokens': 255}"
+@reagandoodle9.jpg,"(1200, 630)",0.0968751907348632,1.9047619047619049,"In this image, we see a dog with a child. Although it's impossible to accurately determine the breed without genetic testing, the dog seems to have features that could suggest a few possible breeds or combinations thereof:
+
+1. Cavalier King Charles Spaniel – The dog has a similar head shape and soft, wavy coat that are characteristic of this breed.
+2. Cocker Spaniel – Its size and the texture of its coat could also suggest some traits of this breed.
+3. Poodle – The dog appears to have a curly coat that can often be associated with Poodles or Poodle mixes.
+
+It's also possible that the dog could be a mix, known as a ""designer dog,"" such as a Cockapoo (Cocker Spaniel and Poodle mix) or Cavapoo (Cavalier King Charles Spaniel and Poodle mix), which can exhibit such physical traits.","{'prompt_tokens': 111, 'completion_tokens': 181, 'total_tokens': 292}"
+@rocco_roni0.jpg,"(168, 300)",0.0077056884765625,0.56,It seems that I cannot assist with this request.,"{'prompt_tokens': 111, 'completion_tokens': 10, 'total_tokens': 121}"
+@rocco_roni1.jpg,"(1200, 1200)",0.1717147827148437,1.0,"The dog in the image appears to be an Old English Sheepdog. This breed is recognizable by its long, shaggy coat, which is typically gray and white, and its characteristic ""bear-like"" face. However, since you've asked for three possible breeds, I'll give you two other breeds that have some similar physical characteristics:
+
+1. Bearded Collie - They have a long, shaggy coat like the Old English Sheepdog and are often mistaken for one another, but Bearded Collies are usually smaller and have different head shapes.
+2. Polish Lowland Sheepdog - This breed also has a dense, shaggy coat and can resemble an Old English Sheepdog, but they tend to be smaller with a more compact body structure.
+
+Please note that without a confirmation of the actual breed, this is an educated guess based on visual characteristics.","{'prompt_tokens': 111, 'completion_tokens': 174, 'total_tokens': 285}"
+@rocco_roni10.jpg,"(224, 225)",0.0079908370971679,0.9955555555555556,"It appears that the image is not provided, so I can't directly observe the dog in question to give you three possible breeds. However, if you're referencing a fluffy, white dog that somewhat resembles the one described, here are three possible breeds it could be:
+
+1. Samoyed: Known for their fluffy white coat and friendly ""smiling"" expression.
+2. Old English Sheepdog: They have a distinctive shaggy double coat that can appear white and gray or blue merle.
+3. Great Pyrenees: Large, white dogs with a thick, weather-resistant double coat.
+
+If you can provide an image or a more detailed description, I could assist you further in identifying the breed.","{'prompt_tokens': 111, 'completion_tokens': 142, 'total_tokens': 253}"

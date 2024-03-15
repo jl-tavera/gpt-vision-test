@@ -1,0 +1,40 @@
+File Name,Dimensions,File Size (MB),Aspect Ratio,Vision Response,Vision Tokens
+@manny_the_frenchie6.jpg,"(1200, 628)",0.0966215133666992,1.910828025477707,"Based on the images provided, the dog appears to be a French Bulldog. This breed is recognizable by its bat-like ears, short snout, muscular build, and a stocky compact body. French Bulldogs often have a characteristic flattened face and a smooth coat.
+
+There aren't three different breeds depicted here, but if you're looking for breeds that could be similar to a French Bulldog, you might consider:
+
+1. Boston Terrier - They have a similar tuxedo-like appearance, erect ears, and a short snout, although they are generally smaller with a slightly longer snout than French Bulldogs.
+2. Pug - Recognizable by their curled tail, deep wrinkles, and expressive faces, pugs share the brachycephalic (short-nosed) trait with French Bulldogs.
+3. English Bulldog - They are larger and have a more pronounced wrinkled face and a heavier, more muscular build, but they share the short snout and bat-like ears with French Bulldogs.
+
+However, the dog in the photo is a French Bulldog.","{'prompt_tokens': 111, 'completion_tokens': 214, 'total_tokens': 325}"
+@manny_the_frenchie7.jpg,"(1920, 1080)",0.1182699203491211,1.7777777777777777,"The dog in the image appears to be a French Bulldog. This breed is characterized by its bat-like ears, short snout, and muscular, compact build. It's quite distinct and not easily confused with many other breeds, but if you are looking for breeds that have some similar physical characteristics, you could consider:
+
+1. Boston Terrier - They have a similar tuxedo-like coat pattern, erect ears, and a short snout, although their ears are generally smaller and proportioned differently than the French Bulldog's.
+
+2. Pug - They share the squished face and a stocky physique, but Pugs typically have a curled tail and wrinkles across their forehead.
+
+3. English Bulldog - They also have a stout build and a short snout, but they are larger, have more wrinkles, and a different head shape than the French Bulldog.","{'prompt_tokens': 111, 'completion_tokens': 176, 'total_tokens': 287}"
+@manny_the_frenchie8.jpg,"(736, 736)",0.1196203231811523,1.0,"The dog appears to be a French Bulldog. This breed is recognizable by its bat-like ears, short snout, and sturdy, compact body structure. However, since you've requested three possible breeds, here they are:
+
+1. French Bulldog - The most likely breed based on the visible characteristics.
+2. Boston Terrier - Some may initially confuse them with French Bulldogs, although they usually have longer legs and a different head shape.
+3. English Bulldog - It's less likely because English Bulldogs are generally larger and have more pronounced wrinkles, but they share the brachycephalic (short-snout) traits. 
+
+Keep in mind that the dog in the image is most characteristic of a French Bulldog.","{'prompt_tokens': 111, 'completion_tokens': 145, 'total_tokens': 256}"
+@manny_the_frenchie9.jpg,"(1500, 1000)",0.1198263168334961,1.5,"Based on the image, the dog appears to be a breed with distinct facial features and a stocky body type. Three possible breeds that share some similar characteristics with the dog in the photo are:
+
+1. French Bulldog - Notable for their bat-like ears, short snout, and sturdy little bodies.
+2. English Bulldog - Recognizable by their loose, wrinkly skin, broad shoulders and distinctive pushed-in nose.
+3. Boston Terrier - Has a tuxedo-like coat pattern, erect ears, and a square head, though usually has a more proportional snout length than the French Bulldog and English Bulldog.
+
+The dog in the image most closely resembles an English Bulldog due to the more pronounced wrinkles and broader head and body structure. However, the actual breed can only be accurately determined with more information.","{'prompt_tokens': 111, 'completion_tokens': 167, 'total_tokens': 278}"
+@marniethedog0.jpg,"(2031, 1712)",0.3870840072631836,1.1863317757009346,"Based on the image provided, the dog appears to be a small breed with a fluffy coat and a distinctive face. While I cannot determine the exact breed with certainty, here are three possible breeds the dog could be:
+
+1. Shih Tzu - Shih Tzus are known for their adorable expressions, long coats, and unique facial structure with short snouts.
+
+2. Pekingese - Another breed that often has a lion-like mane and a similar facial structure.
+
+3. Lhasa Apso - They have longer coats and a similar size, although they often have slightly longer snouts than the pupper in the photo.
+
+Remember, without a clear pedigree or genetic testing, it's often difficult to definitively identify a dog's breed, especially if the dog is of mixed ancestry.","{'prompt_tokens': 111, 'completion_tokens': 159, 'total_tokens': 270}"

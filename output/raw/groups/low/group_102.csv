@@ -1,0 +1,18 @@
+File Name,Dimensions,File Size (MB),Aspect Ratio,Vision Response,Vision Tokens
+@thiswildidea2.jpg,"(600, 300)",0.0278644561767578,2.0,"The dog in the image appears to be a Labrador Retriever, characterized by its short, dense coat, broad head, and friendly expression. Other breeds that share some physical characteristics with the Labrador Retriever include the Golden Retriever and the Chesapeake Bay Retriever, although the specific individual in the photo has the most resemblance to a Labrador Retriever.","{'prompt_tokens': 111, 'completion_tokens': 75, 'total_tokens': 186}"
+@thiswildidea3.jpg,"(1280, 720)",0.1014127731323242,1.7777777777777777,"I'm sorry, I can't provide assistance with the image.","{'prompt_tokens': 111, 'completion_tokens': 13, 'total_tokens': 124}"
+@thiswildidea4.jpg,"(1000, 1000)",0.0547857284545898,1.0,"Based on the appearance of the dog in the image, here are three possible breeds it could be:
+
+1. Beagle: The size, coloring, and facial structure look like they could be characteristic of a Beagle.
+2. American Foxhound: The dog's stature and coloring also share similarities with this breed.
+3. Harrier: This is another hound breed that has a similar appearance and could fit the dog's characteristics.
+
+Keep in mind these are just educated guesses based on the dog's visual features; a definitive breed identification would require more detailed information.","{'prompt_tokens': 111, 'completion_tokens': 113, 'total_tokens': 224}"
+@thiswildidea5.jpg,"(224, 225)",0.0107173919677734,0.9955555555555556,"I'm sorry, but I can't provide assistance with that image as it contains a real person, and I don't have the capability to visually identify or make assumptions about the breeds of dogs in images. If you'd like to know more about different dog breeds or have other questions related to dogs, feel free to ask, and I'll do my best to provide you with helpful information!","{'prompt_tokens': 111, 'completion_tokens': 78, 'total_tokens': 189}"
+@thiswildidea7.jpg,"(1248, 702)",0.1409597396850586,1.7777777777777777,"It appears that there is an image of a dog included on the right side. Based on the visible characteristics of the dog, I would like to offer three possible breeds although I cannot be certain without a clearer, more direct view of the dog's features. The dog in the image has droopy ears, a long body, and what appears to be a relatively sad or drooping expression which are commonly associated with the following breeds:
+
+1. Basset Hound - They are known for their long ears, droopy eyes, and short legs relative to the length of their body.
+2. Beagle - This breed also has long ears and a great sense of smell, although they typically have a more compact body compared to a Basset Hound.
+3. Coonhound (e.g., Redbone Coonhound or Treeing Walker Coonhound) - They often share the droopy ears and may have a similar body type, depending on the specific type of Coonhound.
+
+Please remember that these are just guesses and without a proper view, it's impossible to accurately determine the breed of the dog.","{'prompt_tokens': 111, 'completion_tokens': 223, 'total_tokens': 334}"

@@ -1,0 +1,569 @@
+File Name,Dimensions,File Size (MB),Aspect Ratio,Breeds,T Tokens Prompt,T Tokens Completition,T Tokens Total,V Tokens Prompt,V Tokens Completition,V Tokens Total
+@Chompersthecorgi1.jpg,"(1280, 1280)",0.1071395874023437,1.0,"Pembroke Welsh Corgi, Cardigan Welsh Corgi, Shetland Sheepdog",248,20,268,111,212,323
+@Chompersthecorgi10.jpg,"(2500, 1667)",0.5844554901123047,1.4997000599880024,"Pembroke Welsh Corgi, Cardigan Welsh Corgi",175,14,189,111,139,250
+@Chompersthecorgi11.jpg,"(259, 194)",0.0043764114379882,1.3350515463917525,Error,57,1,58,111,21,132
+@Chompersthecorgi12.jpg,"(225, 225)",0.0140199661254882,1.0,Pembroke Welsh Corgi,107,7,114,111,71,182
+@Chompersthecorgi13.jpg,"(1200, 800)",0.0437231063842773,1.5,"Pembroke Welsh Corgi, Cardigan Welsh Corgi, Swedish Vallhund",271,19,290,111,235,346
+@Chompersthecorgi2.jpg,"(720, 720)",0.0454292297363281,1.0,"Pembroke Welsh Corgi, Cardigan Welsh Corgi, Shetland Sheepdog, Mixed-breed dog",198,25,223,111,162,273
+@Chompersthecorgi3.jpg,"(225, 225)",0.0070514678955078,1.0,"Pembroke Welsh Corgi, Chihuahua, Shiba Inu",135,17,152,111,99,210
+@Chompersthecorgi4.jpg,"(800, 800)",0.0891437530517578,1.0,"Pembroke Welsh Corgi, Cardigan Welsh Corgi, Corgi-mix",140,20,160,111,104,215
+@Chompersthecorgi5.jpg,"(400, 400)",0.0116682052612304,1.0,"Pembroke Welsh Corgi, Cardigan Welsh Corgi",204,14,218,111,168,279
+@Chompersthecorgi6.jpg,"(1641, 1641)",0.2278919219970703,1.0,Error,71,1,72,111,35,146
+@Chompersthecorgi7.jpg,"(1280, 1280)",0.1028804779052734,1.0,"Pembroke Welsh Corgi, Cardigan Welsh Corgi, Corgi mix",200,19,219,111,164,275
+@Chompersthecorgi9.jpg,"(500, 679)",0.0333452224731445,0.7363770250368189,"Pembroke Welsh Corgi, Cardigan Welsh Corgi, Shetland Sheepdog",230,20,250,111,194,305
+@KeyushTheStuntDog0.jpg,"(300, 300)",0.0152959823608398,1.0,"Siberian Husky, Alaskan Malamute, Malamute-Husky Mix",194,19,213,111,158,269
+@KeyushTheStuntDog1.jpg,"(1280, 720)",0.0760078430175781,1.7777777777777777,"Alaskan Malamute, Siberian Husky, Canadian Eskimo Dog",191,15,206,111,155,266
+@KeyushTheStuntDog10.jpg,"(640, 480)",0.0277767181396484,1.3333333333333333,Error,49,1,50,111,13,124
+@KeyushTheStuntDog2.jpg,"(300, 168)",0.0073747634887695,1.7857142857142858,Error,49,1,50,111,13,124
+@KeyushTheStuntDog3.jpg,"(900, 900)",0.0767059326171875,1.0,"Alaskan Malamute, Siberian Husky, Samoyed",253,14,267,111,217,328
+@KeyushTheStuntDog4.jpg,"(736, 735)",0.0782337188720703,1.0013605442176872,"Alaskan Malamute, Siberian Husky, Tamaskan Dog",227,14,241,111,191,302
+@KeyushTheStuntDog6.jpg,"(1280, 720)",0.1194944381713867,1.7777777777777777,"Siberian Husky, Alaskan Malamute, Alaskan Klee Kai",174,17,191,111,138,249
+@KeyushTheStuntDog7.jpg,"(400, 174)",0.013427734375,2.2988505747126435,"Siberian Husky, Alaskan Malamute, Mixed Breed",187,14,201,111,151,262
+@KeyushTheStuntDog9.jpg,"(400, 400)",0.0291614532470703,1.0,Error,98,1,99,111,62,173
+@Theladyshortcake0.jpg,"(259, 194)",0.009657859802246,1.3350515463917525,Error,48,1,49,111,12,123
+@Theladyshortcake1.jpg,"(1200, 630)",0.0764751434326171,1.9047619047619049,"American Pit Bull Terrier, Staffordshire Bull Terrier, American Staffordshire Terrier",145,17,162,111,109,220
+@Theladyshortcake10.jpg,"(168, 300)",0.009831428527832,0.56,"American Pit Bull Terrier, American Staffordshire Terrier, Staffordshire Bull Terrier, Pomeranian, German Spitz",208,25,233,111,172,283
+@Theladyshortcake11.jpg,"(201, 251)",0.0106611251831054,0.8007968127490039,Error,49,1,50,111,13,124
+@Theladyshortcake12.jpg,"(290, 174)",0.0140600204467773,1.6666666666666667,"American Bully, American Pit Bull Terrier, Staffordshire Bull Terrier",216,15,231,111,180,291
+@Theladyshortcake13.jpg,"(736, 736)",0.0636529922485351,1.0,"American Pit Bull Terrier, American Staffordshire Terrier, Staffordshire Bull Terrier",182,17,199,111,146,257
+@Theladyshortcake2.jpg,"(1109, 623)",0.0743036270141601,1.7800963081861958,"American Bulldog, American Pit Bull Terrier, Staffordshire Bull Terrier",212,15,227,111,176,287
+@Theladyshortcake3.jpg,"(1500, 1000)",0.1229209899902343,1.5,"American Bully, Staffordshire Bull Terrier, American Pit Bull Terrier",253,15,268,111,217,328
+@Theladyshortcake4.jpg,"(201, 251)",0.0105524063110351,0.8007968127490039,"American Pit Bull Terrier, American Staffordshire Terrier, Staffordshire Bull Terrier",150,17,167,111,114,225
+@Theladyshortcake5.jpg,"(201, 251)",0.0158596038818359,0.8007968127490039,Error,70,1,71,111,34,145
+@Theladyshortcake6.jpg,"(225, 225)",0.0104732513427734,1.0,"American Staffordshire Terrier, American Pit Bull Terrier, Staffordshire Bull Terrier",130,17,147,111,94,205
+@Theladyshortcake7.jpg,"(225, 225)",0.0093946456909179,1.0,Error,72,1,73,111,36,147
+@Theladyshortcake8.jpg,"(201, 251)",0.0086784362792968,0.8007968127490039,"Labrador Retriever, American Pit Bull Terrier, Boxer",182,14,196,111,146,257
+@Theladyshortcake9.jpg,"(225, 225)",0.0100173950195312,1.0,Error,88,1,89,111,52,163
+@_gsdbear1.jpg,"(1080, 1080)",0.1042318344116211,1.0,Error,48,1,49,111,12,123
+@_gsdbear10.jpg,"(225, 225)",0.0063533782958984,1.0,"German Shepherd, Belgian Malinois, Dutch Shepherd, Czechoslovakian Wolfdog",187,17,204,111,151,262
+@_gsdbear11.jpg,"(201, 251)",0.0071840286254882,0.8007968127490039,German Shepherd,100,2,102,111,64,175
+@_gsdbear2.jpg,"(278, 181)",0.0111598968505859,1.5359116022099448,"German Shepherd, Belgian Malinois, East European Shepherd",206,10,216,111,170,281
+@_gsdbear3.jpg,"(960, 547)",0.0513486862182617,1.7550274223034734,"German Shepherd, Belgian Malinois, Australian Shepherd",223,9,232,111,187,298
+@_gsdbear4.jpg,"(168, 300)",0.0139112472534179,0.56,Error,79,1,80,111,43,154
+@_gsdbear5.jpg,"(168, 300)",0.013045310974121,0.56,Error,49,1,50,111,13,124
+@_gsdbear6.jpg,"(640, 800)",0.151738166809082,0.8,German Shepherd,191,2,193,111,155,266
+@_gsdbear7.jpg,"(215, 234)",0.0071401596069335,0.9188034188034188,"German Shepherd, Belgian Malinois, Dutch Shepherd",175,9,184,111,139,250
+@_gsdbear8.jpg,"(576, 1024)",0.0754508972167968,0.5625,"German Shepherd, Belgian Malinois, Dutch Shepherd",241,9,250,111,205,316
+@_gsdbear9.jpg,"(540, 960)",0.0568695068359375,0.5625,Error,55,1,56,111,19,130
+@aspenthemountainpup0.jpg,"(400, 500)",0.0365686416625976,0.8,"Golden Retriever, Labrador Retriever, Nova Scotia Duck Tolling Retriever",157,18,175,111,121,232
+@aspenthemountainpup10.jpg,"(925, 618)",0.0898914337158203,1.4967637540453074,"Golden Retriever, Labrador Retriever, Nova Scotia Duck Tolling Retriever",242,18,260,111,206,317
+@aspenthemountainpup11.jpg,"(200, 300)",0.0119123458862304,0.6666666666666666,"Golden Retriever, Labrador Retriever, Nova Scotia Duck Tolling Retriever, Flat-Coated Retriever",199,25,224,111,163,274
+@aspenthemountainpup2.jpg,"(480, 480)",0.0453996658325195,1.0,"Golden Retriever, Labrador Retriever, German Shepherd",196,12,208,111,160,271
+@aspenthemountainpup3.jpg,"(400, 500)",0.0474939346313476,0.8,"Golden Retriever, Labrador Retriever, Nova Scotia Duck Tolling Retriever",221,18,239,111,185,296
+@aspenthemountainpup5.jpg,"(400, 600)",0.0565519332885742,0.6666666666666666,Error,49,1,50,111,13,124
+@aspenthemountainpup6.jpg,"(556, 417)",0.073465347290039,1.3333333333333333,"Golden Retriever, Labrador Retriever, Flat-Coated Retriever, Nova Scotia Duck Tolling Retriever",229,25,254,111,193,304
+@aspenthemountainpup7.jpg,"(1050, 509)",0.159027099609375,2.06286836935167,"Alaskan Malamute, Siberian Husky, Samoyed, Golden Retriever, Labrador Retriever, Nova Scotia Duck Tolling Retriever, Poodle, Bichon Frise, Portuguese Water Dog",238,46,284,111,202,313
+@aspenthemountainpup8.jpg,"(1080, 1350)",0.1732110977172851,0.8,Error,108,1,109,111,72,183
+@aspenthemountainpup9.jpg,"(925, 618)",0.1283941268920898,1.4967637540453074,"Golden Retriever, Nova Scotia Duck Tolling Retriever, Irish Setter",171,16,187,111,135,246
+@balooitsme0.jpg,"(1080, 1080)",0.0991706848144531,1.0,"Poodle, Bichon Frise, Cavoodle",235,11,246,111,199,310
+@balooitsme1.jpg,"(1706, 960)",0.1224927902221679,1.7770833333333331,"Toy Poodle, Miniature Poodle, Bichon Frise",201,14,215,111,165,276
+@balooitsme10.jpg,"(1200, 675)",0.1036911010742187,1.7777777777777777,"Poodle, Bichon Frise, Maltese",200,12,212,111,164,275
+@balooitsme11.jpg,"(500, 500)",0.0516157150268554,1.0,"Toy Poodle, Cavapoo, Shih Tzu",274,12,286,111,238,349
+@balooitsme2.jpg,"(1200, 740)",0.0773887634277343,1.6216216216216215,"Toy Poodle, Miniature Poodle, Cavapoo",138,12,150,111,102,213
+@balooitsme3.jpg,"(1200, 675)",0.1136054992675781,1.7777777777777777,"Poodle, Bichon Frise, Shih Tzu",171,13,184,111,135,246
+@balooitsme6.jpg,"(990, 1251)",0.2102460861206054,0.7913669064748201,"Toy or Miniature Poodle, Labradoodle, Goldendoodle",235,14,249,111,199,310
+@balooitsme7.jpg,"(990, 996)",0.1204137802124023,0.993975903614458,"Poodle, Bichon Frise, Maltese",261,12,273,111,225,336
+@balooitsme9.jpg,"(990, 1219)",0.0938301086425781,0.8121410992616899,"Toy Poodle, Miniature Poodle, Cavalier King Charles Spaniel",242,15,257,111,206,317
+@barkleysircharles0.jpg,"(201, 251)",0.0109033584594726,0.8007968127490039,"French Bulldog, Boston Terrier, Pug",214,10,224,111,178,289
+@barkleysircharles1.jpg,"(201, 251)",0.0093860626220703,0.8007968127490039,"French Bulldog, Boston Terrier, English Bulldog",224,11,235,111,188,299
+@barkleysircharles10.jpg,"(286, 176)",0.0120201110839843,1.625,Error,88,1,89,111,52,163
+@barkleysircharles11.jpg,"(168, 300)",0.0100860595703125,0.56,Error,50,1,51,111,14,125
+@barkleysircharles2.jpg,"(226, 223)",0.009256362915039,1.0134529147982063,"French Bulldog, Boston Terrier, Pug",152,10,162,111,116,227
+@barkleysircharles3.jpg,"(210, 240)",0.0111904144287109,0.875,"French Bulldog, Boston Terrier, Pug",189,10,199,111,153,264
+@barkleysircharles4.jpg,"(209, 241)",0.0082254409790039,0.8672199170124482,"French Bulldog, Boston Terrier, Pug",156,10,166,111,120,231
+@barkleysircharles5.jpg,"(1080, 1144)",0.189091682434082,0.944055944055944,"French Bulldog, Boston Terrier, Pug",185,10,195,111,149,260
+@barkleysircharles6.jpg,"(224, 224)",0.0070095062255859,1.0,"French Bulldog, English Bulldog, American Bulldog",178,11,189,111,142,253
+@barkleysircharles7.jpg,"(225, 225)",0.0134963989257812,1.0,"French Bulldog, Boston Terrier, Pug",196,10,206,111,160,271
+@barkleysircharles8.jpg,"(320, 336)",0.0204448699951171,0.9523809523809524,French Bulldog,129,3,132,111,93,204
+@barkleysircharles9.jpg,"(207, 244)",0.013381004333496,0.8483606557377049,Error,69,1,70,111,33,144
+@bluestaffyboulder0.jpg,"(640, 640)",0.0886974334716796,1.0,"Staffordshire Bull Terrier, American Bully, American Staffordshire Terrier",107,16,123,111,71,182
+@bluestaffyboulder1.jpg,"(1280, 720)",0.1953258514404297,1.7777777777777777,Error,73,1,74,111,37,148
+@bluestaffyboulder10.jpg,"(640, 797)",0.0914373397827148,0.8030112923462986,Error,54,1,55,111,18,129
+@bluestaffyboulder11.jpg,"(1300, 956)",0.1127691268920898,1.3598326359832635,Error,47,1,48,111,11,122
+@bluestaffyboulder12.jpg,"(300, 168)",0.0146198272705078,1.7857142857142858,Error,49,1,50,111,13,124
+@bluestaffyboulder2.jpg,"(201, 251)",0.0140600204467773,0.8007968127490039,Error,49,1,50,111,13,124
+@bluestaffyboulder3.jpg,"(194, 259)",0.0138530731201171,0.749034749034749,Error,57,1,58,111,21,132
+@bluestaffyboulder4.jpg,"(640, 800)",0.1442184448242187,0.8,"Staffordshire Bull Terrier, American Staffordshire Terrier, American Pit Bull Terrier",182,18,200,111,146,257
+@bluestaffyboulder5.jpg,"(480, 360)",0.0453681945800781,1.3333333333333333,Error,83,1,84,111,47,158
+@bluestaffyboulder6.jpg,"(225, 225)",0.0130901336669921,1.0,"American Staffordshire Terrier, Staffordshire Bull Terrier, American Pit Bull Terrier",237,17,254,111,201,312
+@bluestaffyboulder7.jpg,"(800, 949)",0.1412391662597656,0.8429926238145417,Error,49,1,50,111,13,124
+@bluestaffyboulder8.jpg,"(236, 295)",0.0154399871826171,0.8,Error,48,1,49,111,12,123
+@bluestaffyboulder9.jpg,"(201, 251)",0.0104122161865234,0.8007968127490039,Error,49,1,50,111,13,124
+@carterchowchow0.jpg,"(1638, 2048)",0.433990478515625,0.7998046875,"Pomeranian, Chow Chow, Samoyed",193,10,203,111,157,268
+@carterchowchow1.jpg,"(168, 300)",0.0083951950073242,0.56,Error,49,1,50,111,13,124
+@carterchowchow10.jpg,"(600, 600)",0.042302131652832,1.0,"Chow Chow, Akita, Eurasier",155,9,164,111,119,230
+@carterchowchow11.jpg,"(1280, 720)",0.1043739318847656,1.7777777777777777,Error,71,1,72,111,35,146
+@carterchowchow2.jpg,"(640, 1138)",0.0554914474487304,0.562390158172232,"Chow Chow, Eurasier, Samoyed",230,10,240,111,194,305
+@carterchowchow3.jpg,"(1280, 720)",0.0711164474487304,1.7777777777777777,"Chow Chow, Eurasier, Keeshond",267,10,277,111,231,342
+@carterchowchow4.jpg,"(1638, 2048)",0.5419836044311523,0.7998046875,"Chow Chow, Samoyed, American Eskimo Dog",163,12,175,111,127,238
+@carterchowchow5.jpg,"(1280, 720)",0.0886850357055664,1.7777777777777777,"Chow Chow, Eurasier, Keeshond",143,10,153,111,107,218
+@carterchowchow6.jpg,"(1638, 2048)",0.6123256683349609,0.7998046875,"Pomeranian, Japanese Spitz, American Eskimo Dog",216,12,228,111,180,291
+@carterchowchow7.jpg,"(1280, 720)",0.0922374725341796,1.7777777777777777,Error,54,1,55,111,18,129
+@carterchowchow8.jpg,"(201, 251)",0.0116596221923828,0.8007968127490039,Error,48,1,49,111,12,123
+@carterchowchow9.jpg,"(300, 168)",0.0080690383911132,1.7857142857142858,Error,45,1,46,111,9,120
+@crusoe_dachshund0.jpg,"(900, 900)",0.0983600616455078,1.0,"Dachshund, Miniature Pinscher",113,9,122,111,77,188
+@crusoe_dachshund1.jpg,"(720, 720)",0.0591335296630859,1.0,Dachshunds,136,4,140,111,100,211
+@crusoe_dachshund11.jpg,"(225, 225)",0.0104961395263671,1.0,Dachshund,125,4,129,111,89,200
+@crusoe_dachshund2.jpg,"(225, 225)",0.0122003555297851,1.0,"Dachshund, Miniature Dachshund, Dachshund mix",180,17,197,111,144,255
+@crusoe_dachshund3.jpg,"(828, 824)",0.1100320816040039,1.0048543689320388,"Dachshund, Miniature Dachshund, Dachshund mix",173,17,190,111,137,248
+@crusoe_dachshund4.jpg,"(720, 1280)",0.081644058227539,0.5625,"Dachshund, Miniature Pinscher, Beagle",188,12,200,111,152,263
+@crusoe_dachshund5.jpg,"(1200, 1200)",0.2075786590576172,1.0,"Dachshund, Basset Hound, Beagle",182,12,194,111,146,257
+@crusoe_dachshund6.jpg,"(225, 224)",0.0118036270141601,1.0044642857142858,Dachshunds,143,4,147,111,107,218
+@crusoe_dachshund7.jpg,"(225, 225)",0.0154190063476562,1.0,Dachshunds,96,4,100,111,60,171
+@crusoe_dachshund8.jpg,"(405, 720)",0.0393848419189453,0.5625,"Dachshund, Miniature Pinscher, Beagle",263,12,275,111,227,338
+@crusoe_dachshund9.jpg,"(1048, 1048)",0.1872835159301757,1.0,"Dachshund, Miniature Pinscher, Basset Hound",233,14,247,111,197,308
+@dailydougie0.jpg,"(640, 640)",0.0811119079589843,1.0,"Shih Tzu, Lhasa Apso, Pekingese",169,14,183,111,133,244
+@dailydougie1.jpg,"(225, 225)",0.0086002349853515,1.0,Error,56,1,57,111,20,131
+@dailydougie10.jpg,"(640, 640)",0.075596809387207,1.0,"Pekingese, Shih Tzu, Lhasa Apso",201,14,215,111,165,276
+@dailydougie11.jpg,"(225, 225)",0.0128583908081054,1.0,"Shih Tzu, Lhasa Apso, Maltese",191,14,205,111,155,266
+@dailydougie2.jpg,"(640, 640)",0.0763435363769531,1.0,Error,54,1,55,111,18,129
+@dailydougie3.jpg,"(640, 640)",0.0654401779174804,1.0,Error,56,1,57,111,20,131
+@dailydougie4.jpg,"(1190, 1038)",0.1277446746826172,1.1464354527938343,"Shih Tzu, Lhasa Apso, Pekingese",119,14,133,111,83,194
+@dailydougie5.jpg,"(168, 300)",0.0076255798339843,0.56,Error,65,1,66,111,29,140
+@dailydougie6.jpg,"(225, 225)",0.0103349685668945,1.0,Error,52,1,53,111,16,127
+@dailydougie7.jpg,"(225, 225)",0.0093088150024414,1.0,"Pekingese, Shih Tzu, Lhasa Apso",225,14,239,111,189,300
+@dailydougie8.jpg,"(1080, 1080)",0.1258783340454101,1.0,"Pekingese, Shih Tzu, Lhasa Apso",239,14,253,111,203,314
+@dailydougie9.jpg,"(900, 900)",0.1128597259521484,1.0,"Shih Tzu, Pekingese, Lhasa Apso",210,14,224,111,174,285
+@dogwithsign0.jpg,"(1080, 1080)",0.2811059951782226,1.0,"Yorkshire Terrier, Silky Terrier, A mixed breed",206,13,219,111,170,281
+@dogwithsign1.jpg,"(1280, 720)",0.1294736862182617,1.7777777777777777,"Yorkshire Terrier, Dachshund, Silky Terrier",268,14,282,111,232,343
+@dogwithsign10.jpg,"(700, 875)",0.0864076614379882,0.8,"Dachshund Mix, Schnauzer Mix, Terrier Mix",235,14,249,111,199,310
+@dogwithsign11.jpg,"(700, 875)",0.132425308227539,0.8,Error,69,1,70,111,33,144
+@dogwithsign2.jpg,"(800, 450)",0.0448894500732421,1.7777777777777777,Error,55,1,56,111,19,130
+@dogwithsign4.jpg,"(700, 875)",0.1936225891113281,0.8,"Cavalier King Charles Spaniel, Cocker Spaniel, Miniature Schnauzer",189,18,207,111,153,264
+@dogwithsign5.jpg,"(700, 875)",0.192911148071289,0.8,Error,54,1,55,111,18,129
+@dogwithsign6.jpg,"(1456, 1456)",0.2319602966308593,1.0,"Yorkshire Terrier (Yorkie), Schnauzer, Dachshund",269,16,285,111,233,344
+@dogwithsign7.jpg,"(700, 875)",0.1276636123657226,0.8,"Yorkshire Terrier, Silky Terrier, Mixed Breed",237,12,249,111,201,312
+@dogwithsign8.jpg,"(700, 875)",0.1424570083618164,0.8,"Yorkshire Terrier, Dachshund, Schnauzer Mix",266,14,280,111,230,341
+@dogwithsign9.jpg,"(1200, 630)",0.1085529327392578,1.9047619047619049,"Schnauzer, Scottish Terrier, Wire Fox Terrier",244,13,257,111,208,319
+@eddie_jackrussell0.jpg,"(576, 700)",0.0519561767578125,0.8228571428571428,Error,103,1,104,111,67,178
+@eddie_jackrussell1.jpg,"(1400, 700)",0.0991535186767578,2.0,"Jack Russell Terrier, Parson Russell Terrier, Fox Terrier",169,14,183,111,133,244
+@eddie_jackrussell10.jpg,"(300, 168)",0.0070819854736328,1.7857142857142858,Error,56,1,57,111,20,131
+@eddie_jackrussell11.jpg,"(720, 900)",0.0417652130126953,0.8,"Jack Russell Terrier, Parson Russell Terrier, Russell Terrier",182,14,196,111,146,257
+@eddie_jackrussell12.jpg,"(399, 299)",0.0206785202026367,1.334448160535117,Error,79,1,80,111,43,154
+@eddie_jackrussell13.jpg,"(594, 594)",0.0395717620849609,1.0,Error,57,1,58,111,21,132
+@eddie_jackrussell2.jpg,"(220, 282)",0.0159740447998046,0.7801418439716312,"Jack Russell Terrier, Parson Russell Terrier, Rat Terrier",191,14,205,111,155,266
+@eddie_jackrussell3.jpg,"(272, 186)",0.0079717636108398,1.4623655913978495,"Jack Russell Terrier, Beagle, Fox Terrier",221,11,232,111,185,296
+@eddie_jackrussell4.jpg,"(480, 360)",0.0200042724609375,1.3333333333333333,"Jack Russell Terrier, Parson Russell Terrier, Rat Terrier",226,14,240,111,190,301
+@eddie_jackrussell5.jpg,"(1280, 720)",0.0878915786743164,1.7777777777777777,Error,56,1,57,111,20,131
+@eddie_jackrussell6.jpg,"(265, 341)",0.0192480087280273,0.7771260997067448,"Jack Russell Terrier, Beagle, Rat Terrier",175,11,186,111,139,250
+@eddie_jackrussell8.jpg,"(900, 900)",0.0508327484130859,1.0,"Jack Russell Terrier, Parson Russell Terrier, Rat Terrier",191,14,205,111,155,266
+@eddie_jackrussell9.jpg,"(512, 384)",0.0228939056396484,1.3333333333333333,"Jack Russell Terrier, Rat Terrier, Beagle",223,11,234,111,187,298
+@emmatheminifrenchie0.jpg,"(1200, 1200)",0.2280693054199218,1.0,"French Bulldog, Boston Terrier, Pug",178,10,188,111,142,253
+@emmatheminifrenchie1.jpg,"(800, 800)",0.0953779220581054,1.0,"French Bulldog, Boston Terrier, Pug",169,10,179,111,133,244
+@emmatheminifrenchie10.jpg,"(750, 1334)",0.1362218856811523,0.5622188905547226,Error,76,1,77,111,40,151
+@emmatheminifrenchie11.jpg,"(400, 400)",0.0235261917114257,1.0,"French Bulldog, Boston Terrier, English Bulldog, Pug",253,14,267,111,217,328
+@emmatheminifrenchie12.jpg,"(2315, 2315)",0.6149463653564453,1.0,"French Bulldog, Boston Terrier, Pug",188,10,198,111,152,263
+@emmatheminifrenchie2.jpg,"(750, 535)",0.0746421813964843,1.4018691588785046,Error,58,1,59,111,22,133
+@emmatheminifrenchie3.jpg,"(768, 960)",0.0776653289794921,0.8,"French Bulldog, Boston Terrier, Pug",150,10,160,111,114,225
+@emmatheminifrenchie4.jpg,"(2048, 2048)",0.2888059616088867,1.0,"French Bulldog, Boston Terrier, Pug",178,10,188,111,142,253
+@emmatheminifrenchie5.jpg,"(768, 960)",0.090066909790039,0.8,"French Bulldog, Boston Terrier, Pug",146,10,156,111,110,221
+@emmatheminifrenchie6.jpg,"(600, 600)",0.0499210357666015,1.0,"French Bulldog, Boston Terrier, Pug, English Bulldog",210,14,224,111,174,285
+@emmatheminifrenchie7.jpg,"(2048, 1536)",0.4789705276489258,1.3333333333333333,Error,64,1,65,111,28,139
+@emmatheminifrenchie8.jpg,"(201, 251)",0.0093450546264648,0.8007968127490039,Error,49,1,50,111,13,124
+@emmatheminifrenchie9.jpg,"(768, 768)",0.0941925048828125,1.0,"French Bulldog, English Bulldog, Boston Terrier",165,11,176,111,129,240
+@frankietothemoon1.jpg,"(686, 386)",0.0347719192504882,1.7772020725388602,Error,56,1,57,111,20,131
+@frankietothemoon10.jpg,"(480, 360)",0.0354738235473632,1.3333333333333333,"Australian Shepherd, Border Collie, English Shepherd",215,9,224,111,179,290
+@frankietothemoon12.jpg,"(168, 300)",0.0086660385131835,0.56,Error,55,1,56,111,19,130
+@frankietothemoon13.jpg,"(259, 194)",0.0115728378295898,1.3350515463917525,"Labrador Retriever, Border Collie, Australian Shepherd",191,12,203,111,155,266
+@frankietothemoon2.jpg,"(168, 300)",0.0080852508544921,0.56,Error,49,1,50,111,13,124
+@frankietothemoon3.jpg,"(259, 194)",0.0131540298461914,1.3350515463917525,"Australian Shepherd, Border Collie, Bernese Mountain Dog",118,11,129,111,82,193
+@frankietothemoon4.jpg,"(320, 180)",0.0107440948486328,1.7777777777777777,Error,49,1,50,111,13,124
+@frankietothemoon5.jpg,"(259, 194)",0.009164810180664,1.3350515463917525,Error,91,1,92,111,55,166
+@frankietothemoon6.jpg,"(553, 91)",0.0132608413696289,6.076923076923077,Error,48,1,49,111,12,123
+@frankietothemoon7.jpg,"(201, 251)",0.0092697143554687,0.8007968127490039,"Australian Shepherd, Border Collie, Miniature Australian Shepherd",215,11,226,111,179,290
+@frankietothemoon8.jpg,"(900, 900)",0.0714406967163086,1.0,"Australian Shepherd, Border Collie, Miniature American Shepherd",194,11,205,111,158,269
+@frankietothemoon9.jpg,"(1280, 720)",0.0733890533447265,1.7777777777777777,Error,48,1,49,111,12,123
+@goldenunicornrae0.jpg,"(300, 168)",0.0096435546875,1.7857142857142858,Error,54,1,55,111,18,129
+@goldenunicornrae1.jpg,"(237, 213)",0.0166997909545898,1.1126760563380282,Error,58,1,59,111,22,133
+@goldenunicornrae10.jpg,"(201, 251)",0.0100812911987304,0.8007968127490039,"Golden Retriever, Labrador Retriever, Nova Scotia Duck Tolling Retriever",194,18,212,111,158,269
+@goldenunicornrae11.jpg,"(310, 163)",0.0100612640380859,1.901840490797546,Error,54,1,55,111,18,129
+@goldenunicornrae12.jpg,"(201, 251)",0.0089521408081054,0.8007968127490039,Error,48,1,49,111,12,123
+@goldenunicornrae2.jpg,"(225, 225)",0.0130081176757812,1.0,"Chow Chow, Samoyed, Keeshond",176,11,187,111,140,251
+@goldenunicornrae3.jpg,"(225, 225)",0.0154571533203125,1.0,Error,77,1,78,111,41,152
+@goldenunicornrae4.jpg,"(300, 168)",0.0141506195068359,1.7857142857142858,Error,57,1,58,111,21,132
+@goldenunicornrae5.jpg,"(280, 180)",0.0102386474609375,1.5555555555555556,Error,49,1,50,111,13,124
+@goldenunicornrae6.jpg,"(225, 225)",0.0071134567260742,1.0,Error,54,1,55,111,18,129
+@goldenunicornrae8.jpg,"(225, 225)",0.0078620910644531,1.0,Error,83,1,84,111,47,158
+@goldenunicornrae9.jpg,"(580, 372)",0.0335235595703125,1.5591397849462365,Error,48,1,49,111,12,123
+@good.boy.ollie0.jpg,"(225, 225)",0.007120132446289,1.0,"Pug, Cavalier King Charles Spaniel, Chihuahua",188,14,202,111,152,263
+@good.boy.ollie1.jpg,"(768, 1024)",0.1519422531127929,0.75,Error,56,1,57,111,20,131
+@good.boy.ollie10.jpg,"(300, 373)",0.0234041213989257,0.8042895442359249,"Labrador Retriever, Chesapeake Bay Retriever, Flat-Coated Retriever",216,19,235,111,180,291
+@good.boy.ollie11.jpg,"(1200, 1500)",0.2390756607055664,0.8,"Labrador Retriever, Vizsla, Rhodesian Ridgeback",257,14,271,111,221,332
+@good.boy.ollie2.jpg,"(300, 300)",0.0117969512939453,1.0,"Labrador Retriever, German Shorthaired Pointer, Vizsla",176,15,191,111,140,251
+@good.boy.ollie3.jpg,"(1200, 1500)",0.2343759536743164,0.8,"Labrador Retriever, Chesapeake Bay Retriever, Flat-Coated Retriever",222,19,241,111,186,297
+@good.boy.ollie4.jpg,"(518, 695)",0.0602350234985351,0.7453237410071942,"Labrador Retriever, Labrador Retriever",177,10,187,111,141,252
+@good.boy.ollie5.jpg,"(1280, 720)",0.1182336807250976,1.7777777777777777,Error,49,1,50,111,13,124
+@good.boy.ollie6.jpg,"(1200, 800)",0.0904779434204101,1.5,"Labrador Retriever, Chesapeake Bay Retriever, Flat-Coated Retriever",228,19,247,111,192,303
+@good.boy.ollie7.jpg,"(578, 829)",0.0664043426513671,0.6972255729794934,"Labrador Retriever, Chesapeake Bay Retriever, Flat-Coated Retriever, Nova Scotia Duck Tolling Retriever",250,28,278,111,214,325
+@good.boy.ollie9.jpg,"(1280, 720)",0.0842399597167968,1.7777777777777777,"Labrador Retriever, Chesapeake Bay Retriever, Flat-Coated Retriever",213,19,232,111,177,288
+@harlso0.jpg,"(1280, 720)",0.0645675659179687,1.7777777777777777,"Dachshund, Basset Hound, Beagle",194,12,206,111,158,269
+@harlso1.jpg,"(300, 168)",0.0112161636352539,1.7857142857142858,"Dachshund, Basset Hound, Miniature Pinscher, Beagle",245,17,262,111,209,320
+@harlso10.jpg,"(201, 251)",0.010909080505371,0.8007968127490039,Dachshund,93,4,97,111,57,168
+@harlso11.jpg,"(800, 800)",0.0598878860473632,1.0,"Dachshund, Basset Hound, Beagle, Miniature Pinscher",285,17,302,111,249,360
+@harlso12.jpg,"(300, 168)",0.0093574523925781,1.7857142857142858,"Dachshund, Miniature Pinscher, Basset Hound",244,14,258,111,208,319
+@harlso13.jpg,"(3614, 3614)",0.5799751281738281,1.0,"Dachshund, Miniature Pinscher, Basset Hound",191,14,205,111,155,266
+@harlso14.jpg,"(480, 480)",0.0358695983886718,1.0,"Dachshund, Miniature Pinscher, Basset Hound",198,14,212,111,162,273
+@harlso3.jpg,"(940, 939)",0.0720691680908203,1.0010649627263046,"Dachshund, Beagle, Miniature Pinscher, Basset Hound",330,17,347,111,294,405
+@harlso4.jpg,"(1200, 675)",0.2014369964599609,1.7777777777777777,"Dachshund, Black and Tan Coonhound, Miniature Pinscher",213,16,229,111,177,288
+@harlso5.jpg,"(201, 251)",0.0076236724853515,0.8007968127490039,Error,71,1,72,111,35,146
+@harlso6.jpg,"(168, 300)",0.0099897384643554,0.56,Error,71,1,72,111,35,146
+@harlso7.jpg,"(894, 894)",0.0799932479858398,1.0,"Dachshund, Corgi, Basset Hound",177,13,190,111,141,252
+@harlso8.jpg,"(1080, 1181)",0.0989923477172851,0.9144792548687553,"Dachshund, Miniature Pinscher, Beagle",235,12,247,111,199,310
+@harlso9.jpg,"(1500, 1000)",0.1888246536254882,1.5,Doberman Pinscher,126,4,130,111,90,201
+@henrythecoloradodog0.jpg,"(512, 640)",0.0615873336791992,0.8,"Beagle mix, Labrador Retriever mix, German Shepherd mix",267,13,280,111,231,342
+@henrythecoloradodog1.jpg,"(1080, 1329)",0.1566133499145507,0.8126410835214447,Error,66,1,67,111,30,141
+@henrythecoloradodog10.jpg,"(204, 247)",0.0089921951293945,0.8259109311740891,Error,49,1,50,111,13,124
+@henrythecoloradodog11.jpg,"(1500, 1819)",0.1731176376342773,0.8246289169873557,Error,56,1,57,111,20,131
+@henrythecoloradodog12.jpg,"(201, 251)",0.0140132904052734,0.8007968127490039,Error,52,1,53,111,16,127
+@henrythecoloradodog13.jpg,"(1080, 1350)",0.1095724105834961,0.8,"American Bulldog, Boxer, Pit Bull Terrier mix",282,12,294,111,246,357
+@henrythecoloradodog2.jpg,"(736, 920)",0.0968284606933593,0.8,Error,47,1,48,111,11,122
+@henrythecoloradodog4.jpg,"(232, 217)",0.0090713500976562,1.0691244239631337,Error,47,1,48,111,11,122
+@henrythecoloradodog5.jpg,"(480, 480)",0.0410823822021484,1.0,"American Staffordshire Terrier, Boxer, Mixed Breed",192,11,203,111,156,267
+@henrythecoloradodog6.jpg,"(2030, 2048)",0.3433895111083984,0.9912109375,"Siberian Husky, Alaskan Malamute, Bernese Mountain Dog",208,16,224,111,172,283
+@henrythecoloradodog7.jpg,"(761, 428)",0.0536661148071289,1.77803738317757,"Staffordshire Bull Terrier, American Staffordshire Terrier, American Pit Bull Terrier",165,18,183,111,129,240
+@henrythecoloradodog8.jpg,"(1278, 2048)",0.2190704345703125,0.6240234375,"Australian Cattle Dog, Beagle, American Pit Bull Terrier, Staffordshire Bull Terrier",216,19,235,111,180,291
+@henrythecoloradodog9.jpg,"(201, 251)",0.0148344039916992,0.8007968127490039,Error,55,1,56,111,19,130
+@hi_im_chewie0.jpg,"(194, 259)",0.0119476318359375,0.749034749034749,Error,106,1,107,111,70,181
+@hi_im_chewie1.jpg,"(201, 251)",0.0083799362182617,0.8007968127490039,Error,56,1,57,111,20,131
+@hi_im_chewie10.jpg,"(640, 640)",0.0634078979492187,1.0,Error,49,1,50,111,13,124
+@hi_im_chewie11.jpg,"(203, 248)",0.0119533538818359,0.8185483870967742,Error,93,1,94,111,57,168
+@hi_im_chewie12.jpg,"(225, 225)",0.0165567398071289,1.0,Error,57,1,58,111,21,132
+@hi_im_chewie2.jpg,"(640, 800)",0.0657405853271484,0.8,Error,64,1,65,111,28,139
+@hi_im_chewie3.jpg,"(225, 225)",0.0105524063110351,1.0,"Pomeranian, American Eskimo Dog (Miniature), German Spitz",188,15,203,111,152,263
+@hi_im_chewie4.jpg,"(225, 225)",0.0144987106323242,1.0,"Pomeranian, American Eskimo Dog, German Spitz",119,12,131,111,83,194
+@hi_im_chewie5.jpg,"(201, 251)",0.010838508605957,0.8007968127490039,"Pomeranian, German Spitz, American Eskimo Dog",201,12,213,111,165,276
+@hi_im_chewie6.jpg,"(399, 501)",0.0309362411499023,0.7964071856287425,"Pomeranian, American Eskimo Dog, Keeshond",151,12,163,111,115,226
+@hi_im_chewie7.jpg,"(225, 225)",0.0080432891845703,1.0,"Pomeranian, German Spitz, American Eskimo Dog (Miniature)",146,16,162,111,110,221
+@hi_im_chewie8.jpg,"(200, 252)",0.0097150802612304,0.7936507936507936,"Pomeranian, German Spitz, American Eskimo Dog (Miniature), Keeshond",206,19,225,111,170,281
+@hi_im_chewie9.jpg,"(201, 251)",0.012948989868164,0.8007968127490039,"Pomeranian, American Eskimo Dog, Japanese Spitz, Volpino Italiano",230,18,248,111,194,305
+@itsdougthepug0.jpg,"(736, 920)",0.0779428482055664,0.8,"Pug, French Bulldog, Boston Terrier, English Bulldog",240,14,254,111,204,315
+@itsdougthepug1.jpg,"(1500, 1125)",0.1641044616699218,1.3333333333333333,"Pug, French Bulldog, Boston Terrier",230,10,240,111,194,305
+@itsdougthepug11.jpg,"(2048, 2048)",0.4653291702270508,1.0,"Pug, French Bulldog, Boston Terrier",221,10,231,111,185,296
+@itsdougthepug2.jpg,"(736, 736)",0.0944910049438476,1.0,"Pug, French Bulldog, English Bulldog",237,10,247,111,201,312
+@itsdougthepug3.jpg,"(736, 736)",0.1032447814941406,1.0,"Pug, French Bulldog, Boston Terrier, Bulldog",230,13,243,111,194,305
+@itsdougthepug4.jpg,"(1280, 720)",0.1800947189331054,1.7777777777777777,"Pug, French Bulldog, Boston Terrier",235,10,245,111,199,310
+@itsdougthepug5.jpg,"(1536, 2048)",0.5084447860717773,0.75,"Pug, French Bulldog, Boston Terrier",217,10,227,111,181,292
+@itsdougthepug6.jpg,"(800, 1315)",0.1430006027221679,0.6083650190114068,Pug,132,2,134,111,96,207
+@itsdougthepug7.jpg,"(1440, 806)",0.1262025833129882,1.7866004962779156,"Pug, French Bulldog, Bulldog, Boston Terrier",345,13,358,111,309,420
+@itsdougthepug8.jpg,"(900, 900)",0.0745973587036132,1.0,"Pug, French Bulldog, Boston Terrier",194,10,204,111,158,269
+@itsdougthepug9.jpg,"(736, 736)",0.0904397964477539,1.0,"Pug, French Bulldog, Boston Terrier",205,10,215,111,169,280
+@izzythe.frenchie0.jpg,"(557, 560)",0.0594263076782226,0.9946428571428572,Error,47,1,48,111,11,122
+@izzythe.frenchie1.jpg,"(400, 400)",0.0232753753662109,1.0,Error,56,1,57,111,20,131
+@izzythe.frenchie10.jpg,"(2000, 1333)",0.2057380676269531,1.5003750937734437,Error,49,1,50,111,13,124
+@izzythe.frenchie2.jpg,"(1500, 2248)",0.1560611724853515,0.6672597864768683,"French Bulldog, Boston Terrier, Pug",141,10,151,111,105,216
+@izzythe.frenchie3.jpg,"(220, 293)",0.0131587982177734,0.7508532423208191,"French Bulldog, Boston Terrier, Pug, Bulldog",271,13,284,111,235,346
+@izzythe.frenchie4.jpg,"(1440, 1440)",0.3748722076416015,1.0,"French Bulldog, Boston Terrier, Pug",113,10,123,111,77,188
+@izzythe.frenchie6.jpg,"(2548, 1700)",0.2628955841064453,1.4988235294117649,"French Bulldog, Boston Terrier, Pug",200,10,210,111,164,275
+@izzythe.frenchie7.jpg,"(660, 372)",0.0162839889526367,1.7741935483870968,Error,47,1,48,111,11,122
+@izzythe.frenchie8.jpg,"(201, 250)",0.0055103302001953,0.804,"French Bulldog, Boston Terrier, Pug, English Bulldog",240,14,254,111,204,315
+@jackson_the_dalmatian0.jpg,"(225, 225)",0.0113773345947265,1.0,"Dalmatian, English Setter, Bluetick Coonhound, Pointer",211,16,227,111,175,286
+@jackson_the_dalmatian1.jpg,"(168, 300)",0.0106210708618164,0.56,Error,79,1,80,111,43,154
+@jackson_the_dalmatian10.jpg,"(564, 564)",0.0302095413208007,1.0,"Dalmatian, English Setter, Bluetick Coonhound",189,14,203,111,153,264
+@jackson_the_dalmatian11.jpg,"(225, 225)",0.0078859329223632,1.0,"Dalmatian, English Setter, Pointer, American Staffordshire Terrier",267,15,282,111,231,342
+@jackson_the_dalmatian2.jpg,"(168, 300)",0.013101577758789,0.56,"Dalmatian, English Setter, Pointer",224,9,233,111,188,299
+@jackson_the_dalmatian3.jpg,"(225, 225)",0.0081977844238281,1.0,"Dalmatian, Pointer, English Setter",223,9,232,111,187,298
+@jackson_the_dalmatian4.jpg,"(260, 194)",0.0096855163574218,1.3402061855670102,Error,54,1,55,111,18,129
+@jackson_the_dalmatian5.jpg,"(168, 300)",0.0103521347045898,0.56,"Dalmatian, English Setter, German Shorthaired Pointer, Australian Cattle Dog",181,18,199,111,145,256
+@jackson_the_dalmatian6.jpg,"(170, 297)",0.012883186340332,0.5723905723905723,"Dalmatian, Pointer, English Setter",177,9,186,111,141,252
+@jackson_the_dalmatian7.jpg,"(259, 194)",0.0115642547607421,1.3350515463917525,Dalmatians,124,4,128,111,88,199
+@jackson_the_dalmatian8.jpg,"(236, 413)",0.0243129730224609,0.5714285714285714,"Dalmatian, English Pointer, American Staffordshire Terrier",169,13,182,111,133,244
+@jackson_the_dalmatian9.jpg,"(238, 211)",0.0111093521118164,1.127962085308057,"Dalmatian, English Setter, Pointer",217,9,226,111,181,292
+@jiffpom0.jpg,"(1080, 1350)",0.1902112960815429,0.8,Error,68,1,69,111,32,143
+@jiffpom1.jpg,"(300, 300)",0.0148382186889648,1.0,"Pomeranian, German Spitz, Keeshond",191,11,202,111,155,266
+@jiffpom10.jpg,"(1200, 1200)",0.146066665649414,1.0,Error,54,1,55,111,18,129
+@jiffpom11.jpg,"(1080, 1080)",0.0838756561279296,1.0,"Pomeranian, Keeshond, American Eskimo Dog",164,12,176,111,128,239
+@jiffpom2.jpg,"(400, 400)",0.0172338485717773,1.0,"Pomeranian, Keeshond, American Eskimo Dog",201,12,213,111,165,276
+@jiffpom3.jpg,"(640, 640)",0.0485210418701171,1.0,"Pomeranian, American Eskimo Dog (Miniature), Japanese Spitz",215,15,230,111,179,290
+@jiffpom4.jpg,"(900, 900)",0.0693950653076171,1.0,Pomeranian,114,3,117,111,78,189
+@jiffpom5.jpg,"(3077, 3077)",0.5114517211914062,1.0,"Pomeranian, American Eskimo Dog, German Spitz",157,12,169,111,121,232
+@jiffpom6.jpg,"(640, 640)",0.0519704818725585,1.0,Error,54,1,55,111,18,129
+@jiffpom7.jpg,"(1136, 852)",0.0707979202270507,1.3333333333333333,"Pomeranian, American Eskimo Dog (Miniature), Japanese Spitz",226,15,241,111,190,301
+@jiffpom8.jpg,"(1200, 1200)",0.0825157165527343,1.0,"Pomeranian, German Spitz, American Eskimo Dog",167,12,179,111,131,242
+@jiffpom9.jpg,"(225, 225)",0.0064296722412109,1.0,"Pomeranian, German Spitz, Japanese Spitz",220,11,231,111,184,295
+@lecorgi1.jpg,"(300, 300)",0.0146093368530273,1.0,"Pembroke Welsh Corgi, Shetland Sheepdog, Finnish Spitz",123,17,140,111,87,198
+@lecorgi10.jpg,"(700, 467)",0.0496397018432617,1.4989293361884368,"Pembroke Welsh Corgi, Cardigan Welsh Corgi, Corgi mix",182,19,201,111,146,257
+@lecorgi11.jpg,"(225, 225)",0.0109720230102539,1.0,"Pembroke Welsh Corgi, Cardigan Welsh Corgi, Shetland Sheepdog",234,20,254,111,198,309
+@lecorgi12.jpg,"(201, 251)",0.0097837448120117,0.8007968127490039,Error,56,1,57,111,20,131
+@lecorgi2.jpg,"(700, 467)",0.048588752746582,1.4989293361884368,Error,49,1,50,111,13,124
+@lecorgi3.jpg,"(1080, 1350)",0.1632709503173828,0.8,Error,68,1,69,111,32,143
+@lecorgi4.jpg,"(1080, 1080)",0.1612186431884765,1.0,Error,43,1,44,111,7,118
+@lecorgi5.jpg,"(1200, 1200)",0.0914564132690429,1.0,"Pembroke Welsh Corgi, Cardigan Welsh Corgi, Shetland Sheepdog",255,20,275,111,219,330
+@lecorgi6.jpg,"(760, 430)",0.0429677963256835,1.7674418604651163,Error,49,1,50,111,13,124
+@lecorgi7.jpg,"(736, 919)",0.0822439193725586,0.8008705114254625,"Pembroke Welsh Corgi, Cardigan Welsh Corgi, Shetland Sheepdog",205,20,225,111,169,280
+@lecorgi8.jpg,"(201, 251)",0.0100965499877929,0.8007968127490039,"Pembroke Welsh Corgi, Shetland Sheepdog, Cardigan Welsh Corgi",176,20,196,111,140,251
+@lecorgi9.jpg,"(275, 183)",0.0121040344238281,1.5027322404371584,Error,55,1,56,111,19,130
+@loki_the_wolfdog0.jpg,"(1400, 1151)",0.2727785110473633,1.2163336229365769,"Siberian Husky, Alaskan Malamute, Alaskan Husky",203,16,219,111,167,278
+@loki_the_wolfdog1.jpg,"(880, 879)",0.1955823898315429,1.0011376564277588,"Husky, Siberian Husky, Alaskan Malamute, Samoyed",163,18,181,111,127,238
+@loki_the_wolfdog10.jpg,"(2000, 1334)",0.3827238082885742,1.4992503748125936,"Alaskan Malamute, Siberian Husky, Samoyed",282,14,296,111,246,357
+@loki_the_wolfdog11.jpg,"(1200, 627)",0.0644636154174804,1.9138755980861244,"Alaskan Malamute, Siberian Husky, Canadian Eskimo Dog",235,15,250,111,199,310
+@loki_the_wolfdog12.jpg,"(670, 669)",0.0639238357543945,1.001494768310912,Error,48,1,49,111,12,123
+@loki_the_wolfdog13.jpg,"(3529, 2353)",1.511762619018555,1.4997875053123673,"Siberian Husky, Alaskan Malamute, Canadian Eskimo Dog",226,16,242,111,190,301
+@loki_the_wolfdog2.jpg,"(227, 222)",0.011876106262207,1.0225225225225223,Error,85,1,86,111,49,160
+@loki_the_wolfdog4.jpg,"(465, 300)",0.034468650817871,1.55,"Alaskan Malamute, Siberian Husky, Canadian Eskimo Dog",206,15,221,111,170,281
+@loki_the_wolfdog5.jpg,"(1800, 1440)",0.2927160263061523,1.25,Error,49,1,50,111,13,124
+@loki_the_wolfdog6.jpg,"(2000, 1334)",0.2552013397216797,1.4992503748125936,"Siberian Husky, Alaskan Malamute, Samoyed, Alaskan Husky",208,20,228,111,172,283
+@loki_the_wolfdog7.jpg,"(1800, 1013)",0.1180782318115234,1.7769002961500493,"Siberian Husky, Alaskan Malamute, Samoyed",175,15,190,111,139,250
+@loki_the_wolfdog8.jpg,"(201, 251)",0.0116157531738281,0.8007968127490039,Error,55,1,56,111,19,130
+@loki_the_wolfdog9.jpg,"(225, 225)",0.0143013000488281,1.0,Error,55,1,56,111,19,130
+@madmax_fluffyroad0.jpg,"(225, 225)",0.0079107284545898,1.0,"Pembroke Welsh Corgi, Cardigan Welsh Corgi, Shetland Sheepdog, American Eskimo Dog",229,25,254,111,193,304
+@madmax_fluffyroad1.jpg,"(201, 251)",0.0107831954956054,0.8007968127490039,"Pembroke Welsh Corgi, Shetland Sheepdog (Sheltie), Long-haired Chihuahua",229,24,253,111,193,304
+@madmax_fluffyroad11.jpg,"(201, 251)",0.0076541900634765,0.8007968127490039,"Pembroke Welsh Corgi, Cardigan Welsh Corgi, Shetland Sheepdog",209,20,229,111,173,284
+@madmax_fluffyroad12.jpg,"(201, 251)",0.0088472366333007,0.8007968127490039,"Pembroke Welsh Corgi, Cardigan Welsh Corgi",128,14,142,111,92,203
+@madmax_fluffyroad2.jpg,"(201, 251)",0.0100717544555664,0.8007968127490039,Error,56,1,57,111,20,131
+@madmax_fluffyroad3.jpg,"(900, 900)",0.0659818649291992,1.0,"Pembroke Welsh Corgi, Cardigan Welsh Corgi, Swedish Vallhund, Lancashire Heeler",206,24,230,111,170,281
+@madmax_fluffyroad4.jpg,"(201, 251)",0.0127382278442382,0.8007968127490039,Error,57,1,58,111,21,132
+@madmax_fluffyroad5.jpg,"(201, 251)",0.0091981887817382,0.8007968127490039,"Pembroke Welsh Corgi, Shetland Sheepdog, Cardigan Welsh Corgi",238,20,258,111,202,313
+@madmax_fluffyroad6.jpg,"(225, 225)",0.0076913833618164,1.0,"Pembroke Welsh Corgi, Cardigan Welsh Corgi",147,14,161,111,111,222
+@madmax_fluffyroad7.jpg,"(168, 300)",0.0075664520263671,0.56,Error,47,1,48,111,11,122
+@madmax_fluffyroad8.jpg,"(225, 224)",0.0074872970581054,1.0044642857142858,"Pembroke Welsh Corgi, Shetland Sheepdog, Long-haired Chihuahua",244,20,264,111,208,319
+@madmax_fluffyroad9.jpg,"(201, 251)",0.0063533782958984,0.8007968127490039,"Pembroke Welsh Corgi, Labrador Retriever, German Shepherd",265,15,280,111,229,340
+@manny_the_frenchie0.jpg,"(640, 640)",0.0453243255615234,1.0,"English Bulldog, French Bulldog, Pug",162,10,172,111,126,237
+@manny_the_frenchie1.jpg,"(167, 250)",0.0046415328979492,0.668,Error,56,1,57,111,20,131
+@manny_the_frenchie10.jpg,"(750, 421)",0.0303068161010742,1.7814726840855106,"French Bulldog, Boston Terrier, Pug, English Bulldog",218,14,232,111,182,293
+@manny_the_frenchie11.jpg,"(6016, 4000)",1.7584266662597656,1.504,"French Bulldog, Boston Terrier, English Bulldog",227,11,238,111,191,302
+@manny_the_frenchie2.jpg,"(1399, 1784)",0.2663373947143554,0.7841928251121076,"French Bulldog, Boston Terrier, Pug, Bulldog",225,13,238,111,189,300
+@manny_the_frenchie4.jpg,"(2000, 1333)",0.0811977386474609,1.5003750937734437,French Bulldog,91,3,94,111,55,166
+@manny_the_frenchie5.jpg,"(465, 612)",0.0208759307861328,0.7598039215686274,"French Bulldog, Boston Terrier, Pug",222,10,232,111,186,297
+@manny_the_frenchie6.jpg,"(1200, 628)",0.0966215133666992,1.910828025477707,"French Bulldog, Boston Terrier, Pug, English Bulldog",250,14,264,111,214,325
+@manny_the_frenchie7.jpg,"(1920, 1080)",0.1182699203491211,1.7777777777777777,"French Bulldog, Boston Terrier, Pug, English Bulldog",212,14,226,111,176,287
+@manny_the_frenchie8.jpg,"(736, 736)",0.1196203231811523,1.0,"French Bulldog, Boston Terrier, English Bulldog",181,11,192,111,145,256
+@manny_the_frenchie9.jpg,"(1500, 1000)",0.1198263168334961,1.5,"French Bulldog, English Bulldog, Boston Terrier",203,11,214,111,167,278
+@marniethedog0.jpg,"(2031, 1712)",0.3870840072631836,1.1863317757009346,"Shih Tzu, Pekingese, Lhasa Apso",195,14,209,111,159,270
+@marniethedog1.jpg,"(1280, 1280)",0.1398048400878906,1.0,Error,84,1,85,111,48,159
+@marniethedog10.jpg,"(1280, 1103)",0.1184349060058593,1.1604714415231188,Error,48,1,49,111,12,123
+@marniethedog11.jpg,"(2048, 1536)",0.3190650939941406,1.3333333333333333,"Shih Tzu, Pekingese, Lhasa Apso",196,14,210,111,160,271
+@marniethedog2.jpg,"(1280, 960)",0.0923986434936523,1.3333333333333333,"Shih Tzu, Lhasa Apso, Pekingese",222,14,236,111,186,297
+@marniethedog3.jpg,"(1200, 630)",0.0628032684326171,1.9047619047619049,"Shih Tzu, Lhasa Apso, Pekingese",116,14,130,111,80,191
+@marniethedog4.jpg,"(3000, 1943)",0.3887338638305664,1.5440041173443129,Error,93,1,94,111,57,168
+@marniethedog5.jpg,"(1200, 800)",0.0883169174194336,1.5,Error,55,1,56,111,19,130
+@marniethedog6.jpg,"(2048, 1692)",0.4282484054565429,1.210401891252955,Error,47,1,48,111,11,122
+@marniethedog7.jpg,"(1000, 1000)",0.077244758605957,1.0,Error,49,1,50,111,13,124
+@marniethedog8.jpg,"(1200, 630)",0.1400165557861328,1.9047619047619049,"Shih Tzu, Lhasa Apso, Pekingese",221,14,235,111,185,296
+@marniethedog9.jpg,"(1080, 928)",0.1185188293457031,1.1637931034482758,"Shih Tzu, Lhasa Apso, Maltese mix",271,15,286,111,235,346
+@marutaro0.jpg,"(360, 360)",0.0152206420898437,1.0,"Akita Inu, Shiba Inu, Siberian Husky",145,14,159,111,109,220
+@marutaro1.jpg,"(1024, 1024)",0.0803518295288086,1.0,"Shiba Inu, Akita Inu, Jindo",185,12,197,111,149,260
+@marutaro10.jpg,"(612, 612)",0.0430097579956054,1.0,"Shiba Inu, Akita Inu, Jindo",227,12,239,111,191,302
+@marutaro11.jpg,"(1024, 680)",0.0682106018066406,1.5058823529411764,"Shiba Inu, Akita, Jindo, Finnish Spitz",255,14,269,111,219,330
+@marutaro3.jpg,"(1200, 753)",0.0990934371948242,1.593625498007968,Error,52,1,53,111,16,127
+@marutaro4.jpg,"(1200, 809)",0.099466323852539,1.4833127317676142,"Shiba Inu, Akita Inu, Jindo",186,12,198,111,150,261
+@marutaro5.jpg,"(804, 859)",0.090911865234375,0.9359720605355064,"Shiba Inu, Akita Inu, Jindo",232,12,244,111,196,307
+@marutaro6.jpg,"(750, 422)",0.0204324722290039,1.7772511848341233,"Shiba Inu, Akita Inu, Jindo, Finnish Spitz",196,16,212,111,160,271
+@marutaro7.jpg,"(768, 821)",0.0732440948486328,0.9354445797807552,Error,44,1,45,111,8,119
+@marutaro8.jpg,"(609, 608)",0.1177282333374023,1.0016447368421053,Error,49,1,50,111,13,124
+@marutaro9.jpg,"(825, 464)",0.0420799255371093,1.7780172413793105,"Shiba Inu, Akita Inu, Jindo",238,12,250,111,202,313
+@mayapolarbear0.jpg,"(320, 180)",0.0094194412231445,1.7777777777777777,"Samoyed, Great Pyrenees, American Eskimo Dog",167,13,180,111,131,242
+@mayapolarbear1.jpg,"(1080, 1080)",0.0900421142578125,1.0,"Samoyed, American Eskimo Dog, Japanese Spitz",174,12,186,111,138,249
+@mayapolarbear10.jpg,"(225, 225)",0.0070314407348632,1.0,Error,50,1,51,111,14,125
+@mayapolarbear11.jpg,"(1080, 1080)",0.0998296737670898,1.0,"Samoyed, American Eskimo Dog, Japanese Spitz",183,12,195,111,147,258
+@mayapolarbear12.jpg,"(696, 805)",0.0441398620605468,0.8645962732919255,"Samoyed, American Eskimo Dog, Great Pyrenees",156,13,169,111,120,231
+@mayapolarbear2.jpg,"(209, 241)",0.0065679550170898,0.8672199170124482,"Samoyed, American Eskimo Dog, Japanese Spitz",173,12,185,111,137,248
+@mayapolarbear3.jpg,"(201, 250)",0.0084218978881835,0.804,"Samoyed, American Eskimo Dog, Japanese Spitz, Great Pyrenees",266,17,283,111,230,341
+@mayapolarbear4.jpg,"(1080, 1920)",0.2426681518554687,0.5625,Error,48,1,49,111,12,123
+@mayapolarbear5.jpg,"(1080, 1080)",0.1076011657714843,1.0,"Samoyed, American Eskimo Dog, Japanese Spitz",95,12,107,111,59,170
+@mayapolarbear6.jpg,"(250, 250)",0.009078025817871,1.0,"Samoyed, American Eskimo Dog, Great Pyrenees",203,13,216,111,167,278
+@mayapolarbear7.jpg,"(720, 900)",0.0556793212890625,0.8,"Samoyed, American Eskimo Dog, Japanese Spitz",178,12,190,111,142,253
+@mayapolarbear8.jpg,"(1080, 1080)",0.1191234588623046,1.0,"Samoyed, American Eskimo Dog, Japanese Spitz",250,12,262,111,214,325
+@mayapolarbear9.jpg,"(900, 900)",0.0732364654541015,1.0,"Samoyed, American Eskimo Dog, Japanese Spitz",238,12,250,111,202,313
+@mayathedox0.jpg,"(2048, 2048)",0.4944639205932617,1.0,"Dachshund, Miniature Dachshund, Basset Hound",191,16,207,111,155,266
+@mayathedox10.jpg,"(300, 168)",0.0045166015625,1.7857142857142858,Error,48,1,49,111,12,123
+@mayathedox12.jpg,"(201, 251)",0.0090150833129882,0.8007968127490039,"Golden Retriever, Cocker Spaniel, Golden Cocker Retriever",238,16,254,111,202,313
+@mayathedox2.jpg,"(640, 640)",0.0728282928466796,1.0,"Dachshund, Basset Hound, Corgi",133,13,146,111,97,208
+@mayathedox3.jpg,"(225, 225)",0.0048904418945312,1.0,Error,49,1,50,111,13,124
+@mayathedox4.jpg,"(225, 225)",0.0124845504760742,1.0,Error,49,1,50,111,13,124
+@mayathedox5.jpg,"(735, 825)",0.0560235977172851,0.8909090909090909,"Dachshund, Cavalier King Charles Spaniel, Cocker Spaniel",210,16,226,111,174,285
+@mayathedox6.jpg,"(736, 919)",0.0910797119140625,0.8008705114254625,"Golden Retriever, Cocker Spaniel, Miniature Dachshund/Long-haired Dachshund",184,23,207,111,148,259
+@mayathedox7.jpg,"(225, 225)",0.0111274719238281,1.0,"Dachshund, Cocker Spaniel, Cavalier King Charles Spaniel",153,16,169,111,117,228
+@mayathedox9.jpg,"(225, 225)",0.0052337646484375,1.0,"Cocker Spaniel, Cavalier King Charles Spaniel, Golden Retriever",190,16,206,111,154,265
+@mensweardog0.jpg,"(2048, 906)",0.2620782852172851,2.260485651214128,Shiba Inu,137,4,141,111,101,212
+@mensweardog1.jpg,"(1500, 1500)",0.2345523834228515,1.0,"Shiba Inu, Akita Inu, Finnish Spitz",188,13,201,111,152,263
+@mensweardog10.jpg,"(1280, 853)",0.0726776123046875,1.5005861664712778,"Shiba Inu, Akita Inu, Jindo",216,12,228,111,180,291
+@mensweardog11.jpg,"(1824, 1824)",0.270848274230957,1.0,"Shiba Inu, Akita Inu, Jindo",240,12,252,111,204,315
+@mensweardog2.jpg,"(1200, 630)",0.0403060913085937,1.9047619047619049,"Labrador Retriever, German Shepherd, Golden Retriever",136,13,149,111,100,211
+@mensweardog3.jpg,"(1477, 1477)",0.2030544281005859,1.0,"Shiba Inu, Akita, Jindo",209,10,219,111,173,284
+@mensweardog4.jpg,"(1073, 1200)",0.2012033462524414,0.8941666666666667,"Shiba Inu, Akita Inu, Finnish Spitz, Jindo",217,16,233,111,181,292
+@mensweardog5.jpg,"(1280, 1280)",0.1681337356567382,1.0,"Shiba Inu, Akita Inu, Jindo",190,12,202,111,154,265
+@mensweardog6.jpg,"(634, 626)",0.0587720870971679,1.012779552715655,"Shiba Inu, Akita, Jindo, Finnish Spitz",214,14,228,111,178,289
+@mensweardog7.jpg,"(400, 400)",0.0158929824829101,1.0,"Shiba Inu, Akita Inu, Finnish Spitz",199,13,212,111,163,274
+@mensweardog8.jpg,"(1425, 1425)",0.2933359146118164,1.0,"Shiba Inu, Akita Inu, Jindo",279,12,291,111,243,354
+@mensweardog9.jpg,"(1648, 1649)",0.5698909759521484,0.9993935718617344,"Shiba Inu, Akita Inu, Jindo, Finnish Spitz",166,16,182,111,130,241
+@norbertthedog0.jpg,"(2424, 1617)",0.5209999084472656,1.4990723562152133,"Maltese, Bichon Frise, Shih Tzu",184,14,198,111,148,259
+@norbertthedog1.jpg,"(500, 500)",0.0305452346801757,1.0,"Shih Tzu, Maltese, Lhasa Apso",209,14,223,111,173,284
+@norbertthedog10.jpg,"(900, 900)",0.0849113464355468,1.0,"Bichon Frise, Maltese, Havanese",206,13,219,111,170,281
+@norbertthedog11.jpg,"(2500, 2500)",0.6308832168579102,1.0,"Shih Tzu, Maltese, Havanese",213,12,225,111,177,288
+@norbertthedog2.jpg,"(992, 558)",0.0631866455078125,1.7777777777777777,"Maltese, Bichon Frise, Havanese",209,13,222,111,173,284
+@norbertthedog3.jpg,"(589, 582)",0.0329551696777343,1.0120274914089349,"Maltese, Shih Tzu, Havanese",205,12,217,111,169,280
+@norbertthedog4.jpg,"(1600, 900)",0.1501283645629882,1.7777777777777777,"Maltese, Bichon Frise, Shih Tzu",246,14,260,111,210,321
+@norbertthedog5.jpg,"(480, 480)",0.0236568450927734,1.0,Error,50,1,51,111,14,125
+@norbertthedog6.jpg,"(900, 900)",0.1082525253295898,1.0,"Maltese, Bichon Frise, Havanese",240,13,253,111,204,315
+@norbertthedog7.jpg,"(2500, 3750)",0.9774188995361328,0.6666666666666666,"Shih Tzu, Maltese, Papillon",240,11,251,111,204,315
+@norbertthedog8.jpg,"(2048, 2048)",0.5154619216918945,1.0,Error,67,1,68,111,31,142
+@norbertthedog9.jpg,"(1200, 600)",0.0994625091552734,2.0,"Maltese, Shih Tzu, Pomeranian",148,12,160,111,112,223
+@pavlovthecorgi0.jpg,"(168, 300)",0.007843017578125,0.56,"Pembroke Welsh Corgi, Cardigan Welsh Corgi, Shetland Sheepdog (Sheltie)",212,25,237,111,176,287
+@pavlovthecorgi10.jpg,"(201, 251)",0.0147027969360351,0.8007968127490039,"Pembroke Welsh Corgi, Cardigan Welsh Corgi, Corgi mix with another breed",148,22,170,111,112,223
+@pavlovthecorgi11.jpg,"(400, 400)",0.0236444473266601,1.0,Error,72,1,73,111,36,147
+@pavlovthecorgi2.jpg,"(168, 300)",0.0096511840820312,0.56,"Pembroke Welsh Corgi, Cardigan Welsh Corgi, Shetland Sheepdog",254,20,274,111,218,329
+@pavlovthecorgi3.jpg,"(168, 300)",0.0086698532104492,0.56,Error,56,1,57,111,20,131
+@pavlovthecorgi4.jpg,"(168, 300)",0.0188198089599609,0.56,Error,70,1,71,111,34,145
+@pavlovthecorgi5.jpg,"(168, 300)",0.013005256652832,0.56,Error,60,1,61,111,24,135
+@pavlovthecorgi6.jpg,"(168, 300)",0.0097646713256835,0.56,Error,91,1,92,111,55,166
+@pavlovthecorgi7.jpg,"(201, 251)",0.0089330673217773,0.8007968127490039,"Pembroke Welsh Corgi, Cardigan Welsh Corgi, Corgi mixed with another breed",121,22,143,111,85,196
+@pavlovthecorgi8.jpg,"(168, 300)",0.0128412246704101,0.56,"Pembroke Welsh Corgi, Keeshond, Alaskan Malamute, Eurasier",148,20,168,111,112,223
+@pavlovthecorgi9.jpg,"(225, 225)",0.0085096359252929,1.0,"Pembroke Welsh Corgi, Cardigan Welsh Corgi, Swedish Vallhund, Shetland Sheepdog",227,25,252,111,191,302
+@pipperontour0.jpg,"(1080, 1080)",0.3174190521240234,1.0,Error,48,1,49,111,12,123
+@pipperontour1.jpg,"(1600, 1066)",0.2029981613159179,1.50093808630394,Error,68,1,69,111,32,143
+@pipperontour10.jpg,"(1000, 1000)",0.2278213500976562,1.0,"Jack Russell Terrier, Rat Terrier, Beagle",267,11,278,111,231,342
+@pipperontour11.jpg,"(1000, 1000)",0.1956911087036132,1.0,"Jack Russell Terrier, Rat Terrier, Parson Russell Terrier",255,14,269,111,219,330
+@pipperontour12.jpg,"(1200, 544)",0.0480480194091796,2.2058823529411766,Error,56,1,57,111,20,131
+@pipperontour2.jpg,"(702, 460)",0.0486049652099609,1.5260869565217392,Error,56,1,57,111,20,131
+@pipperontour4.jpg,"(224, 224)",0.0081682205200195,1.0,Error,56,1,57,111,20,131
+@pipperontour5.jpg,"(300, 168)",0.0085706710815429,1.7857142857142858,Error,69,1,70,111,33,144
+@pipperontour6.jpg,"(1440, 1080)",0.2998437881469726,1.3333333333333333,"Jack Russell Terrier, Rat Terrier, Smooth Fox Terrier",240,13,253,111,204,315
+@pipperontour7.jpg,"(980, 980)",0.3408193588256836,1.0,Error,49,1,50,111,13,124
+@pipperontour8.jpg,"(291, 240)",0.0212345123291015,1.2125,Error,49,1,50,111,13,124
+@pipperontour9.jpg,"(259, 194)",0.0064620971679687,1.3350515463917525,Error,48,1,49,111,12,123
+@popeyethefoodie0.jpg,"(259, 194)",0.0085182189941406,1.3350515463917525,"Maltese, Shih Tzu, Yorkshire Terrier",167,12,179,111,131,242
+@popeyethefoodie1.jpg,"(201, 251)",0.0135812759399414,0.8007968127490039,"Shih Tzu, Yorkshire Terrier, Havanese",206,12,218,111,170,281
+@popeyethefoodie10.jpg,"(2048, 2048)",0.5229387283325195,1.0,"Maltese, Bichon Frise, Maltipoo",268,14,282,111,232,343
+@popeyethefoodie11.jpg,"(224, 224)",0.0126304626464843,1.0,Error,49,1,50,111,13,124
+@popeyethefoodie12.jpg,"(1913, 1913)",0.3334617614746094,1.0,Error,46,1,47,111,10,121
+@popeyethefoodie13.jpg,"(201, 250)",0.0104427337646484,0.804,"Yorkshire Terrier (Yorkie), Silky Terrier, Shih Tzu",269,17,286,111,233,344
+@popeyethefoodie14.jpg,"(2048, 2048)",0.505335807800293,1.0,"Bichon Frise, Maltese, Havanese",241,13,254,111,205,316
+@popeyethefoodie2.jpg,"(634, 634)",0.0731058120727539,1.0,Error,55,1,56,111,19,130
+@popeyethefoodie3.jpg,"(300, 168)",0.0118646621704101,1.7857142857142858,Error,53,1,54,111,17,128
+@popeyethefoodie4.jpg,"(201, 251)",0.0108861923217773,0.8007968127490039,"Maltese, Bichon Frise, Maltipoo",184,14,198,111,148,259
+@popeyethefoodie5.jpg,"(596, 335)",0.0353899002075195,1.7791044776119402,Error,47,1,48,111,11,122
+@popeyethefoodie6.jpg,"(960, 1200)",0.1684675216674804,0.8,Error,54,1,55,111,18,129
+@popeyethefoodie7.jpg,"(1460, 1632)",0.1497049331665039,0.8946078431372549,Error,55,1,56,111,19,130
+@popeyethefoodie8.jpg,"(1775, 1775)",0.5120067596435547,1.0,Error,49,1,50,111,13,124
+@popeyethefoodie9.jpg,"(736, 736)",0.1239452362060546,1.0,"Yorkshire Terrier (Yorkie), Maltese, Bichon Frise",254,17,271,111,218,329
+@ppteamaria11.jpg,"(1080, 1080)",0.1675310134887695,1.0,"Dachshund, Basset Hound, Beagle",187,12,199,111,151,262
+@ppteamaria13.jpg,"(1200, 1056)",0.1648550033569336,1.1363636363636365,"Dachshund, Basset Hound, Corgi",169,13,182,111,133,244
+@ppteamaria2.jpg,"(201, 251)",0.006052017211914,0.8007968127490039,Error,85,1,86,111,49,160
+@ppteamaria4.jpg,"(225, 225)",0.0122509002685546,1.0,"Dachshund, Miniature Pinscher, Beagle, Manchester Terrier",197,16,213,111,161,272
+@ppteamaria5.jpg,"(168, 300)",0.0053424835205078,0.56,Error,75,1,76,111,39,150
+@ppteamaria8.jpg,"(200, 200)",0.0079526901245117,1.0,"Dachshund, Basset Hound, Coonhound",277,13,290,111,241,352
+@ppteamaria9.jpg,"(2048, 1386)",0.2735958099365234,1.4776334776334776,"Dachshund, Smooth-coat Dachshund, Long-haired Dachshund, Wire-haired Dachshund",207,26,233,111,171,282
+@ppteamkler0.jpg,"(201, 251)",0.0088052749633789,0.8007968127490039,"Dachshund, Basset Hound, Beagle",218,12,230,111,182,293
+@ppteamkler1.jpg,"(225, 225)",0.0119247436523437,1.0,Dachshund,154,4,158,111,118,229
+@ppteamkler10.jpg,"(400, 400)",0.0215721130371093,1.0,"Doberman Pinscher, Rottweiler, Beauceron",169,13,182,111,133,244
+@ppteamkler11.jpg,"(275, 183)",0.0116186141967773,1.5027322404371584,"Dachshunds, Basset Hounds, Corgi",218,13,231,111,182,293
+@ppteamkler2.jpg,"(228, 221)",0.0189428329467773,1.0316742081447965,Error,57,1,58,111,21,132
+@ppteamkler3.jpg,"(225, 225)",0.0178661346435546,1.0,Error,88,1,89,111,52,163
+@ppteamkler4.jpg,"(1080, 1080)",0.3741092681884765,1.0,"Dachshund, Miniature Dachshund, Dachshund mix",169,17,186,111,133,244
+@ppteamkler5.jpg,"(228, 221)",0.0189704895019531,1.0316742081447965,"Dachshund, Chihuahua, Miniature Pinscher",174,14,188,111,138,249
+@ppteamkler6.jpg,"(225, 225)",0.012547492980957,1.0,"Dachshund, Miniature Dachshund, A mix that includes Dachshund characteristics",161,21,182,111,124,235
+@ppteamkler7.jpg,"(236, 176)",0.0066938400268554,1.3409090909090908,Error,70,1,71,111,34,145
+@ppteamkler8.jpg,"(225, 225)",0.0223903656005859,1.0,Error,43,1,44,111,7,118
+@ppteamkler9.jpg,"(259, 194)",0.0101232528686523,1.3350515463917525,Error,71,1,72,111,35,146
+@reagandoodle0.jpg,"(1080, 1080)",0.2105588912963867,1.0,"Labradoodle, Goldendoodle, Cockapoo",207,11,218,111,171,282
+@reagandoodle1.jpg,"(1600, 900)",0.2345914840698242,1.7777777777777777,Error,79,1,80,111,43,154
+@reagandoodle10.jpg,"(480, 360)",0.0253276824951171,1.3333333333333333,"Labrador Retriever, Golden Retriever, German Shepherd",239,13,252,111,203,314
+@reagandoodle2.jpg,"(600, 600)",0.0667314529418945,1.0,Error,55,1,56,111,19,130
+@reagandoodle3.jpg,"(600, 600)",0.0509090423583984,1.0,"Australian Shepherd, Border Collie, Brittany Spaniel",259,10,269,111,223,334
+@reagandoodle4.jpg,"(740, 740)",0.0963201522827148,1.0,"Labradoodle, Goldendoodle, Cockapoo",216,11,227,111,180,291
+@reagandoodle5.jpg,"(750, 750)",0.0871210098266601,1.0,Error,45,1,46,111,9,120
+@reagandoodle6.jpg,"(600, 600)",0.0823917388916015,1.0,"Labradoodle, Goldendoodle, Cockapoo",237,11,248,111,201,312
+@reagandoodle7.jpg,"(600, 600)",0.0547008514404296,1.0,"Cavalier King Charles Spaniel, Cocker Spaniel, English Springer Spaniel",262,17,279,111,226,337
+@reagandoodle8.jpg,"(1080, 1080)",0.1854228973388672,1.0,"Labradoodles, Labrador Retriever, Poodle, Goldendoodles, Golden Retriever, Cockapoos, Cocker Spaniel, Australian Labradoodles, Spaniel breeds",180,38,218,111,144,255
+@reagandoodle9.jpg,"(1200, 630)",0.0968751907348632,1.9047619047619049,"Cavalier King Charles Spaniel, Cocker Spaniel, Poodle, Cockapoo, Cavapoo",217,23,240,111,181,292
+@rocco_roni0.jpg,"(168, 300)",0.0077056884765625,0.56,Error,46,1,47,111,10,121
+@rocco_roni1.jpg,"(1200, 1200)",0.1717147827148437,1.0,"Old English Sheepdog, Bearded Collie, Polish Lowland Sheepdog",210,15,225,111,174,285
+@rocco_roni10.jpg,"(224, 225)",0.0079908370971679,0.9955555555555556,"Samoyed, Old English Sheepdog, Great Pyrenees",178,13,191,111,142,253
+@rocco_roni11.jpg,"(1638, 2048)",0.3931894302368164,0.7998046875,Error,49,1,50,111,13,124
+@rocco_roni2.jpg,"(400, 400)",0.0215654373168945,1.0,"Old English Sheepdog, Bearded Collie, Polish Lowland Sheepdog",198,15,213,111,162,273
+@rocco_roni3.jpg,"(960, 960)",0.0554065704345703,1.0,Error,55,1,56,111,19,130
+@rocco_roni4.jpg,"(225, 225)",0.010232925415039,1.0,"Old English Sheepdog, Bearded Collie, Polish Lowland Sheepdog",215,15,230,111,179,290
+@rocco_roni5.jpg,"(1024, 576)",0.0362367630004882,1.7777777777777777,"Old English Sheepdog, Bearded Collie, Polish Lowland Sheepdog",212,15,227,111,176,287
+@rocco_roni6.jpg,"(615, 290)",0.0218524932861328,2.1206896551724137,"Old English Sheepdog, Samoyed, Bichon Frise",212,14,226,111,176,287
+@rocco_roni7.jpg,"(768, 768)",0.0824756622314453,1.0,"Old English Sheepdog, Bearded Collie, Polish Lowland Sheepdog",214,15,229,111,178,289
+@rocco_roni8.jpg,"(1080, 1080)",0.0945692062377929,1.0,"Old English Sheepdog, Bearded Collie, Bouvier des Flandres",219,16,235,111,183,294
+@rocco_roni9.jpg,"(360, 360)",0.0081815719604492,1.0,"Old English Sheepdog, Samoyed, Bichon Frise",195,14,209,111,159,270
+@samsonthedood0.jpg,"(1080, 1258)",0.1524372100830078,0.8585055643879174,"Toy Poodle, Bichon Frise, Cavalier King Charles Spaniel",237,16,253,111,201,312
+@samsonthedood10.jpg,"(206, 245)",0.0073280334472656,0.8408163265306122,"Labradoodle, Goldendoodle, Miniature or Standard Poodle",224,14,238,111,188,299
+@samsonthedood11.jpg,"(185, 272)",0.0093994140625,0.6801470588235294,"Poodle, Labradoodle (Labrador Retriever and Poodle mix), Goldendoodle (Golden Retriever and Poodle mix), Standard Poodle",137,33,170,111,101,212
+@samsonthedood12.jpg,"(700, 794)",0.0845375061035156,0.8816120906801007,"Poodle, Labradoodle, Goldendoodle",179,10,189,111,143,254
+@samsonthedood2.jpg,"(280, 180)",0.0156068801879882,1.5555555555555556,Error,48,1,49,111,12,123
+@samsonthedood7.jpg,"(640, 604)",0.0941429138183593,1.0596026490066226,"Labradoodles, Labrador Retriever, Poodle, Goldendoodles, Golden Retriever",141,20,161,111,105,216
+@samsonthedood8.jpg,"(225, 225)",0.0113935470581054,1.0,"Poodle, Labradoodle, Goldendoodle",189,10,199,111,153,264
+@siberianhusky_jax0.jpg,"(640, 800)",0.0382003784179687,0.8,Error,49,1,50,111,13,124
+@siberianhusky_jax1.jpg,"(736, 736)",0.089604377746582,1.0,"Siberian Husky, Alaskan Malamutes, Samoyeds",163,15,178,111,127,238
+@siberianhusky_jax10.jpg,"(461, 570)",0.0212440490722656,0.8087719298245614,Error,49,1,50,111,13,124
+@siberianhusky_jax11.jpg,"(1241, 992)",0.1364107131958007,1.251008064516129,"Siberian Husky, Alaskan Malamute, Samoyed",204,15,219,111,168,279
+@siberianhusky_jax12.jpg,"(225, 225)",0.0100822448730468,1.0,"Siberian Husky, Alaskan Malamute, Malamute-Wolf hybrid, Samoyed",251,22,273,111,215,326
+@siberianhusky_jax2.jpg,"(639, 359)",0.0287809371948242,1.7799442896935933,"Siberian Husky, Alaskan Malamute, Samoyed, American Eskimo Dog",176,20,196,111,140,251
+@siberianhusky_jax4.jpg,"(640, 640)",0.0975522994995117,1.0,"Siberian Husky, Alaskan Malamute, Samoyed",223,15,238,111,187,298
+@siberianhusky_jax5.jpg,"(463, 575)",0.0201301574707031,0.8052173913043478,"Siberian Husky, Alaskan Malamute, Malamute-Husky mix",194,19,213,111,158,269
+@siberianhusky_jax8.jpg,"(735, 725)",0.1433248519897461,1.013793103448276,"Siberian Husky, Alaskan Malamute, Samoyed",179,15,194,111,143,254
+@siberianhusky_jax9.jpg,"(736, 920)",0.0783214569091796,0.8,"Siberian Husky, Alaskan Malamute, Samoyed",195,15,210,111,159,270
+@tecuaniventura10.jpg,"(640, 640)",0.058424949645996,1.0,"Bulldog, Xoloitzcuintli",181,11,192,111,145,256
+@tecuaniventura11.jpg,"(235, 214)",0.0093441009521484,1.0981308411214954,"Bulldog, English Bulldog, American Bulldog, French Bulldog",228,16,244,111,192,303
+@tecuaniventura12.jpg,"(1080, 1080)",0.1192989349365234,1.0,Error,56,1,57,111,20,131
+@tecuaniventura13.jpg,"(1200, 1200)",0.2839679718017578,1.0,"English Bulldog, Victorian Bulldog, American Bulldog",260,11,271,111,224,335
+@tecuaniventura2.jpg,"(480, 940)",0.0603618621826171,0.5106382978723404,"English Bulldog, French Bulldog, Pug",139,10,149,111,103,214
+@tecuaniventura3.jpg,"(800, 800)",0.0666875839233398,1.0,"Bulldog, Pug, Boxer, Bullmastiff",209,14,223,111,173,284
+@tecuaniventura4.jpg,"(1024, 865)",0.0803384780883789,1.1838150289017342,"English Bulldog, French Bulldog, American Bulldog",144,11,155,111,108,219
+@tecuaniventura5.jpg,"(225, 224)",0.0095386505126953,1.0044642857142858,Error,74,1,75,111,38,149
+@tecuaniventura6.jpg,"(632, 448)",0.0390758514404296,1.4107142857142858,Error,48,1,49,111,12,123
+@tecuaniventura7.jpg,"(400, 400)",0.0166273117065429,1.0,Error,84,1,85,111,48,159
+@tecuaniventura8.jpg,"(1200, 656)",0.0754222869873046,1.829268292682927,"English Bulldog, French Bulldog, Boxer, Pug",226,13,239,111,190,301
+@tecuaniventura9.jpg,"(1920, 1080)",0.1807975769042968,1.7777777777777777,Bulldog,114,4,118,111,78,189
+@thiswildidea0.jpg,"(736, 588)",0.0533084869384765,1.251700680272109,"German Shorthaired Pointer, Vizsla, American English Coonhound",229,15,244,111,193,304
+@thiswildidea11.jpg,"(736, 920)",0.0975198745727539,0.8,"Labrador Retriever, German Shepherd, Beagle",269,11,280,111,233,344
+@thiswildidea2.jpg,"(600, 300)",0.0278644561767578,2.0,"Labrador Retriever, Golden Retriever, Chesapeake Bay Retriever",111,17,128,111,75,186
+@thiswildidea3.jpg,"(1280, 720)",0.1014127731323242,1.7777777777777777,Error,49,1,50,111,13,124
+@thiswildidea4.jpg,"(1000, 1000)",0.0547857284545898,1.0,"Beagle, American Foxhound, Harrier",149,9,158,111,113,224
+@thiswildidea5.jpg,"(224, 225)",0.0107173919677734,0.9955555555555556,Error,114,1,115,111,78,189
+@thiswildidea7.jpg,"(1248, 702)",0.1409597396850586,1.7777777777777777,"Basset Hound, Beagle, Coonhound",259,11,270,111,223,334
+@thiswildidea8.jpg,"(1149, 1440)",0.1815061569213867,0.7979166666666667,"American English Coonhound, Pointer, Vizsla",215,11,226,111,179,290
+@thiswildidea9.jpg,"(1920, 1085)",0.1224603652954101,1.7695852534562213,"Labrador Retriever, German Shepherd, Golden Retriever",194,13,207,111,158,269
+@tikatheiggy0.jpg,"(1231, 1555)",0.1386127471923828,0.7916398713826367,"Italian Greyhound, Whippet, Chihuahua",216,11,227,111,180,291
+@tikatheiggy1.jpg,"(300, 168)",0.0099725723266601,1.7857142857142858,"Chihuahua, Pomeranian, French Bulldog",256,12,268,111,220,331
+@tikatheiggy10.jpg,"(168, 299)",0.0050516128540039,0.5618729096989966,Error,140,1,141,111,104,215
+@tikatheiggy12.jpg,"(275, 183)",0.0073699951171875,1.5027322404371584,Error,59,1,60,111,23,134
+@tikatheiggy13.jpg,"(700, 525)",0.0362443923950195,1.3333333333333333,Error,48,1,49,111,12,123
+@tikatheiggy2.jpg,"(4000, 3000)",1.2929754257202148,1.3333333333333333,Error,128,1,129,111,92,203
+@tikatheiggy3.jpg,"(640, 640)",0.0342884063720703,1.0,Error,75,1,76,111,39,150
+@tikatheiggy5.jpg,"(4000, 4000)",1.2218408584594729,1.0,"Greyhound, Whippet, Italian Greyhound, Saluki",239,12,251,111,203,314
+@tikatheiggy6.jpg,"(640, 640)",0.0422639846801757,1.0,Error,50,1,51,111,14,125
+@tikatheiggy7.jpg,"(310, 163)",0.0051136016845703,1.901840490797546,Error,49,1,50,111,13,124
+@tikatheiggy8.jpg,"(1920, 2512)",0.4734869003295898,0.7643312101910829,"Italian Greyhound, Whippet, Miniature Pinscher",193,11,204,111,157,268
+@tikatheiggy9.jpg,"(1080, 810)",0.094217300415039,1.3333333333333333,"Italian Greyhound, Whippet, Greyhound",222,9,231,111,186,297
+@tinkerbellethedog1.jpg,"(4509, 3586)",0.9632492065429688,1.2573898494143894,Error,48,1,49,111,12,123
+@tinkerbellethedog10.jpg,"(2367, 3550)",0.3516016006469726,0.6667605633802817,Error,48,1,49,111,12,123
+@tinkerbellethedog11.jpg,"(2367, 3550)",0.3405189514160156,0.6667605633802817,"Shih Tzu, Maltese, Havanese",216,12,228,111,180,291
+@tinkerbellethedog4.jpg,"(1200, 720)",0.100651741027832,1.6666666666666667,"Shih Tzu, Maltese, Mixed Breed",212,11,223,111,176,287
+@tinkerbellethedog5.jpg,"(4096, 2731)",0.5574064254760742,1.4998169168802635,Error,48,1,49,111,12,123
+@tinkerbellethedog6.jpg,"(225, 225)",0.0114555358886718,1.0,"Shih Tzu, Maltese, Havanese",257,12,269,111,221,332
+@toastmeetsworld0.jpg,"(415, 612)",0.0376014709472656,0.6781045751633987,"Cavalier King Charles Spaniel, English Cocker Spaniel, American Cocker Spaniel, English Toy Spaniel",214,24,238,111,178,289
+@toastmeetsworld1.jpg,"(225, 224)",0.0170421600341796,1.0044642857142858,Error,86,1,87,111,50,161
+@toastmeetsworld10.jpg,"(275, 183)",0.0126428604125976,1.5027322404371584,Error,54,1,55,111,18,129
+@toastmeetsworld11.jpg,"(800, 541)",0.0596027374267578,1.478743068391867,"Cavalier King Charles Spaniel, English Toy Spaniel, Cocker Spaniel, American Cocker Spaniel",226,23,249,111,190,301
+@toastmeetsworld2.jpg,"(1600, 1200)",0.2324285507202148,1.3333333333333333,"Cavalier King Charles Spaniel, Cocker Spaniel, English Toy Spaniel (King Charles Spaniel)",253,23,276,111,217,328
+@toastmeetsworld3.jpg,"(640, 400)",0.0417203903198242,1.6,Error,50,1,51,111,14,125
+@toastmeetsworld4.jpg,"(736, 736)",0.1120252609252929,1.0,Error,48,1,49,111,12,123
+@toastmeetsworld5.jpg,"(634, 632)",0.0668478012084961,1.0031645569620251,Error,56,1,57,111,20,131
+@toastmeetsworld6.jpg,"(186, 271)",0.0118846893310546,0.6863468634686347,Error,47,1,48,111,11,122
+@toastmeetsworld9.jpg,"(750, 539)",0.03900146484375,1.391465677179963,Error,56,1,57,111,20,131
+@tuckerbudzyn0.jpg,"(176, 176)",0.0049724578857421,1.0,"Golden Retriever, Labrador Retriever, Flat-Coated Retriever, Chesapeake Bay Retriever",216,23,239,111,180,291
+@tuckerbudzyn1.jpg,"(1076, 1337)",0.2120227813720703,0.8047868362004488,"Golden Retriever, Labrador Retriever, Nova Scotia Duck Tolling Retriever",205,18,223,111,169,280
+@tuckerbudzyn10.jpg,"(640, 640)",0.0466785430908203,1.0,"Golden Retriever, Labrador Retriever, Nova Scotia Duck Tolling Retriever",158,18,176,111,122,233
+@tuckerbudzyn11.jpg,"(960, 1200)",0.1335277557373047,0.8,"Golden Retriever, Labrador Retriever, Nova Scotia Duck Tolling Retriever",204,18,222,111,168,279
+@tuckerbudzyn3.jpg,"(900, 1600)",0.1994924545288086,0.5625,"Golden Retriever, Labrador Retriever, Flat-Coated Retriever",231,16,247,111,195,306
+@tuckerbudzyn4.jpg,"(1596, 900)",0.0540189743041992,1.7733333333333334,Golden Retriever,92,4,96,111,56,167
+@tuckerbudzyn5.jpg,"(900, 900)",0.0659313201904296,1.0,"Golden Retriever, Labrador Retriever, Golden Retriever mix",214,15,229,111,178,289
+@tuckerbudzyn6.jpg,"(1440, 1800)",0.3178119659423828,0.8,Golden Retrievers,72,3,75,111,36,147
+@tuckerbudzyn7.jpg,"(640, 800)",0.0594339370727539,0.8,"Golden Retriever, Labrador Retriever, Nova Scotia Duck Tolling Retriever, Chesapeake Bay Retriever",236,25,261,111,200,311
+@tuckerbudzyn8.jpg,"(360, 451)",0.0340156555175781,0.7982261640798226,"Golden Retriever, Labrador Retriever, Nova Scotia Duck Tolling Retriever, Flat-Coated Retriever",253,25,278,111,217,328
+@tuckerbudzyn9.jpg,"(800, 603)",0.060983657836914,1.326699834162521,"Golden Retriever, Labrador Retriever, Flat-Coated Retriever",206,16,222,111,170,281
+@tunameltsmyheart0.jpg,"(400, 400)",0.026686668395996,1.0,Error,49,1,50,111,13,124
+@tunameltsmyheart1.jpg,"(883, 883)",0.0870676040649414,1.0,Error,68,1,69,111,32,143
+@tunameltsmyheart10.jpg,"(2500, 3333)",0.8382587432861328,0.7500750075007501,"Chihuahua, Miniature Pinscher, Rat Terrier",184,13,197,111,148,259
+@tunameltsmyheart11.jpg,"(640, 640)",0.0405359268188476,1.0,Error,56,1,57,111,20,131
+@tunameltsmyheart2.jpg,"(888, 500)",0.0379486083984375,1.776,"Chihuahua, Pug, Miniature Pinscher",198,12,210,111,162,273
+@tunameltsmyheart3.jpg,"(599, 595)",0.0464754104614257,1.0067226890756302,"Chihuahua, Miniature Pinscher, A Mix",214,12,226,111,178,289
+@tunameltsmyheart4.jpg,"(1080, 1080)",0.1050195693969726,1.0,Error,49,1,50,111,13,124
+@tunameltsmyheart5.jpg,"(1024, 1024)",0.2308616638183593,1.0,"Chihuahua, Miniature Pinscher, Italian Greyhound",168,13,181,111,132,243
+@tunameltsmyheart6.jpg,"(752, 1000)",0.1257867813110351,0.752,Error,60,1,61,111,24,135
+@tunameltsmyheart7.jpg,"(340, 340)",0.0109872817993164,1.0,"Chihuahua, Dachshund, Miniature Pinscher",230,14,244,111,194,305
+@tunameltsmyheart8.jpg,"(667, 1000)",0.0911111831665039,0.667,"Chihuahua, Miniature Pinscher, Italian Greyhound",197,13,210,111,161,272
+@tunameltsmyheart9.jpg,"(736, 736)",0.0630407333374023,1.0,Error,76,1,77,111,40,151

@@ -1,0 +1,22 @@
+File Name,Dimensions,File Size (MB),Aspect Ratio,Vision Response,Vision Tokens
+@hi_im_chewie3.jpg,"(225, 225)",0.0105524063110351,1.0,"The dog in the image appears to be a Pomeranian. Pomeranians are known for their fluffy coats and small size. While this one resembles a typical Pomeranian, please note that without a professional assessment, it's not possible to be certain about the breed. However, if you are looking for three possible breeds based on similar characteristics, they could be:
+
+1. Pomeranian
+2. American Eskimo Dog (Miniature) – They also have a fluffy coat and a similar facial structure, but are generally larger in size than Pomeranians.
+3. German Spitz – They are very similar to Pomeranians in terms of appearance and size, as the Pomeranian is actually part of the Spitz family.","{'prompt_tokens': 111, 'completion_tokens': 152, 'total_tokens': 263}"
+@hi_im_chewie4.jpg,"(225, 225)",0.0144987106323242,1.0,"The dog in the picture looks like a Pomeranian, which is characterized by its fluffy double coat, small ears, and fox-like face. While the Pomeranian is the most likely breed given its appearance, other small fluffy breeds that are sometimes similar in appearance could include the American Eskimo Dog or the German Spitz, albeit they are generally larger than the Pomeranian and have slightly different physical characteristics.","{'prompt_tokens': 111, 'completion_tokens': 83, 'total_tokens': 194}"
+@hi_im_chewie5.jpg,"(201, 251)",0.010838508605957,0.8007968127490039,"Based on the image provided, the dog appears to be a Pomeranian. This breed is characterized by its small size, fluffy double coat, and fox-like facial features. However, as you've asked for three possible breeds, here they are:
+
+1. Pomeranian: The dog in the photo mostly resembles this popular toy breed, renowned for its thick, puffy fur and tiny size.
+
+2. German Spitz: They are very similar to Pomeranians with a fluffy coat and spitz-type characteristics, such as a pointed muzzle and ears.
+
+3. American Eskimo Dog: While they are typically larger than Pomeranians, the smaller variety known as the ""Toy American Eskimo Dog"" could look quite similar to the dog in the image, especially considering the plush white coat and facial structure.","{'prompt_tokens': 111, 'completion_tokens': 165, 'total_tokens': 276}"
+@hi_im_chewie6.jpg,"(399, 501)",0.0309362411499023,0.7964071856287425,"The dog in the image appears to be a Pomeranian. Pomeranians are known for their fluffy double coats, small size, and fox-like facial features. It's important to note that this is the breed that the dog most closely resembles given the visual characteristics. Other spitz-type breeds that are sometimes similar in appearance include the American Eskimo Dog and the Keeshond, but they are generally larger than the Pomeranian.
+
+However, based on this particular photo and considering size, coat, and facial structure, it is most likely a Pomeranian.","{'prompt_tokens': 111, 'completion_tokens': 115, 'total_tokens': 226}"
+@hi_im_chewie7.jpg,"(225, 225)",0.0080432891845703,1.0,"Sure! Based on the image of the dog you provided:
+
+1. Pomeranian - This seems most likely, as the dog has the fluffy double coat, small ears, and distinctive ""pom"" face that are characteristic of the breed.
+2. German Spitz - They can sometimes resemble Pomeranians with their plush fur and fox-like facial features.
+3. American Eskimo Dog (Miniature) - They share a similar physical appearance to the Pomeranian, with a fluffy coat and alert expression, although they're typically larger.","{'prompt_tokens': 111, 'completion_tokens': 110, 'total_tokens': 221}"

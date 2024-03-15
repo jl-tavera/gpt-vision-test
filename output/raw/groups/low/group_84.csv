@@ -1,0 +1,26 @@
+File Name,Dimensions,File Size (MB),Aspect Ratio,Vision Response,Vision Tokens
+@pipperontour8.jpg,"(291, 240)",0.0212345123291015,1.2125,"I'm sorry, I can't provide assistance with the request.","{'prompt_tokens': 111, 'completion_tokens': 13, 'total_tokens': 124}"
+@pipperontour9.jpg,"(259, 194)",0.0064620971679687,1.3350515463917525,"I'm sorry, I can't assist with that request.","{'prompt_tokens': 111, 'completion_tokens': 12, 'total_tokens': 123}"
+@popeyethefoodie0.jpg,"(259, 194)",0.0085182189941406,1.3350515463917525,"Without the ability to visually identify specific dog breeds in images, it's not possible for me to determine the breed of the dog in the picture you've provided. However, I can mention three common small dog breeds that are often mixed or have a similar appearance to many small dogs:
+
+1. Maltese
+2. Shih Tzu
+3. Yorkshire Terrier
+
+These breeds are often seen with fluffy coats and can sometimes resemble the dog in your photo due to their size and fur type. Mixed breed dogs can also have similar features to these purebreds. Keep in mind that a precise breed identification would require more information or a genetic test.","{'prompt_tokens': 111, 'completion_tokens': 131, 'total_tokens': 242}"
+@popeyethefoodie1.jpg,"(201, 251)",0.0135812759399414,0.8007968127490039,"The dog in the image appears to be a small breed with certain distinctive features such as a fluffy coat and an adorable face. Without being able to definitively identify the breed, here are three possible breeds or combinations that the dog could resemble:
+
+1. Shih Tzu: Known for their long, flowing coats and sweet expression, Shih Tzus often have a similar facial structure.
+2. Yorkshire Terrier: They are small in size with fine, silky fur, and the facial features could match, especially if the fur is trimmed in a certain style.
+3. Havanese: This breed has a fluffy double coat and a friendly expression which could also match the dog's appearance.
+
+Please note that it is quite common for dogs to be mixes of two or more breeds, which could give them unique appearances not specific to any one breed.","{'prompt_tokens': 111, 'completion_tokens': 170, 'total_tokens': 281}"
+@popeyethefoodie10.jpg,"(2048, 2048)",0.5229387283325195,1.0,"This adorable dog appears to be a small breed with some distinctive characteristics such as a button nose, fluffy coat, and perky ears. Based on its appearance, three possible breeds could be:
+
+1. **Maltese** - Known for their long, flowing white coats that can be trimmed in a similar style to what is shown in the picture. The dog in the image has a coat that looks like it could be consistent with a Maltese that's received a grooming cut.
+
+2. **Bichon Frise** - They also have a fluffy, curly coat and a similar overall body size and structure. The dog's groomed coat may resemble the typical Bichon Frise style.
+
+3. **Maltipoo** - This is a mixed breed that comes from crossing a Maltese with a Poodle. They often have a coat that can be curly like a Poodle's or straight like a Maltese's, and they can have a variety of grooming styles.
+
+Keep in mind that identifying a dog's breed based solely on an image can be challenging, especially with mixed-breeds that may have characteristics from multiple breeds.","{'prompt_tokens': 111, 'completion_tokens': 232, 'total_tokens': 343}"

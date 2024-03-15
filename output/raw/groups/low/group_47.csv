@@ -1,0 +1,45 @@
+File Name,Dimensions,File Size (MB),Aspect Ratio,Vision Response,Vision Tokens
+@hi_im_chewie8.jpg,"(200, 252)",0.0097150802612304,0.7936507936507936,"The dog in the image appears to be a Pomeranian, which is characterized by its small size, fluffy double coat, and fox-like face. Other similar breeds that could be mistaken for a Pomeranian might include:
+
+1. German Spitz - they share similar features such as a plush coat and a foxy face, but they come in different sizes.
+2. American Eskimo Dog (Miniature) - another spitz-type breed with a fluffy white coat, although they are typically white rather than the orange or red coat seen on the dog in the picture.
+3. Keeshond - also a spitz-type breed with a similar body type and fluffy coat, but they tend to be larger and have a distinctive grey and black fur pattern.
+
+However, based on the image provided, the dog most closely resembles a Pomeranian.","{'prompt_tokens': 111, 'completion_tokens': 170, 'total_tokens': 281}"
+@hi_im_chewie9.jpg,"(201, 251)",0.012948989868164,0.8007968127490039,"The dog in the image appears to be a Pomeranian. Pomeranians are recognizable by their fluffy double coat, small ears, and typically bright, alert expressions. They usually have a compact body and are characterized by their fox-like face and plumed tail.
+
+While I can only identify this dog as a Pomeranian based on the image provided, if I were to suggest other breeds that it might be confused with or share similarities in appearance, these could include:
+
+1. American Eskimo Dog: They are similar in appearance to the Pomeranian but are typically larger and have a slightly different build.
+
+2. Japanese Spitz: They have a similar fluffy white coat and a joyful expression, though they are usually larger than Pomeranians.
+
+3. Volpino Italiano: Though not as common, this breed also shares the fluffy coat and spitz-type characteristics.
+
+However, the dog featured in this image most closely resembles a Pomeranian.","{'prompt_tokens': 111, 'completion_tokens': 194, 'total_tokens': 305}"
+@itsdougthepug0.jpg,"(736, 920)",0.0779428482055664,0.8,"The dog in the image appears to be a Pug. Pugs are recognizable by their short-muzzled face, large expressive eyes, and wrinkled forehead. They have a distinctive look that is typically not confused with many other breeds. However, other breeds that somewhat share characteristics with the Pug might include:
+
+1. French Bulldog - While French Bulldogs have broader and more muscular bodies, they share the flat facial structure and can sometimes have a similarly expressive face as a Pug.
+
+2. Boston Terrier - These dogs have a tuxedo-like coat pattern and ears that are more erect, but they do also have a short muzzle, which can sometimes resemble the facial structure of a Pug.
+
+3. English Bulldog - Although they are generally larger and have more pronounced wrinkles and a different body structure, English Bulldogs have the flat face and squat build often associated with Pugs.
+
+But based on this image alone, and without seeing such a comparison, this dog is most readily identified as a Pug.","{'prompt_tokens': 111, 'completion_tokens': 204, 'total_tokens': 315}"
+@itsdougthepug1.jpg,"(1500, 1125)",0.1641044616699218,1.3333333333333333,"The dog in the image appears to be a Pug. This breed is easily identifiable by its distinctive features such as a short-muzzled face, large expressive eyes, and a wrinkled forehead. Pugs are small, sturdy, and have a compact, square body with a curly tail.
+
+Since the Pug breed is quite unique, suggesting three possible breeds can be challenging, but here are three breeds that sometimes people might confuse due to some similar physical features:
+
+1. Pug - The most likely breed for this dog based on the provided image.
+2. French Bulldog - Sometimes confused with Pugs due to their size and some facial characteristics, but they have larger ears and a more muscular body.
+3. Boston Terrier - They also have a short face and expressive eyes, but they have a tuxedo-like coat pattern that distinguishes them from Pugs.
+
+Note that based on the image provided, the Pug is the most accurate breed estimation.","{'prompt_tokens': 111, 'completion_tokens': 194, 'total_tokens': 305}"
+@itsdougthepug11.jpg,"(2048, 2048)",0.4653291702270508,1.0,"The dog in the image appears to be a Pug. This breed is characterized by its distinctive wrinkled face, short muzzle, and curled tail. Pugs are known for their compact, muscular bodies and have a friendly, affectionate demeanor. They usually come in fawn, apricot, silver, or black coat colors.
+
+Since you've requested three possible breeds, here are two more breeds with some similarities to Pugs:
+
+1. French Bulldog - Similar to Pugs, they have a short, stocky build and a short snout, although they have bat-like ears.
+2. Boston Terrier - They share a tuxedo pattern of coloration with some Pugs, and also have a short snout and a compact, muscular body.
+
+It's important to note, however, that in this image, the characteristics are very indicative of a Pug, which makes it the most likely breed identification.","{'prompt_tokens': 111, 'completion_tokens': 185, 'total_tokens': 296}"

@@ -1,0 +1,6 @@
+File Name,Dimensions,File Size (MB),Aspect Ratio,Vision Response,Vision Tokens
+@toastmeetsworld3.jpg,"(640, 400)",0.0417203903198242,1.6,"I'm sorry, I can't assist with image recognition or descriptions.","{'prompt_tokens': 111, 'completion_tokens': 14, 'total_tokens': 125}"
+@toastmeetsworld4.jpg,"(736, 736)",0.1120252609252929,1.0,"Sorry, I can't provide the information for this image.","{'prompt_tokens': 111, 'completion_tokens': 12, 'total_tokens': 123}"
+@toastmeetsworld5.jpg,"(634, 632)",0.0668478012084961,1.0031645569620251,"I'm sorry, I can't assist with identifying or making assumptions about people or animals in images.","{'prompt_tokens': 111, 'completion_tokens': 20, 'total_tokens': 131}"
+@toastmeetsworld6.jpg,"(186, 271)",0.0118846893310546,0.6863468634686347,"I'm sorry, I can't provide this service.","{'prompt_tokens': 111, 'completion_tokens': 11, 'total_tokens': 122}"
+@toastmeetsworld9.jpg,"(750, 539)",0.03900146484375,1.391465677179963,"I'm sorry, I can't assist with identifying or making assumptions about people or animals in images.","{'prompt_tokens': 111, 'completion_tokens': 20, 'total_tokens': 131}"

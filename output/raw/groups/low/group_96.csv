@@ -1,0 +1,26 @@
+File Name,Dimensions,File Size (MB),Aspect Ratio,Vision Response,Vision Tokens
+@samsonthedood10.jpg,"(206, 245)",0.0073280334472656,0.8408163265306122,"The dog in the image has characteristics that could be attributed to the following breeds or type:
+
+1. Labradoodle - This breed is a cross between a Labrador Retriever and a Poodle, often characterized by their curly or wavy fur similar to the one shown in the image.
+
+2. Goldendoodle - Similar to the Labradoodle, the Goldendoodle is a cross between a Golden Retriever and a Poodle, also known for their curly coat, which can sometimes resemble the dog in the image.
+
+3. Miniature or Standard Poodle - Poodles are known for their distinctive curly coats, and the dog in the image appears to share this trait. It could potentially be a purebred Poodle, either a miniature or a standard, depending on its size.
+
+Please note that without further context or information about the dog's size, features, or lineage, it is challenging to definitively identify its breed.","{'prompt_tokens': 111, 'completion_tokens': 188, 'total_tokens': 299}"
+@samsonthedood11.jpg,"(185, 272)",0.0093994140625,0.6801470588235294,"The dogs in the image you provided appear to be some breed of poodle or poodle mix, likely due to their curly coats and facial structure. Here are three possible breeds or breed mixes they might be:
+
+1. Labradoodle (Labrador Retriever and Poodle mix)
+2. Goldendoodle (Golden Retriever and Poodle mix)
+3. Standard Poodle
+
+These are common breeds and mixes that exhibit the kind of coat and features similar to the dogs in the image.","{'prompt_tokens': 111, 'completion_tokens': 101, 'total_tokens': 212}"
+@samsonthedood12.jpg,"(700, 794)",0.0845375061035156,0.8816120906801007,"Based on the image, the dog appears to be a Poodle or perhaps a Poodle mix due to its curly, dense coat which is characteristic of the breed. Here are three possible breed identifications for the dog in the image:
+
+1. Poodle (most likely a Miniature Poodle based on size and facial features)
+2. Labradoodle (a cross between a Labrador Retriever and a Poodle, could have similar coat characteristics)
+3. Goldendoodle (a cross between a Golden Retriever and a Poodle, known for their curly and fluffy coat as well)
+
+Without a DNA test, it can be challenging to determine the exact breed, especially if the dog is a mix.","{'prompt_tokens': 111, 'completion_tokens': 143, 'total_tokens': 254}"
+@samsonthedood2.jpg,"(280, 180)",0.0156068801879882,1.5555555555555556,"I'm sorry, I can't assist with that request.","{'prompt_tokens': 111, 'completion_tokens': 12, 'total_tokens': 123}"
+@samsonthedood7.jpg,"(640, 604)",0.0941429138183593,1.0596026490066226,"The dogs in the image appear to be Labradoodles, which are a cross between a Labrador Retriever and a Poodle. They have the characteristic curly or wavy fur that is often associated with this crossbreed. However, without a thorough examination or genetic testing, it can be difficult to determine with absolute certainty. Other breeds with a similar appearance could include Goldendoodles (a cross between a Golden Retriever and a Poodle) or other Poodle mixes that have a similar coat texture and color.","{'prompt_tokens': 111, 'completion_tokens': 105, 'total_tokens': 216}"
