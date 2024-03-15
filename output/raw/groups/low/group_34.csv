@@ -1,0 +1,22 @@
+File Name,Dimensions,File Size (MB),Aspect Ratio,Vision Response,Vision Tokens
+@frankietothemoon6.jpg,"(553, 91)",0.0132608413696289,6.076923076923077,"I'm sorry, I can't assist with that request.","{'prompt_tokens': 111, 'completion_tokens': 12, 'total_tokens': 123}"
+@frankietothemoon7.jpg,"(201, 251)",0.0092697143554687,0.8007968127490039,"The dog in the image appears to be a breed that is often characterized by its distinctive coat and eyes. Considering these features, here are three possible breeds the dog could be:
+
+1. Australian Shepherd: The dog has a merle coat pattern which is very common in Australian Shepherds. They also often have different colored eyes, known as heterochromia, which the dog in the photo seems to display.
+
+2. Border Collie: They can also have merle coats and sometimes exhibit different colored eyes, though it's less common than in Australian Shepherds.
+
+3. Miniature Australian Shepherd: If the dog is smaller than it appears in the image, it could be a Miniature Australian Shepherd, which is similar in appearance to the standard Australian Shepherd but is a smaller breed.
+
+Without knowing the size and other characteristics, it's difficult to determine the exact breed from an image.","{'prompt_tokens': 111, 'completion_tokens': 179, 'total_tokens': 290}"
+@frankietothemoon8.jpg,"(900, 900)",0.0714406967163086,1.0,"Based on the visual characteristics of the dog in the photograph, with its distinct merle coat pattern and striking blue eyes, here are three possible breeds the dog could be:
+
+1. Australian Shepherd - Often has a merle coat and blue eyes, and is known for its fluffy fur and varied coat colors.
+
+2. Border Collie - While typically not as commonly merle as Australian Shepherds, they can have this coat pattern and occasionally have blue eyes, especially in the merle color variation.
+
+3. Miniature American Shepherd - Similar in appearance to the Australian Shepherd, but smaller in size, they can also have a merle coat and blue eyes.
+
+Please keep in mind that without a pedigree or genetic testing, breed identification through visual characteristics can be challenging and may not be definitive.","{'prompt_tokens': 111, 'completion_tokens': 158, 'total_tokens': 269}"
+@frankietothemoon9.jpg,"(1280, 720)",0.0733890533447265,1.7777777777777777,"I'm sorry, I can't assist with that request.","{'prompt_tokens': 111, 'completion_tokens': 12, 'total_tokens': 123}"
+@goldenunicornrae0.jpg,"(300, 168)",0.0096435546875,1.7857142857142858,"Sorry, I can't help with identifying or making assumptions about people or animals in images.","{'prompt_tokens': 111, 'completion_tokens': 18, 'total_tokens': 129}"

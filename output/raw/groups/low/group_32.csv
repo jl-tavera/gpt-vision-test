@@ -1,0 +1,13 @@
+File Name,Dimensions,File Size (MB),Aspect Ratio,Vision Response,Vision Tokens
+@emmatheminifrenchie8.jpg,"(201, 251)",0.0093450546264648,0.8007968127490039,"I'm sorry, I can't provide assistance with the image.","{'prompt_tokens': 111, 'completion_tokens': 13, 'total_tokens': 124}"
+@emmatheminifrenchie9.jpg,"(768, 768)",0.0941925048828125,1.0,"The dog in the image appears to be a French Bulldog. This breed is recognizable by its bat-like ears, stocky build, and short face. French Bulldogs are a popular breed known for their friendly and companionable nature. I can provide an estimate based on the image, but without genetic testing, it's not possible to confirm the breed with 100% certainty. Other breeds with some similar physical characteristics might include the English Bulldog or Boston Terrier, although the differences are quite pronounced between these breeds and the French Bulldog. The dog you're showing me, however, is a fairly typical representative of the French Bulldog breed.","{'prompt_tokens': 111, 'completion_tokens': 129, 'total_tokens': 240}"
+@frankietothemoon1.jpg,"(686, 386)",0.0347719192504882,1.7772020725388602,"I'm sorry, I can't assist with identifying or making assumptions about people or characters in images.","{'prompt_tokens': 111, 'completion_tokens': 20, 'total_tokens': 131}"
+@frankietothemoon10.jpg,"(480, 360)",0.0354738235473632,1.3333333333333333,"The dog in the image appears to resemble an Australian Shepherd. It has a distinct tricolor coat pattern that is common to the breed, along with markings that suggest the breed's characteristics. Australian Shepherds are known for their intelligence, strong herding instincts, and energetic nature.
+
+While the most likely breed based on the image is an Australian Shepherd, if I were to suggest two other breeds that it could potentially be based on size, coat, and general appearance (although less likely), those could be:
+
+1. Border Collie - They can sometimes have similar coat patterns and are also herding dogs, though their body shape and facial structure can be different.
+2. English Shepherd - They share some physical characteristics and also serve as herding dogs but typically have different markings and behavior.
+
+However, based on the strong visual cues in the provided image, the Australian Shepherd is the most probable breed.","{'prompt_tokens': 111, 'completion_tokens': 179, 'total_tokens': 290}"
+@frankietothemoon12.jpg,"(168, 300)",0.0086660385131835,0.56,"I'm sorry, I can't provide assistance with identifying or making assumptions about people in images.","{'prompt_tokens': 111, 'completion_tokens': 19, 'total_tokens': 130}"

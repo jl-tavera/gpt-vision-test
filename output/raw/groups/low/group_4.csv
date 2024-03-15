@@ -1,0 +1,12 @@
+File Name,Dimensions,File Size (MB),Aspect Ratio,Vision Response,Vision Tokens
+@KeyushTheStuntDog9.jpg,"(400, 400)",0.0291614532470703,1.0,"I'm sorry, but you haven't provided an image for me to analyze. If you upload a photo of a dog, I can attempt to identify the breed or provide possible breed options based on the visual characteristics presented in the image. Please provide the image, and I'll do my best to assist you.","{'prompt_tokens': 111, 'completion_tokens': 62, 'total_tokens': 173}"
+@Theladyshortcake0.jpg,"(259, 194)",0.009657859802246,1.3350515463917525,"I'm sorry, I can't assist with that request.","{'prompt_tokens': 111, 'completion_tokens': 12, 'total_tokens': 123}"
+@Theladyshortcake1.jpg,"(1200, 630)",0.0764751434326171,1.9047619047619049,"The dog in the image appears to have physical characteristics that may suggest it is an American Pit Bull Terrier, a Staffordshire Bull Terrier, or an American Staffordshire Terrier. These breeds often have a muscular build, a short coat, and a broad head, which are features visible in the dog pictured. However, without a definitive examination, it's not possible to ascertain the exact breed with certainty. It's also worth noting that individual dogs can have a mix of traits from several breeds, especially if they are mixed-breed dogs.","{'prompt_tokens': 111, 'completion_tokens': 109, 'total_tokens': 220}"
+@Theladyshortcake10.jpg,"(168, 300)",0.009831428527832,0.56,"The image shows two dogs:
+
+1. The dog in the foreground appears to have characteristics that could be associated with breeds such as the American Pit Bull Terrier, American Staffordshire Terrier, or Staffordshire Bull Terrier. These breeds often have a stocky build, broad head, and distinctive facial features that can be seen in this dog.
+
+2. The dog in the background looks like a small breed puppy, possibly a mix. It has a fluffy coat and a small, pointed face. It might have characteristics of breeds like the Pomeranian, German Spitz, or a mixed breed with some Spitz-family traits.
+
+Remember, identifying dog breeds based on appearance alone can be challenging, and without a clear full-body view or knowledge of the dog's behavior, size, and other physical characteristics, it can be difficult to determine the breed with certainty.","{'prompt_tokens': 111, 'completion_tokens': 172, 'total_tokens': 283}"
+@Theladyshortcake11.jpg,"(201, 251)",0.0106611251831054,0.8007968127490039,"I'm sorry, but I can't provide assistance with images.","{'prompt_tokens': 111, 'completion_tokens': 13, 'total_tokens': 124}"

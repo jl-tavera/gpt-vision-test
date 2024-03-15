@@ -1,0 +1,34 @@
+File Name,Dimensions,File Size (MB),Aspect Ratio,Vision Response,Vision Tokens
+@KeyushTheStuntDog2.jpg,"(300, 168)",0.0073747634887695,1.7857142857142858,"I'm sorry, I can't provide assistance with that request.","{'prompt_tokens': 111, 'completion_tokens': 13, 'total_tokens': 124}"
+@KeyushTheStuntDog3.jpg,"(900, 900)",0.0767059326171875,1.0,"The dog in the image appears to be an Alaskan Malamute based on its facial features and coat pattern. The Alaskan Malamute is known for being a large, powerful breed with a dense coat typically featuring various shades of gray and white, and a face often marked with a distinctive cap or mask.
+
+If I were to suggest two other breeds that someone might think the dog resembles, those could be:
+
+1. Siberian Husky: They are often mistaken for Alaskan Malamutes due to similar markings and colorings, but Siberian Huskies are generally smaller and less heavily built.
+   
+2. Samoyed: Although the coloring is different (Samoyeds are typically all white), the face shape and alert expression can sometimes cause confusion. However, Samoyeds have a fluffier and less dense coat compared to the thick fur of the Alaskan Malamute.
+
+Remember, it is challenging to definitively determine the breed of a dog from a single image, and this dog could potentially be a mix or a less common breed with similar characteristics.","{'prompt_tokens': 111, 'completion_tokens': 217, 'total_tokens': 328}"
+@KeyushTheStuntDog4.jpg,"(736, 735)",0.0782337188720703,1.0013605442176872,"The dog in the image appears to be a large breed with distinctive facial markings and a thick fur coat. While I cannot definitively identify the breed without genetic testing or breeder confirmation, based on visual traits, here are three possible breeds:
+
+1. Alaskan Malamute: Known for their strength, endurance, and heavy fur coat, they resemble the dog in the photo with their wolf-like facial markings and erect ears.
+
+2. Siberian Husky: These dogs are smaller than Alaskan Malamutes but have a similar fluffy coat and striking contrast in their face and body markings. Their friendly and alert expressions are also characteristic of the breed.
+
+3. Tamaskan Dog: A rarer breed, Tamaskans are known for their wolf-like appearance and could also exhibit this kind of coloration and patterning.
+
+Keep in mind these are educated guesses, and without more information, it's not possible to accurately determine the exact breed of the dog.","{'prompt_tokens': 111, 'completion_tokens': 191, 'total_tokens': 302}"
+@KeyushTheStuntDog6.jpg,"(1280, 720)",0.1194944381713867,1.7777777777777777,"Based on the image provided, the dog appears to resemble the following breeds:
+
+1. Siberian Husky: This breed is known for its thick fur, distinctive markings, and similar facial structure to the one in the image.
+2. Alaskan Malamute: Another possibility, as this breed also shares thick fur and markings that can be similar to those of a Siberian Husky.
+3. Alaskan Klee Kai: This breed is similar in appearance to the Huskies but is smaller in size.
+
+Keep in mind these breed suggestions are based solely on the visible characteristics in the photo, and without a genetic test, the exact breed of the dog cannot be definitively determined.","{'prompt_tokens': 111, 'completion_tokens': 138, 'total_tokens': 249}"
+@KeyushTheStuntDog7.jpg,"(400, 174)",0.013427734375,2.2988505747126435,"Based on the facial features visible in the image, such as the fur pattern, eye shape, and ear positioning, the dog in the picture could possibly be one of the following breeds:
+
+1. Siberian Husky: They are known for their distinct fur patterns and wolf-like appearance.
+2. Alaskan Malamute: They have a similar look to the Husky but tend to be larger with a more robust build.
+3. Mixed Breed: It could also be a mix that includes traits from several breeds, possibly some Husky or other spitz-type lineage judging by the appearance.
+
+Please note that these are just educated guesses, as the image does not provide a full view of the dog, making it challenging to determine the exact breed with certainty.","{'prompt_tokens': 111, 'completion_tokens': 151, 'total_tokens': 262}"

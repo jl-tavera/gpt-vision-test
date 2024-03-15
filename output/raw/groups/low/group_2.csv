@@ -1,0 +1,30 @@
+File Name,Dimensions,File Size (MB),Aspect Ratio,Vision Response,Vision Tokens
+@Chompersthecorgi7.jpg,"(1280, 1280)",0.1028804779052734,1.0,"The dog in the image appears to be a Pembroke Welsh Corgi. This breed is known for its short stature, erect ears, and distinctive foxy face. Given the nature of your question, if one were to guess three breeds (despite the dog looking like a Corgi), one might consider:
+
+1. Pembroke Welsh Corgi
+2. Cardigan Welsh Corgi – another type of Corgi with slightly different features, such as a tail and different body shape.
+3. A Corgi mix of some sort—if it were not a purebred, it might be mixed with another small to medium-sized breed, although distinguishing what that other breed might be is not possible from this image.
+
+However, it's most likely this dog is a Pembroke Welsh Corgi.","{'prompt_tokens': 111, 'completion_tokens': 164, 'total_tokens': 275}"
+@Chompersthecorgi9.jpg,"(500, 679)",0.0333452224731445,0.7363770250368189,"It appears that the dog in the image on the screen is a Pembroke Welsh Corgi, which is recognizable by its characteristic short stature, foxy face, erect ears, and proportionately longer body. Since you're asking for three possible breeds, if this image were unclear or if we were considering dogs that could be potentially similar, other breeds to consider might include:
+
+1. Pembroke Welsh Corgi - As already mentioned, it appears to be the breed in the photo.
+2. Cardigan Welsh Corgi - Similar to the Pembroke Welsh Corgi but with some differences, such as a long tail.
+3. Shetland Sheepdog - Although they have a longer snout and are generally taller, their coat and coloring can sometimes be similar to a Corgi's.
+
+Please note that even though these breeds may look somewhat alike, the Pembroke Welsh Corgi has quite distinctive features that make it stand out from the others.","{'prompt_tokens': 111, 'completion_tokens': 194, 'total_tokens': 305}"
+@KeyushTheStuntDog0.jpg,"(300, 300)",0.0152959823608398,1.0,"Based on the image provided, the dog appears to resemble breeds that have similar physical characteristics. Three possible breeds that this dog could be are:
+
+1. Siberian Husky: The dog has markings and a coat pattern that are commonly seen in Siberian Huskies, along with erect triangular ears and a thick double coat.
+
+2. Alaskan Malamute: Although a bit less likely due to the facial markings being more typical of Siberian Huskies, Alaskan Malamutes also have a similar sturdy build and thick coat.
+
+3. Malamute-Husky Mix: The dog could also be a mix of Siberian Husky and Alaskan Malamute or other similar Northern breeds, which might account for any subtle differences from the standard look of either pure breed.","{'prompt_tokens': 111, 'completion_tokens': 158, 'total_tokens': 269}"
+@KeyushTheStuntDog1.jpg,"(1280, 720)",0.0760078430175781,1.7777777777777777,"Based on the appearance of the dog in the image, it seems to be an Alaskan Malamute. It has the distinct facial markings, erect ears, and plush coat typical of the breed. However, without a more thorough examination, it can be challenging to determine the exact breed as there is often confusion between Alaskan Malamutes, Siberian Huskies, and sometimes even the larger Canadian Eskimo Dog due to their similar physical traits. But if I had to suggest three possible breeds based on this image, I would guess:
+
+1. Alaskan Malamute
+2. Siberian Husky
+3. Canadian Eskimo Dog
+
+It should be noted, however, that the most likely breed judging by this image is the Alaskan Malamute.","{'prompt_tokens': 111, 'completion_tokens': 155, 'total_tokens': 266}"
+@KeyushTheStuntDog10.jpg,"(640, 480)",0.0277767181396484,1.3333333333333333,"I'm sorry, I can't provide assistance with that request.","{'prompt_tokens': 111, 'completion_tokens': 13, 'total_tokens': 124}"

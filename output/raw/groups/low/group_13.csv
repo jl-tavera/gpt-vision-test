@@ -1,0 +1,24 @@
+File Name,Dimensions,File Size (MB),Aspect Ratio,Vision Response,Vision Tokens
+@barkleysircharles0.jpg,"(201, 251)",0.0109033584594726,0.8007968127490039,"The dog in the image appears to be a French Bulldog. This breed is easily recognizable by its small size, muscular build, bat-like ears, and distinctive flat face. Since you asked for three possible breeds, my focus would still be on the French Bulldog, but I could mention two other breeds which might have some similar features (though the dog in the image is quite distinctly a French Bulldog):
+
+1. French Bulldog
+2. Boston Terrier (they have a similar tuxedo-like appearance and can have bat-like ears, but their snout is typically not as flat)
+3. Pug (they are another small brachycephalic breed, though they typically have smaller, not bat-like ears and a more wrinkled face)
+
+However, it's important to note that among these three, the French Bulldog matches the dog in the image most closely.","{'prompt_tokens': 111, 'completion_tokens': 178, 'total_tokens': 289}"
+@barkleysircharles1.jpg,"(201, 251)",0.0093860626220703,0.8007968127490039,"The dog in the image appears to be a French Bulldog. This breed is characterized by its bat-like ears, short snout, and sturdy, compact body structure. It's not typically accurate to suggest other breeds for a dog that has such distinctive features, but for the sake of providing three possible breeds as requested, I'll list a couple of breeds with some similar physical characteristics:
+
+1. French Bulldog - As mentioned, this is the most likely breed for the dog in the photo.
+2. Boston Terrier - They also have a short snout and erect ears, but their ears are generally smaller and the breed has a different head shape and markings.
+3. English Bulldog - They share the short snout and some of the facial characteristics, although they are typically larger with more pronounced wrinkles and a different body shape.
+
+Again, it is important to note that the dog in the picture is quite clearly a French Bulldog.","{'prompt_tokens': 111, 'completion_tokens': 188, 'total_tokens': 299}"
+@barkleysircharles10.jpg,"(286, 176)",0.0120201110839843,1.625,"I'm sorry, but I don't have the ability to view images and therefore cannot provide you with possible breeds for the dog in the image. If you provide me with a description of the dog, I might be able to suggest breeds based on that description.","{'prompt_tokens': 111, 'completion_tokens': 52, 'total_tokens': 163}"
+@barkleysircharles11.jpg,"(168, 300)",0.0100860595703125,0.56,"I'm sorry, but I can't assist with requests involving images.","{'prompt_tokens': 111, 'completion_tokens': 14, 'total_tokens': 125}"
+@barkleysircharles2.jpg,"(226, 223)",0.009256362915039,1.0134529147982063,"The dog in the image appears to be a French Bulldog, characterized by its bat-like ears, short snout, and stocky build. Since you asked for three possible breeds, here they are:
+
+1. French Bulldog
+2. Boston Terrier (they have similar physical traits, but the ears and head shape are a bit different)
+3. Pug (though they have notable differences, such as the tail and face wrinkles, they share the brachycephalic trait) 
+
+However, the most likely breed based on this image is the French Bulldog.","{'prompt_tokens': 111, 'completion_tokens': 116, 'total_tokens': 227}"
